@@ -1,17 +1,23 @@
 <!doctype html>
-<html>
+<html lang="{{ site.lang }}">
 
 {% include head.html %}
 
 <body>
 
-<div class="container">
-  {% include header.html %}
-  <div class="posts-wrapper">
-    {{ content }}
+  <div class="container">
+    {% include header.html %}
+    <div class="posts-wrapper">
+      <section id="{% t main.welcomeSection.anchor%}">
+        <div>
+          <h2>{% t main.welcomeSection.heading %}</h2>
+          <p>{% t main.welcomeSection.p1 %}</p>
+        </div>
+      </section>
+      {{ content }}
+    </div>
+    {% include footer.html %}
   </div>
-  {% include footer.html %}
-</div>
 
 </body>
 </html>

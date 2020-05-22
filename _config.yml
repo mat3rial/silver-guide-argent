@@ -5,18 +5,25 @@ paginate:            5
 
 # Build settings
 markdown:            kramdown
-highlighter:         rouge
+highlighter:         true
 permalink:           none
-plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag, jekyll-multiple-languages-plugin]
 
 sass:
   sass_dir: assets/css
   style: :nested
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
+title:		           "ARCA"
 description:	       "a Jekyll theme for running a blog or publication"
 author:              "Paul Le"
+
+languages: ["en", "fr"]
+exclude_from_localizations: ["assets", "CNAME"]
+defaultLang: en
+languageNames:
+  en: English
+  fr: French
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
