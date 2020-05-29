@@ -7,15 +7,7 @@
 
   <div class="container">
     {% include header.html %}
-    <div class="posts-wrapper">
-      <section id="{% t main.welcomeSection.anchor%}">
-        <div>
-          <h2>{% t main.welcomeSection.heading %}</h2>
-          <p>{% t main.welcomeSection.p1 %}</p>
-        </div>
-      </section>
-      {{ content }}
-    </div>
+    {{ content }}
     {% include footer.html %}
   </div>
 
