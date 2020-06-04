@@ -3,6 +3,8 @@
 # jekyll-paginate configuration
 paginate:            5
 
+url:                 'https://mat3rial.github.io/'
+baseurl:             '/ARCA'
 # Build settings
 markdown:            kramdown
 highlighter:         true
