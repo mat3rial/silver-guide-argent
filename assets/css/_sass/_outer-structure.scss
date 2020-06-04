@@ -1,16 +1,20 @@
 .outer-wrapper {
   width: 96%;
+  min-height: 93vh;
   position: absolute;
   padding: 2%;
   margin-left: auto;
   margin-right: auto;
   max-width: 1400px;
+  display: grid;
+  grid-template-rows: auto 120px;
   #main-content {
     position:relative;
 
     .body-wrapper {
       width: 100%;
-      min-height: calc(100vh - 230px);
+      height: 100%;
+      // min-height: calc(100vh - 230px);
       display: grid;
       grid-template-columns: 33.3% auto;
       border-left: 1px solid black;
@@ -35,6 +39,7 @@
       display: flex;
       align-items: center;
       justify-content: center;
+      height: 120px;
       img {
         max-width: 90%;
         max-height: 70%;
