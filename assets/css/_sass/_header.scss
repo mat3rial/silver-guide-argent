@@ -1,10 +1,11 @@
 .site-header {
   min-height: 56px;
-  width: $container-width;
-  position: fixed;
+  width: 100%;
+  position: relative;
   background-color: white;
-  box-shadow: 0 5px 6px -6px #bbb;
+  // box-shadow: 0 5px 6px -6px #bbb;
   z-index: 100;
+  border: 1px solid black;
 }
 @media (max-width: $container-width) {
   .site-header {

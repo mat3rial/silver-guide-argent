@@ -4,13 +4,38 @@
   {% include head.html %}
   <body>
 
-    <div class="container">
+    <div class="outer-wrapper">
+      <div id="main-content">
         {% include header.html %}
-        <div class="lang-select posts-wrapper">
-          {{ content }}
-          <p>{{ page.path }}</p>
-          <p>{{ page.url }}</p>
+        <div class="body-wrapper home">
+          <div class="column-one">
+
+          </div>
+          <div class="column-two">
+            {{ content }}
+            <p>{{ page.path }}</p>
+            <p>{{ page.url }}</p>
+          </div>
         </div>
+      </div>
+      <div id="footer-wrapper">
+        <div>
+          <img class="arca-image" src="{{ site.url }}/assets/img/arca_logo.png"/>
+          <div>
+            <span>&copy; 2020, Artist-Run Centres and</span>
+            <span>Collectives Conference \</span>
+            <span>Conférence des collectifs et des</span>
+            <span>centres d'artistes autogérés</span>
+          </div>
+        </div>
+        <div>
+          <img src="{{ site.url }}/assets/img/CCA_RGB_black_e.png"/>
+        </div>
+        <div>
+          <img src="{{ site.url }}/assets/img/2li_EnFr_Wordmark_C.png"/>
+        </div>
+      </div>
+
         {% include footer.html %}
     </div>
   </body>
