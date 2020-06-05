@@ -1,16 +1,18 @@
 <header class="site-header">
-  <h3 class="site-title">
+  <!-- <h3 class="site-title">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
-  </h3>
+  </h3> -->
   <nav class="menu-list">
     {% if page.url contains "/en/" %}
       {% for item in site.data.settings.menu.en %}
         <a href="#" class="menu-link">{{ item.name }}</a>
       {% endfor %}
+      <a href="{{ site.baseurl }}/fr" class="menu-link">fr</a>
     {% elsif page.url contains "/fr/" %}
       {% for item in site.data.settings.menu.fr %}
         <a href="#" class="menu-link">{{ item.name }}</a>
       {% endfor %}
+      <a href="{{ site.baseurl }}/en" class="menu-link">en</a>
     {% endif %}
   </nav>
   <div class="dropdown">
@@ -21,11 +23,11 @@
       {% endfor %}
     </div>
   </div>
-  <div class="lang-switcher">
+  <!-- <div class="lang-switcher">
     {% if page.url == "/en/" %}
       <a href="{{ site.baseurl }}/fr">fr</a>
     {% elsif page.url == "/fr/" %}
       <a href="{{ site.baseurl }}/en">en</a>
     {% endif %}
-  </div>
+  </div> -->
 </header>

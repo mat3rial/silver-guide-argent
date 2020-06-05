@@ -1,9 +1,13 @@
 menu:
   en:
-    - {name: 'One', folder: 'en', file: 'facts.html'}
-    - {name: 'Two', folder: 'en', file: 'facts.html'}
-    - {name: 'Three', folder: 'en', file: 'facts.html'}
+    - {name: 'about', folder: 'en', file: 'facts.html'}
+    - {name: 'guide', folder: 'en', file: 'facts.html'}
+    - {name: 'toolbox', folder: 'en', file: 'facts.html'}
+    - {name: 'connections', folder: 'en', file: 'facts.html'}
+    - {name: 'credits', folder: 'en', file: 'facts.html'}
   fr:
-    - {name: 'Un', folder: 'fr', file: 'facts.html'}
-    - {name: 'Deux', folder: 'fr', file: 'facts.html'}
-    - {name: 'Trois', folder: 'fr', file: 'facts.html'}
+    - {name: 'à propos', folder: 'fr', file: 'facts.html'}
+    - {name: 'guide', folder: 'fr', file: 'facts.html'}
+    - {name: 'boîte à outils', folder: 'fr', file: 'facts.html'}
+    - {name: 'liens', folder: 'fr', file: 'facts.html'}
+    - {name: 'crédits', folder: 'fr', file: 'facts.html'}
