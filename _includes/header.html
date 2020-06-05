@@ -16,11 +16,22 @@
     {% endif %}
   </nav>
   <div class="dropdown">
+    {% if page.url contains "/en/" %}
+      <a href="{{ site.baseurl }}/fr">fr</a>
+    {% elsif page.url contains "/fr/" %}
+      <a href="{{ site.baseurl }}/en">en</a>
+    {% endif %}
     <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
     <div class="dropdown-content">
-      {% for item in site.data.settings.menu %}
-        <a href="{{ site.github.url }}/pages/{{ item.file }}" class="menu-link">{{ item.name }}</a>
-      {% endfor %}
+      {% if page.url contains "/en/" %}
+        {% for item in site.data.settings.menu.en %}
+          <a href="github.com" class="menu-link">{{ item.name }}</a>
+        {% endfor %}
+      {% elsif page.url contains "/fr/" %}
+        {% for item in site.data.settings.menu.fr %}
+          <a href="#" class="menu-link">{{ item.name }}</a>
+        {% endfor %}
+      {% endif %}
     </div>
   </div>
   <!-- <div class="lang-switcher">

@@ -11,23 +11,29 @@ body {
   margin-right: auto;
   max-width: 1400px;
   display: grid;
-  grid-template-rows: auto 120px;
+  grid-template-rows: auto 100px;
   #main-content {
     position:relative;
 
     .body-wrapper {
       width: 100%;
-      height: 100%;
+      height: calc(100% - 53px);
       // min-height: calc(100vh - 230px);
       display: grid;
-      grid-template-columns: 33.3% auto;
+      grid-template-columns: 33.33% auto;
       border-left: 1px solid black;
       border-right: 1px solid black;
       > div {
         padding: 20px;
       }
       .column-one {
-        font-family: "GeometricBlack";
+        .home-title {
+          font-family: "GeometricBlack";
+          font-size: 2.8rem;
+        }
+        // .home-subtitle {
+        //   font-family: "Geometric";
+        // }
         .home-title, .home-subtitle {
           color: $site-red;
         }
@@ -42,29 +48,58 @@ body {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(3, 33.33%);
-    height: 120px;
+    height: 100px;
     border: 1px solid black;
-    > div:not(:last-child) {
-      border-right: 1px solid black;
+    > div:not(:first-child) {
+      border-left: 1px solid black;
     }
     > div {
       position: relative;
       display: flex;
       align-items: center;
       justify-content: center;
-      height: 120px;
+      height: 100px;
       img {
         max-width: 90%;
-        max-height: 70%;
+        max-height: 60%;
         &.arca-image {
           max-width: 35%;
         }
       }
       > div {
         margin-left: 20px;
+        font-size: 0.5rem;
         > span {
           display: block;
         }
+      }
+    }
+  }
+}
+
+@media (min-width: 767px) {
+
+}
+@media (max-width: 767px) {
+  .outer-wrapper {
+    grid-template-rows: auto 300px;
+    #main-content {
+      .body-wrapper {
+        grid-template-columns: auto;
+        grid-auto-rows: max-content;
+        .column-two {
+          border-left: none;
+          border-top: 1px solid black;
+        }
+      }
+    }
+    #footer-wrapper {
+      grid-template-columns: auto;
+      grid-auto-rows: auto;
+      height: auto;
+      > div:not(:first-child) {
+        border-left: none;
+        border-top: 1px solid black;
       }
     }
   }
