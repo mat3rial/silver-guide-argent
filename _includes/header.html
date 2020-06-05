@@ -17,9 +17,9 @@
   </nav>
   <div class="dropdown">
     {% if page.url contains "/en/" %}
-      <a href="{{ site.baseurl }}/fr">fr</a>
+      <a class="lang-switch" href="{{ site.baseurl }}/fr">fr</a>
     {% elsif page.url contains "/fr/" %}
-      <a href="{{ site.baseurl }}/en">en</a>
+      <a class="lang-switch" href="{{ site.baseurl }}/en">en</a>
     {% endif %}
     <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
     <div class="dropdown-content">
