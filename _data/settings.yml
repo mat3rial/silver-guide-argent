@@ -1,13 +1,13 @@
 menu:
   en:
-    - {name: 'about', folder: 'en', file: 'facts.html'}
-    - {name: 'guide', folder: 'en', file: 'facts.html'}
-    - {name: 'toolbox', folder: 'en', file: 'facts.html'}
-    - {name: 'connections', folder: 'en', file: 'facts.html'}
-    - {name: 'credits', folder: 'en', file: 'facts.html'}
+    - {name: 'about', url: 'about', folder: 'en', file: 'facts.html'}
+    - {name: 'guide', url: 'guide', folder: 'en', file: 'facts.html'}
+    - {name: 'toolbox', url: 'toolbox', folder: 'en', file: 'facts.html'}
+    - {name: 'connections', url: 'connections', folder: 'en', file: 'facts.html'}
+    - {name: 'credits', url: 'credits', folder: 'en', file: 'facts.html'}
   fr:
-    - {name: 'à propos', folder: 'fr', file: 'facts.html'}
-    - {name: 'guide', folder: 'fr', file: 'facts.html'}
-    - {name: 'boîte à outils', folder: 'fr', file: 'facts.html'}
-    - {name: 'liens', folder: 'fr', file: 'facts.html'}
-    - {name: 'crédits', folder: 'fr', file: 'facts.html'}
+    - {name: 'à propos', url: 'à_propos', folder: 'fr', file: 'facts.html'}
+    - {name: 'guide', url: 'guide', folder: 'fr', file: 'facts.html'}
+    - {name: 'boîte à outils', url: 'boîte_à_outils', folder: 'fr', file: 'facts.html'}
+    - {name: 'liens', url: 'liens', folder: 'fr', file: 'facts.html'}
+    - {name: 'crédits', url: 'crédits', folder: 'fr', file: 'facts.html'}

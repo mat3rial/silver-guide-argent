@@ -23,10 +23,11 @@ body {
       grid-template-columns: 33.33% auto;
       border-left: 1px solid black;
       border-right: 1px solid black;
-      > div {
-        padding: 20px;
-      }
+      // > div {
+      //   padding: 20px;
+      // }
       .column-one {
+        padding: 20px;
         .home-title {
           font-family: "GeometricBlack";
           font-size: 2.8rem;
@@ -40,6 +41,22 @@ body {
       }
       .column-two {
         border-left: 1px solid black;
+        padding-top: 15%;
+        .short-line {
+          margin-left: 20px;
+          width: 30px;
+          border-bottom: 2px solid black;
+        }
+        h2 {
+          padding: 20px;
+          margin-top: 10px;
+          margin-bottom: 30px;
+        }
+        .red-box {
+          background-color: $site-red;
+          text-decoration: underline;
+          color: white;
+        }
       }
     }
   }
