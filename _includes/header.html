@@ -12,12 +12,20 @@
       {% for item in site.data.settings.menu.en %}
         <a href="{{ site.baseurl }}/en/{{ item.url }}" class="menu-link">{{ item.name }}</a>
       {% endfor %}
-      <a href="{{ site.baseurl }}{{ pages[1].url }}" class="menu-link">fr</a>
+      {% if page.url == "/en/" %}
+        <a href="{{ site.baseurl }}/fr/" class="menu-link">fr</a>
+      {% else %}
+        <a href="{{ site.baseurl }}{{ pages[1].url }}" class="menu-link">fr</a>
+      {% endif %}
     {% elsif page.url contains "/fr/" %}
       {% for item in site.data.settings.menu.fr %}
         <a href="{{ site.baseurl }}/fr/{{ item.url }}" class="menu-link">{{ item.name }}</a>
       {% endfor %}
-      <a href="{{ site.baseurl }}{{ pages[0].url }}" class="menu-link">en</a>
+      {% if page.url == "/fr/" %}
+        <a href="{{ site.baseurl }}/en/" class="menu-link">en</a>
+      {% else %}
+        <a href="{{ site.baseurl }}{{ pages[0].url }}" class="menu-link">en</a>
+      {% endif %}
     {% endif %}
   </nav>
   <div class="dropdown">
