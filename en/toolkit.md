@@ -1,6 +1,6 @@
 ---
 layout: home
-title: boîte à outils
+title: toolkit
 lang-ref: toolkit
-lang: fr
+lang: en
 ---

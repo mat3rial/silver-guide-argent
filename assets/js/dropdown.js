@@ -1,5 +1,5 @@
 var dropdown = $('.dropdown-content');
-console.log('ass');
+
 $( document ).ready(function() {
   var toggle = 0;
   // $('.dropbtn').on('click', function() {
@@ -16,6 +16,14 @@ $( document ).ready(function() {
     e.stopPropagation();
     dropdown.slideToggle("fast");
   });
+  // $(".toolkit.desktop").hover(function () {
+  //     $(".sub-menu").stop().slideDown("fast");
+  // }, function(){
+  //     $(".sub-menu").stop().slideUp("fast");
+  // });
+  $(".toolkit.desktop").hover(function () {
+    $(".sub-menu").slideToggle("fast");
+  });
   // $(document).mouseup(function(e) {
   //   if (!$('.dropbtn').is(e.target)) {
   //     dropdown.fadeOut(200);
@@ -23,9 +31,15 @@ $( document ).ready(function() {
   //   }
   // });
 });
-$(document).on("click", function(event){
-      var $trigger = $(".dropbtn");
-      if($trigger !== event.target && !$trigger.has(event.target).length){
-          dropdown.slideUp("fast");
-      }
-});
+// $(document).on("click", function(event){
+//       var $trigger = $(".dropbtn");
+//       if($trigger !== event.target && !$trigger.has(event.target).length){
+//           dropdown.slideUp("fast");
+//       }
+// });
+
+
+$(".toolkit.mobile").on("click", function(e){
+  e.stopPropagation();
+  $(".sub-menu").slideToggle("fast");
+})

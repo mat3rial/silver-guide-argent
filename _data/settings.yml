@@ -2,8 +2,8 @@ menu:
   en:
     - {name: 'about', url: 'about', folder: 'en', file: 'facts.html'}
     - {name: 'guide', url: 'guide', folder: 'en', file: 'facts.html'}
-    - {name: 'toolbox', url: 'toolbox', folder: 'en', file: 'facts.html'}
-    - {name: 'connections', url: 'connections', folder: 'en', file: 'facts.html'}
+    - {name: 'toolkit', url: 'toolkit', folder: 'en', file: 'facts.html'}
+    - {name: 'links', url: 'links', folder: 'en', file: 'facts.html'}
     - {name: 'credits', url: 'credits', folder: 'en', file: 'facts.html'}
   fr:
     - {name: 'à propos', url: 'à_propos', folder: 'fr', file: 'facts.html'}

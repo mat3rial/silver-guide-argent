@@ -1,6 +1,6 @@
 ---
 layout: home
-title: liens
+title: links
 lang-ref: links
-lang: fr
+lang: en
 ---
