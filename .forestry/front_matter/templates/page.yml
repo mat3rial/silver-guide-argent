@@ -11,6 +11,7 @@ fields:
 - type: text
   name: lang-ref
   label: lang-ref
+  hidden: false
 - type: text
   name: lang
   label: lang
