@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: diagrams
 lang-ref: diagrams
 lang: en

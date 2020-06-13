@@ -41,4 +41,5 @@
 
   <!-- Use Jekyll SEO plugin -->
 
+  {% assign pages = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
 </head>

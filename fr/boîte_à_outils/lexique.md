@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: lexique
 lang-ref: glossary
 lang: fr

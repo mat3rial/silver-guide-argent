@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: procédures
 lang-ref: procedures
 lang: fr

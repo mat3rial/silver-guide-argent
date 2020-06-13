@@ -2,6 +2,33 @@ body {
   font-family: "GeometricMedium";
 }
 
+.home-title, .page-title {
+  font-family: "GeometricBlack";
+  font-size: 2.8rem;
+}
+
+.home-title-container {
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  width: 100%;
+  position: relative;
+  min-height: 60px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  .home-title {
+    font-size: 1.2rem;
+    margin: 0px;
+    margin-left: 10px;
+    // padding: 10px;
+    // display: inline-block;
+    a {
+      color: $site-red;
+    }
+  }
+}
+
 .outer-wrapper {
   width: 96%;
   min-height: 93vh;
@@ -9,7 +36,7 @@ body {
   padding: 2%;
   margin-left: auto;
   margin-right: auto;
-  max-width: 1400px;
+  max-width: 1100px;
   display: grid;
   grid-template-rows: auto 100px;
   #main-content {
@@ -28,10 +55,7 @@ body {
       // }
       .column-one {
         padding: 20px;
-        .home-title {
-          font-family: "GeometricBlack";
-          font-size: 2.8rem;
-        }
+
         // .home-subtitle {
         //   font-family: "Geometric";
         // }
@@ -95,7 +119,11 @@ body {
 }
 
 @media (min-width: 767px) {
-
+  #main-content.home {
+    .home-title-container {
+      display: none;
+    }
+  }
 }
 @media (max-width: 850px) {
   .menu-link {
@@ -103,6 +131,17 @@ body {
   }
   .site-header svg {
     margin-left: 1px;
+  }
+  .outer-wrapper {
+    #main-content {
+      .body-wrapper {
+        .column-one {
+          .home-title {
+            font-size: 2.5rem;
+          }
+        }
+      }
+    }
   }
 }
 @media (max-width: 767px) {
@@ -115,13 +154,16 @@ body {
   .outer-wrapper {
     grid-template-rows: auto 300px;
     #main-content {
+      &.home {
+        .home-title-container {
+          justify-content: flex-end;
+        }
+      }
       .body-wrapper {
         grid-template-columns: auto;
         grid-auto-rows: max-content;
         .column-one {
-          .home-title {
-            font-size: 2.5rem;
-          }
+
         }
         .column-two {
           border-left: none;
@@ -137,6 +179,20 @@ body {
         border-left: none;
         border-top: 1px solid black;
       }
+    }
+  }
+}
+@media (max-width: 500px) {
+  .home-title-container {
+    .home-title {
+      font-size: 0.95rem;
+    }
+  }
+}
+@media (max-width: 340px) {
+  .home-title-container {
+    .home-title {
+      font-size: 0.9rem;
     }
   }
 }

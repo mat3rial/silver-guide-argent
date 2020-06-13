@@ -5,9 +5,10 @@
   <body>
 
     <div class="outer-wrapper">
-      <div id="main-content">
+      <div id="main-content" class="home">
+        {% include home_title.html %}
         {% include header.html %}
-        <div class="body-wrapper home">
+        <div class="body-wrapper">
           <div class="column-one">
             <h1 class="home-title">{{ page.title }}</h1>
             <h3 class="home-subtitle">{{ page.subtitle }}</h3>

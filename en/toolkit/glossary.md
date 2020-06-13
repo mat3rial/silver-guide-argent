@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: glossary
 lang-ref: glossary
 lang: en

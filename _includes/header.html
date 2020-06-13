@@ -1,8 +1,7 @@
-<header class="site-header">
+<header class="{{ page.layout }} site-header">
   <!-- <h3 class="site-title">
     <a href="{{ site.github.url }}/">{{ site.title }}</a>
   </h3> -->
-  {% assign pages = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
   <!-- {% for page in pages %}
     <p>{{ page.url }}</p>
   {% endfor %}
@@ -68,74 +67,6 @@
       {% endif %}
     {% endif %}
   </nav>
-  <div class="dropdown">
-    {% if page.url contains "/en/" %}
-      {% if page.url == "/en/" %}
-        <a href="{{ site.baseurl }}/fr/" class="lang-switch">fr</a>
-      {% else %}
-        <a href="{{ site.baseurl }}{{ pages[1].url }}" class="lang-switch">fr</a>
-      {% endif %}
-    {% elsif page.url contains "/fr/" %}
-      {% if page.url == "/fr/" %}
-        <a href="{{ site.baseurl }}/en/" class="lang-switch">en</a>
-      {% else %}
-        <a href="{{ site.baseurl }}{{ pages[0].url }}" class="lang-switch">en</a>
-      {% endif %}
-    {% endif %}
-    <button class="dropbtn"><i class="fa fa-bars" aria-hidden="true"></i></button>
-  </div>
-  <div class="dropdown-content">
-    {% if page.url contains "/en/" %}
-      <!-- {% for item in site.data.settings.menu.en %}
-        <a href="{{ site.baseurl }}/en/{{ item.url }}" class="menu-link">{{ item.name }}</a>
-      {% endfor %} -->
-      <a href="{{ site.baseurl }}/en/about" class="menu-link">about</a>
-      <a href="{{ site.baseurl }}/en/guide" class="menu-link">guide</a>
-      <div><a href="#" class="menu-link toolkit mobile">toolkit <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-        	 width="12px" height="12px" viewBox="0 -70 451.847 451.847" style="enable-background:new 0 0 451.847 451.847;"
-        	 xml:space="preserve">
-        <g>
-        	<path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751
-        		c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0
-        		c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z"/>
-        </g>
-        </svg></a>
-        <div class="sub-menu">
-          <a href="{{ site.baseurl }}/en/toolkit/glossary" class="sub-menu-link">glossary</a>
-          <a href="{{ site.baseurl }}/en/toolkit/templates" class="sub-menu-link">templates</a>
-          <a href="{{ site.baseurl }}/en/toolkit/procedures" class="sub-menu-link">procedures</a>
-          <a href="{{ site.baseurl }}/en/toolkit/diagrams" class="sub-menu-link">diagrams</a>
-        </div>
-      </div>
-      <a href="{{ site.baseurl }}/en/links" class="menu-link">links</a>
-      <a href="{{ site.baseurl }}/en/credits" class="menu-link">credits</a>
-    {% elsif page.url contains "/fr/" %}
-      <!-- {% for item in site.data.settings.menu.fr %}
-        <a href="{{ site.baseurl }}/fr/{{ item.url }}" class="menu-link">{{ item.name }}</a>
-      {% endfor %} -->
-      <a href="{{ site.baseurl }}/fr/à_propos" class="menu-link">à propos</a>
-      <a href="{{ site.baseurl }}/fr/guide" class="menu-link">guide</a>
-      <div><a href="#" class="menu-link toolkit mobile">boîte à outils <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-        	 width="12px" height="12px" viewBox="0 -70 451.847 451.847" style="enable-background:new 0 0 451.847 451.847;"
-        	 xml:space="preserve">
-        <g>
-        	<path d="M225.923,354.706c-8.098,0-16.195-3.092-22.369-9.263L9.27,151.157c-12.359-12.359-12.359-32.397,0-44.751
-        		c12.354-12.354,32.388-12.354,44.748,0l171.905,171.915l171.906-171.909c12.359-12.354,32.391-12.354,44.744,0
-        		c12.365,12.354,12.365,32.392,0,44.751L248.292,345.449C242.115,351.621,234.018,354.706,225.923,354.706z"/>
-        </g>
-        </svg></a>
-        <div class="sub-menu">
-          <a href="{{ site.baseurl }}/fr/boîte_à_outils/lexique/" class="sub-menu-link">lexique</a>
-          <a href="{{ site.baseurl }}/fr/boîte_à_outils/modèles/" class="sub-menu-link">modèles</a>
-          <a href="{{ site.baseurl }}/fr/boîte_à_outils/procédures/" class="sub-menu-link">procédures</a>
-          <a href="{{ site.baseurl }}/fr/boîte_à_outils/schémas/" class="sub-menu-link">schémas</a>
-        </div>
-      </div>
-      <a href="{{ site.baseurl }}/fr/liens" class="menu-link">liens</a>
-      <a href="{{ site.baseurl }}/fr/crédits" class="menu-link">crédits</a>
-    {% endif %}
-  </div>
-
   <!-- <div class="lang-switcher">
     {% if page.url == "/en/" %}
       <a href="{{ site.baseurl }}/fr">fr</a>

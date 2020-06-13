@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: schémas
 lang-ref: diagrams
 lang: fr

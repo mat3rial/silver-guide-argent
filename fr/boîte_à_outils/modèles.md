@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: modèles
 lang-ref: templates
 lang: fr
