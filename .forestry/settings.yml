@@ -9,6 +9,11 @@ sections:
   label: English
   create: all
   match: "**/*"
+- type: directory
+  path: fr
+  label: French
+  create: all
+  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
