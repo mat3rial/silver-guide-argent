@@ -41,7 +41,18 @@ body {
   grid-template-rows: auto 100px;
   #main-content {
     position:relative;
+    &.home {
 
+    }
+    &.static_page, &.page {
+      .body-wrapper {
+        .column-two {
+          border-left: none;
+          padding-left: 20px;
+          padding-right: 20px;
+        }
+      }
+    }
     .body-wrapper {
       width: 100%;
       height: calc(100% - 53px);
