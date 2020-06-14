@@ -8,7 +8,7 @@ lang: en
 
 # Header 1
 
-Paragraph of shit here it is.
+Paragraph of stuff here it is.
 
 Yes let's see if it can keep two on one side you know it.
 
