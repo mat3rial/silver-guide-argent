@@ -10,3 +10,12 @@ differentLanguage:
 viewIn:
   en: "View in"
   fr: "Ver en"
+nextButton:
+  en: next step
+  fr: prochaine étape
+prevButton:
+  en: previous step
+  fr: précédente étape
+getStarted:
+  en: get started
+  fr: commencer

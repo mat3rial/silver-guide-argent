@@ -41,5 +41,6 @@
 
   <!-- Use Jekyll SEO plugin -->
 
-  {% assign pages = site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% assign pages = site.pages | concat: site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+  {% assign all_markdown = site.pages | concat: site.posts %}
 </head>

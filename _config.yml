@@ -27,7 +27,7 @@ description:	       "a Jekyll theme for running a blog or publication"
 author:              "Paul Le"
 
 collections:
-  sections:
+  guide:
     output: true
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:

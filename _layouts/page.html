@@ -9,16 +9,9 @@ layout: default
   </div>
   <div class="column-two">
     {{ content }}
-    {% if page.line1 %}
-      <div class="short-line"></div>
-      <h2>{{ page.line1 }}</h2>
-    {% endif %}
-    {% if page.line2 %}
-      <div class="short-line"></div>
-      <h2>{{ page.line2 }}</h2>
-    {% endif %}
-    {% if page.line3 %}
-      <h2 class="red-box">{{ page.line3 }}</h2>
+    {% if page.title == 'guide' %}
+      {% assign next_page = site.posts | where:"lang", page.lang | where:"order", 1 %}
+      <a class="guide-button" href="{{ site.baseurl }}{{ next_page[0].url }}">{{ site.data.translations.getStarted[page.lang] }}</a>
     {% endif %}
   </div>
 </div>

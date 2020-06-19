@@ -20,5 +20,8 @@ layout: default
     {% if page.line3 %}
       <h2 class="red-box">{{ page.line3 }}</h2>
     {% endif %}
+    {% for part in site.guide %}
+      <p>{{ part.title }}</p>
+    {% endfor %}
   </div>
 </div>
