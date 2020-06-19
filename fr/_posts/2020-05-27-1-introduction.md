@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1. CONSIDÉRATIONS
+title: 1. Considérations
 lang: fr
 lang-ref: introduction
 permalink: "/fr/guide/1-introduction/"
