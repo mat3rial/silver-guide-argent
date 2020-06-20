@@ -17,17 +17,7 @@ Bref, à la fois guide et trousse à outils, _(Pas) juste une question d’argen
 Si vous relevez une erreur dans ce document, nous vous prions de nous en aviser, afin que nous apportions les correctifs nécessaires.
 
 
-<!-- SNIPPET INFO: YES_NO  **You can delete these notes after referencing!**
-
-* The question and answer variables must remain, but the right and wrong messages are optional, they will use a default if not included.
-* If yes (oui) is correct, answer = 1. If no (non) is correct, answer = 0.
-  \-->
-
-{% include yes_no.html
-question="Réception d'un bien ou d'un service sans contrepartie monétaire ?"
-answer = 1
-right_message = "should go to 3 next"
-wrong_message = "will go to 2 next"
+{% include yes_no.html question="Réception d'un bien ou d'un service sans contrepartie monétaire ?" answer = 1 right_message = "should go to 3 next" wrong_message = "will go to 2 next"
 %}
 
 ***
