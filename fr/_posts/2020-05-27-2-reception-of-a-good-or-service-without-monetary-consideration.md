@@ -19,3 +19,5 @@ La comptabilisation des dons reçus sous forme de biens ou de services dans ses 
 2\. Les biens et services reçus sont utilisés dans le cadre du fonctionnement courant;
 
 3\. L’organisme aurait dû autrement les acheter.
+
+next step = 2.1
