@@ -24,3 +24,5 @@ Exemple dons d’œuvres _:_ On compte XX œuvres d’art parmi les dons faits �
 EXEMPLES NOTES AFFÉRENTES AUX E/F POUR DONS DE SERVICES BÉNÉVOLE
 
 Services bénévoles comptabilisés : Dans le cadre de son fonctionnement courant, l’organisme a recours aux services de nombreux bénévoles. Ces services sont constatés dans les produits de l’organisme. Les heures consacrées par les bénévoles sont compilées et constatées selon un taux horaire équivalent au taux moyen sur le marché pour des services similaires. (Voir onglet _Barèmes_)
+
+next step = ending page, end of workflow
