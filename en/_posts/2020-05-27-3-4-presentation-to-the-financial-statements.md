@@ -32,3 +32,5 @@ example_text="Our non-profit organization is part of the new association, whose 
 {% include accordion_example.html
 example_text="Over the course of the year, our organization sold tickets for performances in exchange for advertising and work hours provided by front of house volunteers. These transactions were recorded at the fair value of the services rendered. During the year, they totalled $XX (20XX: $XX) and did not generate any surplus in the results."
 %}
+
+next step = end of workflow
