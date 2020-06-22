@@ -13,7 +13,7 @@ When an organization chooses to record contributions of goods and services, it m
 
 2\. The kind and amount of contributed goods and services recorded in the financial statements.
 
-The contribution received in the form of goods and services must be evaluated at fair value at the time of the donation.
+The contribution received in the form of goods and services must be evaluated at fair value at the **time of the donation**.
 
 NOTES DISCLOSING CONTRIBUTIONS RECEIVED IN THE FORM OF DONATED GOODS AND SERVICES OTHER THAN VOLUNTEER LABOUR
 
@@ -26,3 +26,5 @@ NOTES DISCLOSING CONTRIBUTIONS RECEIVED IN THE FORM OF VOLUNTEER LABOUR
 Example volunteer labour not accounted in financial statements: Volunteers devote approximately 500 hours (750 in 20X0) per year to help ABC organization provide its services. Due to the difficulty in determining the fair value of contributions received in the form of services, these contributions are not recognized in their financial statements.
 
 Example volunteer labour in financial statements: Volunteer labour as part of its operations, our organization relies on the services of many volunteers. These services are recognized in the organization’s revenues. Volunteer hours are compiled and recorded at an hourly rate equal to the average market rate for similar services (see tab _Scales_)
+
+next step = ending page, end of workflow
