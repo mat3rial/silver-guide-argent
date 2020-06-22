@@ -30,20 +30,20 @@ To disclose this information in its financial statements—whether in the organi
 {% include yes_no.html
 question="Can the fair value of the donation be reasonably assessed?"
 answer = 1
-right_message = ""
-wrong_message = "Do not record transaction in financial statements. end of workflow - send to ending page"
+yes = ""
+no = "Do not record transaction in financial statements. end of workflow - send to ending page"
 %}
 
 {% include yes_no.html
 question="Are the goods and services received used as part of the organization's current operations? "
 answer = 1
-right_message = ""
-wrong_message = "Do not record transaction in financial statements. end of workflow - send to ending page"
+yes = ""
+no = "Do not record transaction in financial statements. end of workflow - send to ending page"
 %}
 
 {% include yes_no.html
 question="Would the organization have had to otherwise purchase these?"
 answer = 1
-right_message = "GO TO 2.2 "
-wrong_message = "Do not record transaction in financial statements. end of workflow - send to ending page"
+yes = "GO TO 2.2 "
+no = "Do not record transaction in financial statements. end of workflow - send to ending page"
 %}

@@ -4,7 +4,7 @@ title: '2. Règles à suivre : Comptabilisation des dons reçus sous forme de bi
   de services'
 lang: fr
 lang-ref: reception
-permalink: "/fr/guide/2-reception-of-a-good-or-service-without-monetary-consideration/"
+permalink: "/fr/guide/2-règles-à-suivre/"
 order: 2
 
 ---

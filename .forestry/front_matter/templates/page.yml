@@ -15,3 +15,20 @@ fields:
 - type: text
   name: lang
   label: lang
+pages:
+- en/about.md
+- en/credits.md
+- en/guide.md
+- en/links.md
+- en/toolkit/diagrams.md
+- en/toolkit/glossary.md
+- en/toolkit/procedures.md
+- en/toolkit/templates.md
+- fr/à_propos.md
+- fr/crédits.md
+- fr/guide.md
+- fr/liens.md
+- fr/boîte_à_outils/lexique.md
+- fr/boîte_à_outils/modèles.md
+- fr/boîte_à_outils/procédures.md
+- fr/boîte_à_outils/schémas.md

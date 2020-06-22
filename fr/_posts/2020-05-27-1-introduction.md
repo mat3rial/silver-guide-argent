@@ -3,8 +3,8 @@ layout: post
 title: 1. Considérations
 lang: fr
 lang-ref: introduction
-permalink: "/fr/guide/1-introduction/"
-order: "1"
+permalink: "/fr/guide/1-considérations/"
+order: 1
 
 ---
 * Les OBNL[**\[1\]**](#_ftn1) devraient d’abord procéder à une analyse de rentabilité pour savoir si la valeur des échanges non monétaires sont bel et bien susceptibles de diversifier les sources de revenus, compte tenu des coûts qui accompagnent inévitablement la production et le traitement de documents comptables.
@@ -22,4 +22,4 @@ Si vous relevez une erreur dans ce document, nous vous prions de nous en aviser,
 
 **Réception d'un bien ou d'un service sans contrepartie monétaire**
 
-{% include yes_no.html question="En échange, est-ce que l'organisme fournit un bien ou un service ?" answer = 1 right_message = "go to section 3" wrong_message = "go to section 2" %}
+{% include yes_no.html question="En échange, est-ce que l'organisme fournit un bien ou un service ?" answer = 1 yes = "go to section 3" no = "go to section 2" %}

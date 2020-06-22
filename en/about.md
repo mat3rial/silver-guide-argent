@@ -24,6 +24,6 @@ This is going to be very difficult I think.
 {% include yes_no.html
 question="Is this a yes/no question?"
 answer = 1
-right_message = "Nice job!"
-wrong_message = "Sorry that's wrong!"
+yes = "Nice job!"
+no = "Sorry that's wrong!"
 %}

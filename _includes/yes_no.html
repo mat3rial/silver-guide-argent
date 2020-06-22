@@ -18,14 +18,14 @@
   </div>
   <div class="incorrect-message">
     {% if page.url contains "/en/" %}
-      {% if include.wrong_message %}
-        {{ include.wrong_message }}
+      {% if include.no %}
+        {{ include.no }}
       {% else %}
         Consult the guide!
       {% endif %}
     {% elsif page.url contains "/fr/" %}
-      {% if include.wrong_message %}
-        {{ include.wrong_message }}
+      {% if include.no %}
+        {{ include.no }}
       {% else %}
         Consult the guide (FRENCH)!
       {% endif %}
@@ -33,14 +33,14 @@
   </div>
   <div class="correct-message">
     {% if page.url contains "/en/" %}
-      {% if include.right_message %}
-        {{ include.right_message }}
+      {% if include.yes %}
+        {{ include.yes }}
       {% else %}
         Great!
       {% endif %}
     {% elsif page.url contains "/fr/" %}
-      {% if include.right_message %}
-        {{ include.right_message }}
+      {% if include.yes %}
+        {{ include.yes }}
       {% else %}
         Bon!
       {% endif %}

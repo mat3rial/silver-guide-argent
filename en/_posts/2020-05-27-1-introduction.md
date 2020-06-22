@@ -20,6 +20,6 @@ This guide and toolkit have been developed to provide guidelines for managers an
 {% include yes_no.html
 question="Is the organization offering goods or services in exchange?"
 answer = 1
-right_message = "go to section 3"
-wrong_message = "go to section 2"
+yes = "go to section 3"
+no = "go to section 2"
 %}

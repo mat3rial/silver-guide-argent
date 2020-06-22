@@ -32,20 +32,20 @@ Pour pouvoir divulguer ces informations aux états financiers, qu’ils soient c
 {% include yes_no.html
 question="La juste valeur établie du don est-elle suffisamment fiable ?"
 answer = 1
-right_message = ""
-wrong_message = "Aucune constatation dans les états financiers. (also marks end of workflow - send them to an ending page)"
+yes = ""
+no = "Aucune constatation dans les états financiers. (also marks end of workflow - send them to an ending page)"
 %}
 
 {% include yes_no.html
 question="Les biens ou services reçus sont-ils utilisés dans le cadre du fonctionnement courant ?"
 answer = 1
-right_message = ""
-wrong_message = "Aucune constatation dans les états financiers. (also marks end of workflow - send them to an ending page)"
+yes = ""
+no = "Aucune constatation dans les états financiers. (also marks end of workflow - send them to an ending page)"
 %}
 
 {% include yes_no.html
 question="L'organisme aurait-il dû autrement les acheter?"
 answer = 1
-right_message = "go to 2.2"
-wrong_message = "Aucune constatation dans les états financiers. (also marks end of workflow - send them to an ending page)"
+yes = "go to 2.2"
+no = "Aucune constatation dans les états financiers. (also marks end of workflow - send them to an ending page)"
 %}
