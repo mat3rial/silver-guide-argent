@@ -25,4 +25,4 @@ For many cultural NFPs, contributions in the form of goods and services (donatio
 
 \[2\] “The Visual Arts Landscape in Canada as Seen through CADAC, 2011–12,” Research and Evaluation Section, Canada Council for the Arts, March 2014. En français: [https://conseildesarts.ca/recherche/repertoire-des-recherches/2014/03/paysage-des-arts-visuels-2011-12?_ga=2.72000275.1643849959.1587643613-1958318394.1586890553](https://conseildesarts.ca/recherche/repertoire-des-recherches/2014/03/paysage-des-arts-visuels-2011-12?_ga=2.72000275.1643849959.1587643613-1958318394.1586890553 "The Visual Arts Landscape in Canada as Seen through CADAC, 2011–12")
 
-\[3\] Sarah Thelwall, _Size Matters: Notes towards a Better Understanding of the Value, Operation and Potential of Small Arts Organisations_, Londres, Common Practice, 2011.
+\[3\] Sarah Thelwall, _Size Matters: Notes towards a Better Understanding of the Value, Operation and Potential of Small Arts Organisations_, London, Common Practice, 2011.
