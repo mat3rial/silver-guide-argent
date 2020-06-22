@@ -32,3 +32,5 @@ example_text="L’OBNL est membre de la Nouvelle Association, dont l’objectif 
 {% include accordion_example.html
 example_text="Au cours de l’exercice, l’organisme a vendu des billets pour un événement en contrepartie de publicité et d’heures de travail bénévole fournies par du personnel de salle. Ces opérations sont comptabilisées à la juste valeur des services rendus. Au cours de l’exercice, elles ont totalisé XX $ (XX $ : 20X0) et n’ont généré aucun excédent quant aux résultats."
 %}
+
+next step = end of workflow
