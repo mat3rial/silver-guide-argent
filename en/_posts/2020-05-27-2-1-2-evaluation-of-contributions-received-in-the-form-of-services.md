@@ -2,9 +2,9 @@
 layout: post
 title: 2.1.2. Evaluation of contributions received in the form of services
 lang: en
-lang-ref: ''
+lang-ref: contributionsservices
 permalink: "/en/guide/2-1-2"
-order: 
+order: 18
 
 ---
 ## Office or management work performed free of charge by a professional:

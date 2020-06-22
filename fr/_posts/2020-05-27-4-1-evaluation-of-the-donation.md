@@ -4,7 +4,7 @@ title: 2. 1 Évaluation du don
 lang: fr
 lang-ref: evaluationdonation
 permalink: "/fr/guide/4-1-evaluation-of-the-donation/"
-order: "9"
+order: 9
 
 ---
 Pour les organismes, la principale difficulté réside dans l’évaluation de la juste valeur des biens et des services reçus à titre gratuit. Pour déterminer la juste valeur, l’organisme peut s’appuyer sur la valeur marchande, une valeur d’expertise ou la valeur marchande de fournitures ou de services similaires. Cette valeur est établie en fonction du prix d’achat de biens et de services similaires.

@@ -4,7 +4,7 @@ title: 3.2. Letter of agreement or contract
 lang: en
 lang-ref: letteragreement
 permalink: "/en/guide/3-2-letter-of-agreement-or-contract/"
-order: "5"
+order: 5
 
 ---
 If an organization chooses to record these non-monetary transactions, it must keep any relevant documentation that supports the recognition of the transactions in its accounting records. For each exchange of services, a contract or letter of agreement (see tab _Models_) should be drafted between the donor and recipient parties. The following points should be included in such a contract or letter of agreement:

@@ -2,9 +2,9 @@
 layout: post
 title: 2.1.1. Evaluation of contributions in the form of goods
 lang: en
-lang-ref: ''
+lang-ref: contributionsgoods
 permalink: "/en/guide/2-1-1"
-order: 
+order: 17
 
 ---
 ## Donations of property, such as computers:

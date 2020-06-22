@@ -2,9 +2,9 @@
 layout: post
 title: 2.1.1. Évaluation des dons de biens
 lang: fr
-lang-ref: ''
+lang-ref: contributionsgoods
 permalink: "/fr/guide/2-1-1/"
-order: 
+order: 17
 
 ---
 ### Dons de biens, en l’occurrence des ordinateurs :

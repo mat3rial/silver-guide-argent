@@ -4,7 +4,7 @@ title: 3.2. Lettre d'entente ou contrat
 lang: fr
 lang-ref: letteragreement
 permalink: "/fr/guide/3-2-lettre-d'entente-ou-contrat/"
-order: "5"
+order: 5
 
 ---
 Un organisme qui fait le choix de constater ses opérations non monétaires doit s’assurer de garder les documents pertinents pour justifier la comptabilisation de ces opérations dans ses registres comptables. Pour chaque échange de services, les différents partis devraient préparer un contrat ou une lettre d’entente (voir onglet _Modèles_). Le contrat ou la lettre d’entente devrait contenir les éléments suivants :

@@ -2,12 +2,12 @@
 layout: post
 title: 2.1.2. Évaluation des dons de services
 lang: fr
-lang-ref: ''
+lang-ref: contributionsservices
 permalink: "/fr/guide/2-1-2/"
-order: 
+order: 18
 
 ---
-### 
+###
 
 ### Travail de bureau ou de gestion exécuté gratuitement par un professionnel :
 

@@ -4,7 +4,7 @@ title: 2.2. Présentation aux états financiers
 lang: fr
 lang-ref: presentation4
 permalink: "/fr/guide/4-5-presentation-to-the-financial-statements/"
-order: "11"
+order: 11
 
 ---
 Lorsque l’organisme a fait le choix de comptabiliser les dons de biens et de services, il doit présenter l’information suivante dans ses états financiers :
