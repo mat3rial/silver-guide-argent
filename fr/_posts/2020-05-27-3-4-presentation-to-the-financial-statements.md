@@ -21,9 +21,7 @@ Dans sa note sur les principales méthodes comptables, l’organisme doit divulg
 
 **EXEMPLES DE NOTES AUX E/F:**
 
-<!-- SNIPPET INFO: ACCORDION EXAMPlE  **You can delete these notes after referencing!**
-\-->
 
 {% include accordion_example.html
-example_text="This is the example text"
+example_text="L’organisme reçoit gratuitement des apports sous forme d’échange de visibilité, de prêts d’espaces d’expositions, d’équipements et de ressources humaines. Ces apports et les charges correspondantes sont constatés à titre de produits et charges de l’exercice et évalués à leur juste valeur lorsque cette dernière peut faire l’objet d’une estimation raisonnable."
 %}
