@@ -19,7 +19,7 @@ Neither should developing such accounting practices serve to debase the organic 
 
 For many cultural NFPs, contributions in the form of goods and services (donations of computers or other equipment, professional services, or advertising) or other non-monetary transactions (loans of exhibition spaces or equipment in exchange for visibility) can be important. However, due to accounting or valuation issues, such transactions are sometimes not recognized in the organization’s financial statements. When an organization relies on the help of many volunteers, accounting for contributions received in the form of services can be difficult, impractical, and time-consuming. Then again, when an organization frequently accepts contributions in the form of goods and services, and when these are easily quantifiable, accounting for them can provide highly relevant information and permit the organization to appreciate the full economic scope of its activities and ensure better comparability with other, similar organizations. For example, the Department of Canadian Heritage considers in-kind contributions as real contributions against the cost of proposed projects.
 
-    <hr/>
+***
 
 \[1\] ARCs are characterized by boards of directors typically comprised at least 51% by artists, a commitment to paying (or working toward paying) CARFAC fees, and a focus on the artist and artistic practice over the art object. ARCs also desire to pay curatorial and administrative staff a living wage in recognition of the time they spend working with artists and adapting themselves to the evolving requirements and language of public funding programs as well as to ongoing threats to public arts funding in uncertain economic times.
 
