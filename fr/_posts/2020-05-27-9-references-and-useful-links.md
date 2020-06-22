@@ -2,7 +2,7 @@
 layout: post
 title: References and useful links
 lang: fr
-lang-ref: references
+lang-ref: "9"
 permalink: "/fr/guide/9-references-and-useful-links/"
 order: 16
 ---

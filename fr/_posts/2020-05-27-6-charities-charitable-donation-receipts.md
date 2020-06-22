@@ -2,9 +2,9 @@
 layout: post
 title: '5. Organisme de bienfaisance : Reçus de dons de charité'
 lang: fr
-lang-ref: charities
+lang-ref: "6"
 permalink: "/fr/guide/6-charities-charitable-donation-receipts/"
-order: "13"
+order: 13
 
 ---
 (Voir Schéma No. 2)

@@ -2,9 +2,9 @@
 layout: post
 title: 5.4. Donation of inherited work
 lang: en
-lang-ref: ''
-permalink: "/en/guide/5-4"
-order: 
+lang-ref: "5-4"
+permalink: "/en/guide/5-4/"
+order: 24
 
 ---
 A donor inherits a work of art valued at $1,500. Two years later, she donates the work to a registered charity. Before donating the artwork, the donor has it appraised at a value of $2,000.

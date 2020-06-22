@@ -2,7 +2,7 @@
 layout: post
 title: 2. Accounting for contributions received in the form of goods and services
 lang: en
-lang-ref: reception
+lang-ref: "2"
 permalink: "/en/guide/2-reception-of-a-good-or-service-without-monetary-consideration/"
 order: 2
 

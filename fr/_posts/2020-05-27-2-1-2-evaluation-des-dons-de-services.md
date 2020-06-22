@@ -2,7 +2,7 @@
 layout: post
 title: 2.1.2. Évaluation des dons de services
 lang: fr
-lang-ref: contributionsservices
+lang-ref: "2-1-2"
 permalink: "/fr/guide/2-1-2/"
 order: 18
 

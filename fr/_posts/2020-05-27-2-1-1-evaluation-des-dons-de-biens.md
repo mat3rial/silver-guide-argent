@@ -2,7 +2,7 @@
 layout: post
 title: 2.1.1. Évaluation des dons de biens
 lang: fr
-lang-ref: contributionsgoods
+lang-ref: "2-1-1"
 permalink: "/fr/guide/2-1-1/"
 order: 17
 

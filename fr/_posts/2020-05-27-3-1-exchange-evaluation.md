@@ -2,7 +2,7 @@
 layout: post
 title: 3.1. Évaluation de l'échange
 lang: fr
-lang-ref: exchange
+lang-ref: "3-1"
 permalink: "/fr/guide/3-1-exchange-evaluation/"
 order: 4
 

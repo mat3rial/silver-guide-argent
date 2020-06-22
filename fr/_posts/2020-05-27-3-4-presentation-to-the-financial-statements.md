@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 3.4 Présentation aux états financiers
+title: 3.4. Présentation aux états financiers
 lang: fr
-lang-ref: presentation3
+lang-ref: "3-4"
 permalink: "/fr/guide/3-4-présentation-aux-états-financiers/"
 order: 7
 

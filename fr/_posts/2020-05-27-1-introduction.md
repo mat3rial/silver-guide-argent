@@ -2,7 +2,7 @@
 layout: post
 title: 1. Considérations
 lang: fr
-lang-ref: introduction
+lang-ref: "1"
 permalink: "/fr/guide/1-considérations/"
 order: 1
 

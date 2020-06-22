@@ -2,9 +2,9 @@
 layout: post
 title: '5. CHARITABLE ORGANIZATIONS: charitable donation receipts'
 lang: en
-lang-ref: charities
+lang-ref: "6"
 permalink: "/en/guide/6-charities-charitable-donation-receipts/"
-order: "13"
+order: 13
 
 ---
 (See Diagram No. 2)

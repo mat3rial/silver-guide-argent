@@ -3,7 +3,7 @@ layout: post
 title: '2. Règles à suivre : Comptabilisation des dons reçus sous forme de biens ou
   de services'
 lang: fr
-lang-ref: reception
+lang-ref: "2"
 permalink: "/fr/guide/2-règles-à-suivre/"
 order: 2
 

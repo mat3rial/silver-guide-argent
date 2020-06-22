@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2. 1 Évaluation du don
+title: 2.1. Évaluation du don
 lang: fr
-lang-ref: evaluationdonation
+lang-ref: "2-1"
 permalink: "/fr/guide/4-1-evaluation-of-the-donation/"
 order: 9
 
