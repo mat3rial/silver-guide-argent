@@ -2,8 +2,8 @@
 layout: post
 title: 3.2. Letter of agreement or contract
 lang: en
-lang-ref: "3-2"
-permalink: "/en/guide/3-2-letter-of-agreement-or-contract/"
+lang-ref: 3-2
+permalink: "/en/guide/3-2-letter-agreement-contract/"
 order: 5
 
 ---
