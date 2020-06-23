@@ -3,7 +3,7 @@ layout: post
 title: 1. Considerations
 lang: en
 lang-ref: "1"
-permalink: "/en/guide/1-introduction/"
+permalink: "/en/guide/1-considerations/"
 order: 1
 
 ---
