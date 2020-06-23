@@ -4,7 +4,7 @@ title: 4. Incidence de l'application de la taxe sur les produits et services (TP
   de la taxe de vente harmonisée (TVH) et des taxes provinciales là où applicables
 lang: fr
 lang-ref: "4"
-permalink: "/fr/guide/4-gifts-of-goods-or-services/"
+permalink: "/fr/guide/4-incidence-taxe/"
 order: 8
 
 ---
