@@ -2,8 +2,8 @@
 layout: post
 title: 2.1.1. Evaluation of contributions in the form of goods
 lang: en
-lang-ref: "2-1-1"
-permalink: "/en/guide/2-1-1/"
+lang-ref: 2-1-1
+permalink: "/en/guide/2-1-1-donations-of-goods/"
 order: 17
 
 ---
