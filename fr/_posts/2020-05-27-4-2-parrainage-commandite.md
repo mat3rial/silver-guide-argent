@@ -2,8 +2,8 @@
 layout: post
 title: 4.2. Parrainage (commandite)
 lang: fr
-lang-ref: "4-2"
-permalink: "/fr/guide/4-2/"
+lang-ref: 4-2
+permalink: "/fr/guide/4-2-parrainage-commandite/"
 order: 20
 
 ---
