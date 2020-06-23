@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '5. CHARITABLE ORGANIZATIONS: charitable donation receipts'
+title: '5. Charitable organizations: charitable donation receipts'
 lang: en
-lang-ref: "6"
-permalink: "/en/guide/6-charities-charitable-donation-receipts/"
+lang-ref: "5"
+permalink: "/en/guide/5-charitable-donation-receipts/"
 order: 13
 
 ---
