@@ -4,7 +4,7 @@ title: 4. Impact of applying the Goods and Services Tax (GST) and Harmonized Sal
   Tax (HST) and Provincial Sales Tax (PST) where applicable
 lang: en
 lang-ref: "4"
-permalink: "/en/guide/4-gifts-of-goods-or-services/"
+permalink: "/en/guide/4-impact-taxes/"
 order: 8
 
 ---
