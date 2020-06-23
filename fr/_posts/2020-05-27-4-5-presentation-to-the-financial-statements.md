@@ -2,8 +2,8 @@
 layout: post
 title: 2.2. Présentation aux états financiers
 lang: fr
-lang-ref: "4-5"
-permalink: "/fr/guide/4-5-presentation-to-the-financial-statements/"
+lang-ref: 4-5
+permalink: "/fr/guide/2-2-présentation-états-financiers/"
 order: 11
 
 ---
