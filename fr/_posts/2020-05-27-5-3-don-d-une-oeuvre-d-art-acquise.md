@@ -2,8 +2,8 @@
 layout: post
 title: '5.3. Don d''une œuvre d''art acquise '
 lang: fr
-lang-ref: "5-3"
-permalink: "/fr/guide/5-3/"
+lang-ref: 5-3
+permalink: "/fr/guide/5-3-don-œuvre-acquise/"
 order: 23
 
 ---
