@@ -2,8 +2,8 @@
 layout: post
 title: '5. Organisme de bienfaisance : Reçus de dons de charité'
 lang: fr
-lang-ref: "6"
-permalink: "/fr/guide/6-charities-charitable-donation-receipts/"
+lang-ref: "5"
+permalink: "/fr/guide/5-reçus-dons-de-charité/"
 order: 13
 
 ---
