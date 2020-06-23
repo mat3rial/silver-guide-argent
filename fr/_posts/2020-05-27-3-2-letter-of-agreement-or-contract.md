@@ -2,8 +2,8 @@
 layout: post
 title: 3.2. Lettre d'entente ou contrat
 lang: fr
-lang-ref: "3-2"
-permalink: "/fr/guide/3-2-lettre-d'entente-ou-contrat/"
+lang-ref: 3-2
+permalink: "/fr/guide/3-2-lettre-entente-contrat/"
 order: 5
 
 ---
