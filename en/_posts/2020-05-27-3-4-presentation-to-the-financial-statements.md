@@ -2,8 +2,8 @@
 layout: post
 title: 3.4. Presentation in the financial statements
 lang: en
-lang-ref: "3-4"
-permalink: "/en/guide/3-4-presentation-to-the-financial-statements/"
+lang-ref: 3-4
+permalink: "/en/guide/3-4-presentation-financial-statements/"
 order: 7
 
 ---
