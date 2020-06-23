@@ -2,8 +2,8 @@
 layout: post
 title: 5.1. Cash donations
 lang: en
-lang-ref: "5-1"
-permalink: "/en/guide/5-1/"
+lang-ref: 5-1
+permalink: "/en/guide/5-1-cash-donations/"
 order: 21
 
 ---
