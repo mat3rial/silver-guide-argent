@@ -2,8 +2,8 @@
 layout: post
 title: 5.5. Don de services
 lang: fr
-lang-ref: "5-5"
-permalink: "/fr/guide/5-5/"
+lang-ref: 5-5
+permalink: "/fr/guide/5-5-don-de-services/"
 order: 25
 
 ---
