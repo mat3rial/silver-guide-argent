@@ -157,6 +157,23 @@ body {
       }
     }
   }
+  #nav-footer-wrapper {
+    position: relative;
+    width: 100%;
+    border: 1px solid black;
+    border-top: none;
+    .section-nav, .subsection-nav {
+      display: grid;
+      width: 100%;
+    }
+    .section-nav {
+      grid-template-columns: repeat(5, 1fr);
+      div h2 {
+        text-align: center;
+        font-family: "GeometricBlack";
+      }
+    }
+  }
 }
 
 @media (min-width: 767px) {

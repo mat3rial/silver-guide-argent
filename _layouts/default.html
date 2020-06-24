@@ -3,30 +3,17 @@
 
   {% include head.html %}
   <body>
-
     <div class="outer-wrapper">
       <div id="main-content"  class="{{ page.layout }}">
         {% include home_title.html %}
         {% include header.html %}
         {{ content }}
       </div>
-      <div id="footer-wrapper">
-        <div>
-          <img class="arca-image" src="{{ site.baseurl }}/assets/img/arca_logo.png"/>
-          <div>
-            <span>&copy; 2020, Artist-Run Centres and</span>
-            <span>Collectives Conference \</span>
-            <span>Conférence des collectifs et des</span>
-            <span>centres d'artistes autogérés</span>
-          </div>
-        </div>
-        <div>
-          <img src="{{ site.baseurl }}/assets/img/CCA_RGB_black_e.png"/>
-        </div>
-        <div>
-          <img src="{{ site.baseurl }}/assets/img/2li_EnFr_Wordmark_C.png"/>
-        </div>
-      </div>
+      {% if page.layout == 'post' %}
+        {% include guide_footer.html %}
+      {% else %}
+        {% include main_footer.html %}
+      {% endif %}
     </div>
     <!-- {% include exp_footer.html %} -->
     <!-- <p>{{ page.path }}</p>

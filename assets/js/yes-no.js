@@ -17,22 +17,24 @@ $( document ).ready(function() {
     $(this).addClass('active');
     $(this).parent().addClass('used');
     $(this).removeClass('hover');
-    $(this).parents('.outer-yes-no-wrapper').find('.correct-message').slideDown('fast');
+
     if ($(this).siblings('.wrong').hasClass('active')) {
       $(this).parents('.outer-yes-no-wrapper').find('.incorrect-message').slideUp('fast');
       $(this).siblings('.wrong').removeClass('active')
     }
+    $(this).parents('.outer-yes-no-wrapper').find('.correct-message').slideDown('fast');
     answered = 1
   });
   $('.wrong').on('click', function() {
     $(this).addClass('active');
     $(this).parent().addClass('used');
     $(this).removeClass('hover');
-    $(this).parents('.outer-yes-no-wrapper').find('.incorrect-message').slideDown('fast');
+
     if ($(this).siblings('.right').hasClass('active')) {
       $(this).parents('.outer-yes-no-wrapper').find('.correct-message').slideUp('fast');
       $(this).siblings('.right').removeClass('active');
     }
+    $(this).parents('.outer-yes-no-wrapper').find('.incorrect-message').slideDown('fast');
     answered = 1
   });
   if (answered == 1) {
