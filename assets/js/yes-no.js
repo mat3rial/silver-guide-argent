@@ -1,32 +1,41 @@
-const wrong_color = "#F92403";
-const right_color = "green";
+const color = "#F92403";
+// const right_color = "green";
 
 var answered = 0;
 $( document ).ready(function() {
   $('.choices div').hover(function(){
-    if (answered == 0) {
+    if (!$(this).hasClass('active')) {
       $(this).toggleClass('hover');
     }
   });
 
   $('.right').on('click', function() {
-    if (answered == 0) {
-      $(this).css({
-        'background-color': right_color,
-        'color': "white"
-      });
-      $('.correct-message').slideDown('fast');
-      answered = 1
+    // $(this).css({
+    //   'background-color': color,
+    //   'color': "white"
+    // });
+    $(this).addClass('active');
+    $(this).parent().addClass('used');
+    $(this).removeClass('hover');
+    $(this).parents('.outer-yes-no-wrapper').find('.correct-message').slideDown('fast');
+    if ($(this).siblings('.wrong').hasClass('active')) {
+      $(this).parents('.outer-yes-no-wrapper').find('.incorrect-message').slideUp('fast');
+      $(this).siblings('.wrong').removeClass('active')
     }
+    answered = 1
   });
   $('.wrong').on('click', function() {
-    if (answered == 0) {
-      $(this).css({
-        'background-color': wrong_color,
-        'color': "white"
-      });
-      $('.incorrect-message').slideDown('fast');
-      answered = 1;
+    $(this).addClass('active');
+    $(this).parent().addClass('used');
+    $(this).removeClass('hover');
+    $(this).parents('.outer-yes-no-wrapper').find('.incorrect-message').slideDown('fast');
+    if ($(this).siblings('.right').hasClass('active')) {
+      $(this).parents('.outer-yes-no-wrapper').find('.correct-message').slideUp('fast');
+      $(this).siblings('.right').removeClass('active');
     }
+    answered = 1
   });
+  if (answered == 1) {
+
+  }
 });
