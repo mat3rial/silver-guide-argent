@@ -23,6 +23,8 @@ Les ressources suivantes ont été consultées dans le cadre de la rédaction de
 
 [https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html](https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html")
 
+< a href="https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html" target="_blank" title="Renseignements sur la TPS/TVH pour les organismes à but non lucratif">https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html</a>
+
 **Renseignements sur la TPS/TVH pour les organismes à but non lucratif : Le parrainage**
 
 <a href="https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html#P6651_7588" target="_blank" title="Renseignements sur la TPS/TVH pour les organismes à but non lucratif : Le parrainage">https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html#P6651_7588</a>
