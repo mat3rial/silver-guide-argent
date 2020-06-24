@@ -9,7 +9,7 @@ Les ressources suivantes ont été consultées dans le cadre de la rédaction de
 
 **Dons de service**
 
-[https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/organismes-bienfaisance/politiques-lignes-directrices/commentaire-sujet-politique-017-dons-services.html](https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/organismes-bienfaisance/politiques-lignes-directrices/commentaire-sujet-politique-017-dons-services.html "https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/organismes-bienfaisance/politiques-lignes-directrices/commentaire-sujet-politique-017-dons-services.html")
+<a href="https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/organismes-bienfaisance/politiques-lignes-directrices/commentaire-sujet-politique-017-dons-services.html" target="_blank" title="Dons de service">https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/organismes-bienfaisance/politiques-lignes-directrices/commentaire-sujet-politique-017-dons-services.html</a>
 
 **Folio de l’impôt sur le revenu S7-F1-C1, Reçus pour dons pour une partie de la valeur et juste valeur marchande réputée**
 
