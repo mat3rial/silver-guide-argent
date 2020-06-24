@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: static_page
 title: à propos
 lang-ref: about
 lang: fr

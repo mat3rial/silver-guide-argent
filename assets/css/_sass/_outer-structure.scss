@@ -1,5 +1,11 @@
+html {
+  position: absolute;
+  width: 100vw;
+}
+
 body {
   font-family: "GeometricMedium";
+  // position: absolute;
 }
 
 .home-title, .page-title {
@@ -35,15 +41,15 @@ body {
 }
 
 .outer-wrapper {
-  width: 96%;
+  // width: 96%;
   min-height: 93vh;
   position: relative;
   padding: 2%;
   margin-left: auto;
   margin-right: auto;
   max-width: 1100px;
-  display: grid;
-  grid-template-rows: auto 100px;
+  // display: grid;
+  // grid-template-rows: auto 100px;
   #main-content {
     position:relative;
     &.home {
@@ -54,8 +60,25 @@ body {
         .column-two {
           border-left: none;
           padding-left: 20px;
-          padding-right: 20px;
+          padding-right: 40px;
         }
+      }
+    }
+    &.static_page {
+      .body-wrapper {
+        // grid-template-columns: 23.33% auto;
+        display: flex;
+        flex-direction: column;
+        .column-two {
+          display:grid;
+          grid-template-columns: auto auto;
+          padding-top: 0;
+          h1, h2 {
+            padding: 0;
+            margin-top: 15px;
+          }
+        }
+
       }
     }
     .body-wrapper {
@@ -69,6 +92,7 @@ body {
       // > div {
       //   padding: 20px;
       // }
+
       .column-one {
         padding: 20px;
 
@@ -136,11 +160,36 @@ body {
 }
 
 @media (min-width: 767px) {
-  #main-content.home {
-    .home-title-container {
-      display: none;
+  .outer-wrapper {
+    #main-content.home {
+      .home-title-container {
+        display: none;
+      }
+    }
+    #main-content {
+      &.static_page {
+        .body-wrapper {
+          .column-two {
+            padding-left: 15%;
+            grid-column-gap: 40px;
+            h1,h2 {
+              grid-column: 1;
+              text-align: right;
+
+            }
+            p {
+              grid-column: 2;
+            }
+            hr {
+              grid-column: 2;
+              margin-bottom: 15px;
+            }
+          }
+        }
+      }
     }
   }
+
 }
 @media (max-width: 850px) {
   .menu-link {
@@ -170,6 +219,7 @@ body {
   }
   .outer-wrapper {
     grid-template-rows: auto 300px;
+    padding: 0;
     #main-content {
       &.home {
         .home-title-container {
@@ -185,6 +235,16 @@ body {
         .column-two {
           border-left: none;
           border-top: 1px solid black;
+        }
+      }
+      &.static_page {
+        .body-wrapper {
+          .column-two {
+            padding-top: 30px;
+            padding-left: 30px;
+            // grid-template-columns: auto;
+            display: block;
+          }
         }
       }
     }
