@@ -25,8 +25,8 @@ Les ressources suivantes ont été consultées dans le cadre de la rédaction de
 
 **Renseignements sur la TPS/TVH pour les organismes à but non lucratif : Le parrainage**
 
-[https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html#P6651_7588](https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html#P6651_7588 "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html#P6651_7588")
+<a href="https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html#P6651_7588" target="_blank" title="Renseignements sur la TPS/TVH pour les organismes à but non lucratif : Le parrainage">https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4081/renseignements-tps-tvh-organismes-a-non-lucratif.html#P6651_7588</a>
 
 Marylie Loiselle (2011) avec mise à jour (janvier 2014): APSV comptables professionnels agréés inc., Taxe à la consommation au Québec : règles générales applicables aux organismes sans but lucratif du milieu des arts et de la culture, HEC Montréal, 2014
 
-<a href="https://ideos.hec.ca/wp-content/uploads/2014/06/Q_Taxes_E0_la_consommation_-_Organismes_E0_but_non_lucra__tif-mise-%C3%A0-jour-janvier-2014-par-APSV.pdf" target="_blank">https://ideos.hec.ca/wp-content/uploads/2014/06/Q_Taxes_E0_la_consommation_-_Organismes_E0_but_non_lucra__tif-mise-%C3%A0-jour-janvier-2014-par-APSV.pdf</a>
+<a href="https://ideos.hec.ca/wp-content/uploads/2014/06/Q_Taxes_E0_la_consommation_-_Organismes_E0_but_non_lucra__tif-mise-%C3%A0-jour-janvier-2014-par-APSV.pdf" target="_blank" title="Taxe à la consommation au Québec : règles générales applicables aux organismes sans but lucratif du milieu des arts et de la culture">https://ideos.hec.ca/wp-content/uploads/2014/06/Q_Taxes_E0_la_consommation_-_Organismes_E0_but_non_lucra__tif-mise-%C3%A0-jour-janvier-2014-par-APSV.pdf</a>
