@@ -6,4 +6,4 @@ lang: fr
 permalink: "/fr/boîte_à_outils/procédures/"
 
 ---
-link to assets/procedures/procédure_dons.doc
+\[PROCÉDURE POUR DEMANDE DE DONS (avec ou sans reçu de charité)\]({{ site.baseurl }}/assets/procedures/donation_procedure.doc)
