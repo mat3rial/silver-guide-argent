@@ -23,3 +23,7 @@ permalink: "/en/toolkit/templates/"
 [PROMOTION AGREEMENT]({{ site.baseurl }}/assets/template-en/promo_agreement.doc) (.doc)
 
 [DONATION RECEIPT]({{ site.baseurl }}/assets/template-en/receipt_donation.doc) (.doc)
+
+[SPONSORSHIP LETTER]({{ site.baseurl }}/assets/template-en/sponsorship_letter.doc) (.doc)
+
+[VOLUNTEER REGISTRY]({{ site.baseurl }}/assets/template-en/registry_volunteer.xls) (.xls)
