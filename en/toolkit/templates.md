@@ -6,26 +6,8 @@ lang: en
 permalink: "/en/toolkit/templates/"
 
 ---
-This is the templates page.
+[LETTER OF AGREEMENT FOR EXCHANGE OF SERVICES]({{ site.baseurl }}/assets/template-en/agreement_exchange.doc)
 
-<!-- SNIPPET INFO: ACCORDION EXAMPlE  **You can delete these notes after referencing!**
-\-->
+[ARTIST CONTRACT DONATION]({{ site.baseurl }}/assets/template-en/contract_artist_donations.doc)
 
-{% include accordion_example.html
-example_text="Here is the templates page."
-%}
-
-<!-- SNIPPET INFO: YES_NO  **You can delete these notes after referencing!**
-
-* The question and answer variables must remain, but the right and wrong messages are optional, they will use a default if not included.
-* If yes (oui) is correct, answer = 1. If no (non) is correct, answer = 0.
-  \-->
-
-{% include yes_no.html
-question="Is this a yes/no question?"
-answer = 1
-yes = "Nice job!"
-no = "Sorry that's wrong!"
-%}
-
-[\[\]()](https://github.com "Github")
+[FAQ FOR ART DONORS]({{ site.baseurl }}/assets/template-en/FAQ_art_donors.doc)
