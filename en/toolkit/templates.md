@@ -21,3 +21,5 @@ permalink: "/en/toolkit/templates/"
 [LETTER FOR CASH SPONSOR]({{ site.baseurl }}/assets/template-en/letter_request_cash_sponsor.doc) (.doc)
 
 [PROMOTION AGREEMENT]({{ site.baseurl }}/assets/template-en/promo_agreement.doc) (.doc)
+
+[DONATION RECEIPT]({{ site.baseurl }}/assets/template-en/receipt_donation.doc) (.doc)
