@@ -11,3 +11,13 @@ permalink: "/en/toolkit/templates/"
 [ARTIST CONTRACT DONATION]({{ site.baseurl }}/assets/template-en/contract_artist_donations.doc) (.doc)
 
 [FAQ FOR ART DONORS]({{ site.baseurl }}/assets/template-en/FAQ_art_donors.doc) (.doc)
+
+[RAFFLE DONOR FORM]({{ site.baseurl }}/assets/template-en/form_donations_raffle.doc) (.doc)
+
+[LETTER FOR FOOD SPONSOR]({{ site.baseurl }}/assets/template-en/letter_food_sponsor.doc) (.doc)
+
+[LETTER FOR RAFFLE DONOR]({{ site.baseurl }}/assets/template-en/letter_raffle_donor.doc) (.doc)
+
+[LETTER FOR CASH SPONSOR]({{ site.baseurl }}/assets/template-en/letter_request_cash_sponsor.doc) (.doc)
+
+[PROMOTION AGREEMENT]({{ site.baseurl }}/assets/template-en/promo_agreement.doc) (.doc)
