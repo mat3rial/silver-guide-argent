@@ -4,7 +4,7 @@ title: 1. Considérations
 lang: fr
 lang-ref: "1"
 permalink: "/fr/guide/1-considérations/"
-section: 1
+section: "1"
 
 ---
 * Les OBNL[**\[1\]**](#_ftn1) devraient d’abord procéder à une analyse de rentabilité pour savoir si la valeur des échanges non monétaires sont bel et bien susceptibles de diversifier les sources de revenus, compte tenu des coûts qui accompagnent inévitablement la production et le traitement de documents comptables.
@@ -20,6 +20,7 @@ Si vous relevez une erreur dans ce document, nous vous prions de nous en aviser,
 
 [**\[1\]**](#_ftnref1) Revenu Québec utilise le terme organisme sans but lucratif (OSBL) dans ses publications, alors que l’Agence du revenu du Canada opte pour le terme organisme à but non lucratif (OBNL). Ces deux appellations ont la même signification, bien que le terme OBNL soit le plus couramment utilisé en pratique dans le milieu des arts et de la culture. Toutefois, puisque c’est Revenu Québec qui administre la TPS et la TVQ au Québec et que c’est le terme OSBL qui est utilisé dans toutes ses publications, c’est ce terme qui a été retenu aux fins du présent document. (Référence : TAXE À LA CONSOMMATION AU QUÉBEC : RÈGLES GÉNÉRALES APPLICABLES AUX ORGANISMES SANS BUT LUCRATIF DU MILIEU DES ARTS ET DE LA CULTURE, HEC, 2014)
 
-**Réception d'un bien ou d'un service sans contrepartie monétaire**
 
-{% include yes_no.html question="En échange, est-ce que l'organisme fournit un bien ou un service ?" answer = 1 yes = "go to section 3" no = "go to section 2" %}
+
+{% include yes_no.html question="Réception d'un bien ou d'un service sans contrepartie monétaire. 
+En échange, est-ce que l'organisme fournit un bien ou un service ?" answer = 1 yes = "go to section 3" no = "go to section 2" %}
