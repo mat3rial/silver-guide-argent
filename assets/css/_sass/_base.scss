@@ -58,6 +58,13 @@ p {
   font-family: $body-font-family;
 }
 
+p a{
+  font-weight:bold;
+}
+p a:hover{
+  text-decoration:underline;
+}
+
 /* Lists */
 ul, ol, dl {
   margin-top: 1rem;
