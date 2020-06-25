@@ -3,7 +3,7 @@ layout: post
 title: 3.3. Comptabilisation
 lang: fr
 lang-ref: "3-3"
-permalink: "/fr/guide/3-3-comptabilisation/"
+permalink: "/fr/guide/3_3-comptabilisation/"
 order: 6
 
 ---

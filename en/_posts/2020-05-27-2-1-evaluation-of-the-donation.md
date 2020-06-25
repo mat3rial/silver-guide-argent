@@ -3,7 +3,7 @@ layout: post
 title: 2.1 Evaluation of the contribution
 lang: en
 lang-ref: 2-1
-permalink: "/en/guide/2-1-evaluation-of-contribution/"
+permalink: "/en/guide/2_1-evaluation-of-contribution/"
 order: 9
 
 ---

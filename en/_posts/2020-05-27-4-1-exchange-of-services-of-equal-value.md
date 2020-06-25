@@ -3,7 +3,7 @@ layout: post
 title: 4.1. Exchange of services of equal value
 lang: en
 lang-ref: "4-1"
-permalink: "/en/guide/4-1/"
+permalink: "/en/guide/4_1-exhange-of-services-of-equal-value/"
 order: 19
 
 ---

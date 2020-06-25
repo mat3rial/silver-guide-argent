@@ -3,7 +3,7 @@ layout: post
 title: 5.1. Dons faits en espèces
 lang: fr
 lang-ref: 5-1
-permalink: "/fr/guide/5-1-dons-espèces/"
+permalink: "/fr/guide/5_1-dons-espèces/"
 order: 21
 
 ---

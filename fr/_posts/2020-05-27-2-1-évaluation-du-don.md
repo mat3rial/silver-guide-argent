@@ -3,7 +3,7 @@ layout: post
 title: 2.1. Évaluation du don
 lang: fr
 lang-ref: 2-1
-permalink: "/fr/guide/2-1-évaluation-du-don/"
+permalink: "/fr/guide/2_1-évaluation-du-don/"
 order: 9
 
 ---

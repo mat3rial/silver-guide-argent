@@ -3,7 +3,7 @@ layout: post
 title: 3.1. Évaluation de l'échange
 lang: fr
 lang-ref: 3-1
-permalink: "/fr/guide/3-1-évaluation-échange/"
+permalink: "/fr/guide/3_1-évaluation-échange/"
 order: 4
 
 ---

@@ -3,7 +3,7 @@ layout: post
 title: '4.1. Échange de services de valeur équivalente '
 lang: fr
 lang-ref: 4-1
-permalink: "/fr/guide/4-1-échange-valeur-équivalente/"
+permalink: "/fr/guide/4_1-échange-valeur-équivalente/"
 order: 19
 
 ---

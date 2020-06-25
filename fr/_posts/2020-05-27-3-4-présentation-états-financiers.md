@@ -3,7 +3,7 @@ layout: post
 title: 3.4. Présentation aux états financiers
 lang: fr
 lang-ref: 3-4
-permalink: "/fr/guide/3-4-présentation-états-financiers/"
+permalink: "/fr/guide/3_4-présentation-états-financiers/"
 order: 7
 
 ---

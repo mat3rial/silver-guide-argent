@@ -3,7 +3,7 @@ layout: post
 title: 3.1. Evaluation of the exchange
 lang: en
 lang-ref: 3-1
-permalink: "/en/guide/3-1-evaluation-exchange/"
+permalink: "/en/guide/3_1-evaluation-exchange/"
 order: 4
 
 ---

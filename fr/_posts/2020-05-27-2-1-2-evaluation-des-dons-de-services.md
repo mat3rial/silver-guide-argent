@@ -3,7 +3,7 @@ layout: post
 title: 2.1.2. Évaluation des dons de services
 lang: fr
 lang-ref: 2-1-2
-permalink: "/fr/guide/2-1-2-dons-de-services/"
+permalink: "/fr/guide/2_1_2-dons-de-services/"
 order: 18
 
 ---

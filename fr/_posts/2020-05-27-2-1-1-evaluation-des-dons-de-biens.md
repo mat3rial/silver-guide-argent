@@ -3,7 +3,7 @@ layout: post
 title: 2.1.1. Évaluation des dons de biens
 lang: fr
 lang-ref: 2-1-1
-permalink: "/fr/guide/2-1-1-dons-de-biens/"
+permalink: "/fr/guide/2_1_1-dons-de-biens/"
 order: 17
 
 ---

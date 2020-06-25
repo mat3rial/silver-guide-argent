@@ -3,7 +3,7 @@ layout: post
 title: '5.3. Donation of purchased work '
 lang: en
 lang-ref: 5-3
-permalink: "/en/guide/5-3-donation-purchased-work/"
+permalink: "/en/guide/5_3-donation-purchased-work/"
 order: 23
 
 ---

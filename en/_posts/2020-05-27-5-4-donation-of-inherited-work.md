@@ -3,7 +3,7 @@ layout: post
 title: 5.4. Donation of inherited work
 lang: en
 lang-ref: 5-4
-permalink: "/en/guide/5-4-donation-inherited-work/"
+permalink: "/en/guide/5_4-donation-inherited-work/"
 order: 24
 
 ---

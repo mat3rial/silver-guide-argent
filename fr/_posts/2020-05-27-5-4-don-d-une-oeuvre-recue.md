@@ -3,7 +3,7 @@ layout: post
 title: 5.4. Don d'une œuvre reçue
 lang: fr
 lang-ref: 5-4
-permalink: "/fr/guide/5-4-don-œuvre-reçue/"
+permalink: "/fr/guide/5_4-don-œuvre-reçue/"
 order: 24
 
 ---
