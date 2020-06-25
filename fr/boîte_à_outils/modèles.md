@@ -29,3 +29,7 @@ permalink: "/fr/boîte_à_outils/modèles/"
 [REÇUS OFFICIELS DE DONS]({{ site.baseurl }}/assets/modèle-fr/reçu_dons.doc) (.doc)
 
 [REGISTRE BÉNÉVOLES]({{ site.baseurl }}/assets/modèle-fr/registre_bénévoles.xls) (.xls)
+
+[FACTURE DU DON 1]({{ site.baseurl }}/assets/modèle-fr/rfacture_don_1.pdf) (.pdf)
+
+[FACTURE DU DON 2]({{ site.baseurl }}/assets/modèle-fr/rfacture_don_2.pdf) (.pdf)
