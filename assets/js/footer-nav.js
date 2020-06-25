@@ -10,13 +10,14 @@ $( document ).ready(function() {
     // if (section_splits.length == 1) {
     //   $('section-nav').children().eq();
     // }
+    if (section_splits.length > 1) {
+      $('.section-nav').css('border-bottom', '1px solid black');
+    }
     $('.section-nav').children().eq(section_splits[0]-1).css('color', site_red);
     if (section_splits[0] > 1) {
       $('.subsection-nav').children().eq(section_splits[1]-1).css('color', site_red);
     }
-    if (section_splits.length == 2) {
 
-    }
     // if (section_splits.length == 3) {
     //   $('.subsection-nav').css('display', 'block');
     // }

@@ -101,7 +101,11 @@
   //   display: none;
   // }
   .section-nav {
-    border-bottom: 1px solid black;
+    // border-bottom: 1px solid black;
+    h2 {
+      // margin-top: 20px;
+      margin-bottom: 20px;
+    }
   }
   .subsection-nav {
     display: flex;
