@@ -23,3 +23,9 @@ permalink: "/fr/boîte_à_outils/modèles/"
 [LETTRE DEMANDE COMMANDITAIRE]({{ site.baseurl }}/assets/modèle-fr/Lettre_demande_commanditaire.doc) (.doc)
 
 [LETTRE DEMANDE COMMANDITE]({{ site.baseurl }}/assets/modèle-fr/lettre_demande_commandite.doc) (.doc)
+
+[LETTRE DONATEUR]({{ site.baseurl }}/assets/modèle-fr/lettre_donateur.doc) (.doc)
+
+[REÇUS OFFICIELS DE DONS]({{ site.baseurl }}/assets/modèle-fr/reçu_dons.doc) (.doc)
+
+[REGISTRE BÉNÉVOLES]({{ site.baseurl }}/assets/modèle-fr/registre_bénévoles.xls) (.xls)
