@@ -4,7 +4,8 @@ title: 4.1. Exchange of services of equal value
 lang: en
 lang-ref: "4-1"
 permalink: "/en/guide/4_1-exhange-of-services-of-equal-value/"
-order: 19
+order: 1
+section: 4
 
 ---
 These examples illustrate the importance of producing an invoice and accounting for each transaction to ensure that the organization is handling taxes correctly.

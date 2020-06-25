@@ -5,7 +5,7 @@ title: '2. Rules to follow: Accounting for contributions received in the form of
 lang: en
 lang-ref: "2"
 permalink: "/en/guide/2-rules-to-follow/"
-order: 2
+section: 2
 
 ---
 (See Diagram 1)

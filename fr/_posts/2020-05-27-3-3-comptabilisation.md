@@ -4,7 +4,8 @@ title: 3.3. Comptabilisation
 lang: fr
 lang-ref: "3-3"
 permalink: "/fr/guide/3_3-comptabilisation/"
-order: 6
+order: 3
+section: 3
 
 ---
 Afin de faciliter la comptabilisation dans les registres comptables, une copie de la lettre d’entente ou du contrat devrait être remise à la personne responsable de la comptabilité de l’organisme. Celle-ci pourra alors procéder à l’inscription de ces opérations dans les registres comptables par l’émission de factures.

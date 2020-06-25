@@ -4,7 +4,8 @@ title: 5.1. Dons faits en espèces
 lang: fr
 lang-ref: 5-1
 permalink: "/fr/guide/5_1-dons-espèces/"
-order: 21
+order: 1
+section: 5
 
 ---
 Dans le cas des reçus de **dons faits en espèces (argent comptant)**, la chose est simple. Le reçu remis indique le montant des espèces encaissées par l’organisme. Les informations suivantes doivent apparaître sur le reçu (voir onglet _Modèles_ : reçu_don) :

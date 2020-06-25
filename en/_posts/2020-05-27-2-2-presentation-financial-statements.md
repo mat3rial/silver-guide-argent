@@ -4,7 +4,9 @@ title: 2.2. Presentation in the financial statements
 lang: en
 lang-ref: 2-2
 permalink: "/en/guide/2_2-presentation-financial-statements/"
-order: 11
+order: 2
+section: 2
+
 
 ---
 When an organization chooses to record contributions of goods and services, it must present the following information in its financial statements:

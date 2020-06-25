@@ -4,7 +4,8 @@ title: 5.4. Don d'une œuvre reçue
 lang: fr
 lang-ref: 5-4
 permalink: "/fr/guide/5_4-don-œuvre-reçue/"
-order: 24
+order: 4
+section: 5
 
 ---
 Une donatrice reçoit une œuvre d’art d’une valeur de 1 500 $ en héritage. Deux ans plus tard, elle fait don de l’œuvre d’art à un organisme de bienfaisance enregistré. Avant de donner l’œuvre d’art, la donatrice la fait évaluer pour un montant de 2 000 $.

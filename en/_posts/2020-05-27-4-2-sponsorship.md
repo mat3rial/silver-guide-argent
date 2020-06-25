@@ -4,7 +4,8 @@ title: 4.2 Sponsorship
 lang: en
 lang-ref: 4-2
 permalink: "/en/guide/4_2-sponsorship/"
-order: 20
+order: 2
+section: 4
 
 ---
 Non-profit organizations often receive sponsorships from businesses to fund their activities. In return, the non-profit organization may provide promotional services to the sponsor or may allow the sponsor the right to use its logo, trade name, or any similar intellectual property.

@@ -4,7 +4,7 @@ title: '5. Organisme de bienfaisance : Reçus de dons de charité'
 lang: fr
 lang-ref: "5"
 permalink: "/fr/guide/5-reçus-dons-de-charité/"
-order: 13
+section: 5
 
 ---
 (Voir Schéma No. 2)

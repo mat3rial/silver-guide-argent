@@ -4,7 +4,8 @@ title: 4.2. Parrainage (commandite)
 lang: fr
 lang-ref: 4-2
 permalink: "/fr/guide/4_2-parrainage-commandite/"
-order: 20
+order: 2
+section: 4
 
 ---
 Les organismes à but non lucratif reçoivent souvent des contributions d'entreprises pour financer leurs activités. En retour, l'organisation à but non lucratif peut fournir des services promotionnels pour le parrain ou peut accorder à celui-ci le droit d'utiliser son logo, son nom d’organisme, ou toute autre propriété intellectuelle similaire.

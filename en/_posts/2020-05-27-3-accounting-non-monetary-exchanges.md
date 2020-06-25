@@ -4,7 +4,7 @@ title: '3. Accounting for non-monetary exchanges (bartered exchanges) '
 lang: en
 lang-ref: "3"
 permalink: "/en/guide/3-accounting-non-monetary-exchanges/"
-order: 10
+section: 3
 
 ---
 (See diagram 1)

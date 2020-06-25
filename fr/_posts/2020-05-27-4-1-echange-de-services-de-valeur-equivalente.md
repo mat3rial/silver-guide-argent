@@ -4,7 +4,8 @@ title: '4.1. Échange de services de valeur équivalente '
 lang: fr
 lang-ref: 4-1
 permalink: "/fr/guide/4_1-échange-valeur-équivalente/"
-order: 19
+order: 1
+section: 4
 
 ---
 Cet exemple démontre l’importance de produire et de comptabiliser une facture pour chacune de ces transactions afin de s’assurer que l’organisme traite de façon adéquate les taxes.

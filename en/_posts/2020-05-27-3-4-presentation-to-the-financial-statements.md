@@ -4,7 +4,8 @@ title: 3.4. Presentation in the financial statements
 lang: en
 lang-ref: 3-4
 permalink: "/en/guide/3_4-presentation-financial-statements/"
-order: 7
+order: 4
+section: 3
 
 ---
 _(CPA Canada Handbook, Chap. 3831.17)_

@@ -5,7 +5,7 @@ title: '2. Règles à suivre : Comptabilisation des dons reçus sous forme de bi
 lang: fr
 lang-ref: "2"
 permalink: "/fr/guide/2-règles-à-suivre/"
-order: 2
+section: 2
 
 ---
 (voir Schéma 1)

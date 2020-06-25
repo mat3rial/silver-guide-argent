@@ -4,7 +4,8 @@ title: '5.3. Don d''une œuvre d''art acquise '
 lang: fr
 lang-ref: 5-3
 permalink: "/fr/guide/5_3-don-œuvre-acquise/"
-order: 23
+order: 3
+section: 5
 
 ---
 Si le donateur fait don du bien dans un délai de trois ans suivant son acquisition, lorsque l'organisme de bienfaisance remet un reçu pour le don, le montant du reçu doit correspondre au montant le moins élevé de la valeur marchande du don et de son coût pour le donateur immédiatement avant que le don soit fait.

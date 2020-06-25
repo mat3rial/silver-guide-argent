@@ -4,7 +4,8 @@ title: 3.4. Présentation aux états financiers
 lang: fr
 lang-ref: 3-4
 permalink: "/fr/guide/3_4-présentation-états-financiers/"
-order: 7
+order: 4
+section: 3
 
 ---
 _(Manuel de CPA Canada, Chap. 3831.17_)

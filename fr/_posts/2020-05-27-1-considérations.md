@@ -4,7 +4,7 @@ title: 1. Considérations
 lang: fr
 lang-ref: "1"
 permalink: "/fr/guide/1-considérations/"
-order: 1
+section: 1
 
 ---
 * Les OBNL[**\[1\]**](#_ftn1) devraient d’abord procéder à une analyse de rentabilité pour savoir si la valeur des échanges non monétaires sont bel et bien susceptibles de diversifier les sources de revenus, compte tenu des coûts qui accompagnent inévitablement la production et le traitement de documents comptables.

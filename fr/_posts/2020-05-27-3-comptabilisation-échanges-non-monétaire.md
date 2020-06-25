@@ -5,7 +5,7 @@ title: '3. Règles à suivre : comptabilisation des échanges non-monétaires (�
 lang: fr
 lang-ref: "3"
 permalink: "/fr/guide/3-comptabilisation-échanges-non-monétaire/"
-order: 10
+section: 3
 
 ---
 (Voir Schéma 1)

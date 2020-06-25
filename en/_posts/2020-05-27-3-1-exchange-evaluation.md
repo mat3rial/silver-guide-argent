@@ -4,7 +4,9 @@ title: 3.1. Evaluation of the exchange
 lang: en
 lang-ref: 3-1
 permalink: "/en/guide/3_1-evaluation-exchange/"
-order: 4
+order: 1
+section: 3
+
 
 ---
 The fair value of **donated goods** **or services** is based on the normal sale price established by the organization when these types of revenues are made.

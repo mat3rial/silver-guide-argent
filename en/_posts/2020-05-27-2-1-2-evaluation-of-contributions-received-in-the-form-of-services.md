@@ -4,7 +4,7 @@ title: 2.1.2. Evaluation of contributions received in the form of services
 lang: en
 lang-ref: 2-1-2
 permalink: "/en/guide/2_1_2-donation-of-services/"
-order: 18
+section: 2
 
 ---
 ## Office or management work performed free of charge by a professional:

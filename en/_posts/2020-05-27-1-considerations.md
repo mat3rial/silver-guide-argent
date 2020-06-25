@@ -4,8 +4,7 @@ title: 1. Considerations
 lang: en
 lang-ref: "1"
 permalink: "/en/guide/1-considerations/"
-order: 1
-
+section: 1
 ---
 * A non-profit organization should always make a cost-benefit assessment to determine if the added value of this information (i.e., whether non-monetary exchanges may contribute to diversifying revenue sources) is worthwhile given the costs incurred in establishing and maintaining the necessary accounting records.
 * Once budget estimates have been prepared, it may also be beneficial to try to predict the exchanges in goods and services necessary to carry out the organization’s activities for the approaching financial year. These may then be integrated into the accounting process right from the start.

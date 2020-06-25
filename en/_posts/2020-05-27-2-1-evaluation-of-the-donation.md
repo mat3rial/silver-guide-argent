@@ -4,7 +4,8 @@ title: 2.1 Evaluation of the contribution
 lang: en
 lang-ref: 2-1
 permalink: "/en/guide/2_1-evaluation-of-contribution/"
-order: 9
+order: 1
+section: 2
 
 ---
 For organizations, the main challenge is assessing the fair value of goods and services received at no charge. To determine fair value, an organization may rely on market value, appraisal value, or market value of similar supplies and services. This value is established by referencing the purchase price of similar goods and services.

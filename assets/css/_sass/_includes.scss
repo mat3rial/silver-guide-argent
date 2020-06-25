@@ -96,6 +96,29 @@
   }
 }
 
+#nav-footer-wrapper {
+  // .subsection-nav > div, .subsubsection-nav > div {
+  //   display: none;
+  // }
+  .section-nav {
+    border-bottom: 1px solid black;
+  }
+  .subsection-nav {
+    display: flex;
+    > div {
+      flex: 1;
+      padding: 20px 20px 30px;
+      h4 {
+        margin: 0;
+      }
+    }
+    > div:not(:first-child) {
+      border-left: 1px solid black;
+    }
+    // grid-template-columns: auto auto;
+  }
+}
+
 
 @media (min-width: 768px) {
 
