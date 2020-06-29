@@ -1,0 +1,14 @@
+<!-- SNIPPET INFO: YES_NO  **You can delete these notes after referencing!**
+  - The question and answer variables must remain, but the yes and no messages are optional, they will use a default if not included.
+  - If yes (oui) is correct, answer = 1. If no (non) is correct, answer = 0.
+  - yes_link and no_link are the urls (in the current page language) to the next page in the guide based on the answer. If the next page for the yes answer is /ARCA/en/guide/2-rules-to-follow/, set yes_link = "2-rules-to-follow/" (It is always only set to the permalink value after guide in either language)
+-->
+
+{% include yes_no.html
+  question="Is this a yes/no question?"
+  answer = 1
+  yes = "Nice job!"
+  no = "Sorry that's wrong!"
+  yes_link = "example_link"
+  no_link = "example_link"
+%}
