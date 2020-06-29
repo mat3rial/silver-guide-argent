@@ -1,18 +1,19 @@
-{% assign subtitles = site.posts | where: 'lang', page.lang %}
+{% assign subtitles = site.posts | where: 'lang', page.lang | sort: 'section' %}
 {% assign subsection = subtitles | where: 'section', page.section | sort: 'order' %}
 
 <div id="nav-footer-wrapper">
   <div class="section-nav">
-    <div><h2>1</h2></div>
-    <div><h2>2</h2></div>
-    <div><h2>3</h2></div>
-    <div><h2>4</h2></div>
-    <div><h2>5</h2></div>
+    {% for s in subtitles %}
+      {% if s.order or s.omit == "yes" %}
+      {% else %}
+        <div><h2><a href="{{ site.baseurl }}{{ s.url }}">{{ s.section }}</a></h2></div>
+      {% endif %}
+    {% endfor %}
   </div>
   <div class="subsection-nav">
     {% for sub in subsection %}
       {% if sub.order %}
-      <div><h4>{{ sub.title }}</h4></div>
+      <div><h4><a href="{{ site.baseurl }}{{ sub.url }}">{{ sub.title }}</a></h4></div>
       {% endif %}
     {% endfor %}
   </div>
