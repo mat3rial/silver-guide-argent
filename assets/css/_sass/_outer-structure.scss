@@ -16,6 +16,7 @@ body {
 }
 .page-title {
   font-size: 1.7rem;
+  margin: 10px;
 }
 
 .home-title-container {
@@ -44,7 +45,7 @@ body {
   // width: 96%;
   min-height: 93vh;
   position: relative;
-  padding: 2%;
+  padding: 20px;
   margin-left: auto;
   margin-right: auto;
   max-width: 1100px;
@@ -83,7 +84,8 @@ body {
     }
     .body-wrapper {
       width: 100%;
-      height: calc(100% - 53px);
+      // height: calc(100% - 53px);
+      min-height: calc(100vh - 215px);
       // min-height: calc(100vh - 230px);
       display: grid;
       grid-template-columns: 33.33% auto;
@@ -238,6 +240,13 @@ body {
     grid-template-rows: auto 300px;
     padding: 0;
     #main-content {
+      .home-title-container {
+        border: none;
+        border-bottom: 1px solid black;
+        .home-title {
+          margin-left: 20px;
+        }
+      }
       &.home {
         .home-title-container {
           justify-content: flex-end;
@@ -246,12 +255,17 @@ body {
       .body-wrapper {
         grid-template-columns: auto;
         grid-auto-rows: max-content;
+        border: none;
         .column-one {
-
+          .page-title {
+            margin: 10px 0;
+            padding: 0;
+          }
         }
         .column-two {
           border-left: none;
           border-top: 1px solid black;
+          padding-right: 20px !important;
         }
       }
       &.static_page {
@@ -269,9 +283,20 @@ body {
       grid-template-columns: auto;
       grid-auto-rows: auto;
       height: auto;
+      border: none;
+      border-top: 1px solid black;
       > div:not(:first-child) {
         border-left: none;
         border-top: 1px solid black;
+      }
+    }
+    #nav-footer-wrapper {
+      border: none;
+      .subsection-nav {
+        margin: 10px 0;
+        > div {
+          padding: 20px;
+        }
       }
     }
   }

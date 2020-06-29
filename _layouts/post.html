@@ -7,11 +7,11 @@ layout: page
 {% assign prev_page = site.posts | where:"lang", page.lang | where:"order", prev_count %}
 
 {{ content }}
-{% if page.order > 1 and page.order < 25 %}
+<!-- {% if page.order > 1 and page.order < 25 %}
   <a class="guide-button" href="{{ site.baseurl }}{{ prev_page[0].url }}">{{ site.data.translations.prevButton[page.lang] }}</a>
   <a class="guide-button" href="{{ site.baseurl }}{{ next_page[0].url }}">{{ site.data.translations.nextButton[page.lang] }}</a>
 {% elsif page.order == 1 %}
   <a class="guide-button" href="{{ site.baseurl }}{{ next_page[0].url }}">{{ site.data.translations.nextButton[page.lang] }}</a>
 {% elsif page.order == 16 %}
   <a class="guide-button" href="{{ site.baseurl }}{{ prev_page[0].url }}">{{ site.data.translations.prevButton[page.lang] }}</a>
-{% endif %}
+{% endif %} -->

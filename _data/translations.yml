@@ -19,3 +19,9 @@ prevButton:
 getStarted:
   en: get started
   fr: commencer
+yesText:
+  en: "yes"
+  fr: "oui"
+noText:
+  en: "no"
+  fr: "non"
