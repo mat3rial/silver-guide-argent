@@ -11,9 +11,7 @@ Gestion de projet : Anne Bertrand, Pierre Beaudoin
 
 Développement du guide : Sophie Houle, CPA
 
-Développement de la plateforme numérique : Corina MacDonald
-
-Conception graphique : Antonia Hernandez
+Développement de la plateforme numérique : Corina MacDonald, Antonia Hernandez, Evan Savage - MAT3RIAL
 
 Révision : Edwin Janzen
 
