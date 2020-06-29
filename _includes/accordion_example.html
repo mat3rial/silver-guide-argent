@@ -1,6 +1,10 @@
 <div class="outer-accordion-wrapper">
   <div class="example-text-wrapper">
-    <h4>Example </h4>
+    {% if include.title %}
+      <h4 class="include-title">{{ include.title }}</h4>
+    {% else %}
+      <h4>{{ site.data.translations.exampleText[page.lang] }} </h4>
+    {% endif %}
     <div class="close">+</div>
     <div class="open">-</div>
   </div>
