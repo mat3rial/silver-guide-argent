@@ -13,4 +13,4 @@ The fair value of **donated goods** **or services** is based on the normal sale 
 
 The fair value of **goods or services received** is established by the other party based on the sale price normally charged to this client/partner.
 
-next step = 3.2
+{% include next_step_button.html link="3_2-letter-agreement-contract/" %}

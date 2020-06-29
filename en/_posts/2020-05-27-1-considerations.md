@@ -4,7 +4,7 @@ title: 1. Considerations
 lang: en
 lang-ref: "1"
 permalink: "/en/guide/1-considerations/"
-section: "1"
+section: 1
 
 ---
 * A non-profit organization should always make a cost-benefit assessment to determine if the added value of this information (i.e., whether non-monetary exchanges may contribute to diversifying revenue sources) is worthwhile given the costs incurred in establishing and maintaining the necessary accounting records.
@@ -15,9 +15,11 @@ section: "1"
 This guide and toolkit have been developed to provide guidelines for managers and administrators responsible for the economic health and growth of small organizations. Great care has been taken to provide accurate information, along with a series of helpful document templates and procedures. Although written and reviewed by professional accountants, this document may not provide all the answers to the laws governing consumer taxes. Any decision to account for non-monetary operations in your organization’s financial statements should first be discussed and negotiated with your auditor, who is ultimately responsible for ensuring compliance with a growing list of accounting norms. The letter, contract, and form templates found in this resource, generously shared by various ARC administrative staff, can readily be adapted to suit the various and changing circumstances encountered at your centre as it carries out its business and programming.
 
 
-{% include yes_no.html
+{% include nav_yes_no.html
 question="Reception of goods or services with no monetary compensation. Is the organization offering goods or services in exchange?"
 answer = 1
 yes = "go to section 3"
 no = "go to section 2"
+yes_link = "3-accounting-non-monetary-exchanges/"
+no_link = "2-rules-to-follow/"
 %}

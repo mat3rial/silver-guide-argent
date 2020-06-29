@@ -14,4 +14,4 @@ The impact will vary according to an organization’s status. For example, a non
 
 A non-profit organization **not registered for GST/HST** will not charge sales tax on revenue, whether or not it is from a cash sale or an exchange. They may still be able to claim back a portion of the sales tax that they pay on purchases (whether in cash or in an exchange) through the Public Service Bodies Rebate, but any amount they can not claim back will have to be recorded as part of the purchase expense.
 
-next step = 4.1
+{% include next_step_button.html link="4_1-exhange-of-services-of-equal-value/" %}

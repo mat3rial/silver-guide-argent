@@ -20,4 +20,4 @@ It is up to individual organizations to choose whether or not they will account 
 
 3\. The goods and services received are of a kind that the organization would have otherwise purchased.
 
-next step = 2.1
+{% include next_step_button.html link="2_1-evaluation-of-contribution/" %}

@@ -20,4 +20,4 @@ The artist-run centre has to charge 13% HST on the $500 value of the rental. So,
 
 As a registered charity, the theatre can claim back a portion of the HST by filing a Public Service Bodies Rebate. They can claim back 82% of the 8% provincial portion of the HST ($32.80) and 50% of the 5% federal portion of the HST ($12.50), for a total rebate of $45.30. The remaining $19.70 in HST is an expense for the theatre company.
 
-next step = 4.2
+{% include next_step_button.html link="4_2-sponsorship/" %}

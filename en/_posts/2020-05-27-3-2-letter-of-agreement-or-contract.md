@@ -19,4 +19,4 @@ c) GST/HST and applicable provincial tax numbers of each organization, if applic
 
 In cases of service exchange in partnerships, provision may be made to add into the contract a requirement obliging the donor partner to provide a letter detailing the value of the contribution such as shipping charges, production costs, exhibition fees paid to artists, travel and perdiem expenses, or technical assistance, in exchange for the organization’s commitment to provide its facilities and services for the exhibition of the work.
 
-next step = 3.3
+{% include next_step_button.html link="3_3-accounting/" %}

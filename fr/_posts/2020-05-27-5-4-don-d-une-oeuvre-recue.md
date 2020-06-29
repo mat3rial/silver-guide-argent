@@ -19,4 +19,4 @@ En plus des renseignements mentionnés précédemment, l’organisme de bienfais
 * La description du bien reçu;
 * Le nom et l’adresse de l’évaluateur, s’il y a lieu.
 
-next step = 5.5
+{% include next_step_button.html link="5_5-don-de-services/" %}

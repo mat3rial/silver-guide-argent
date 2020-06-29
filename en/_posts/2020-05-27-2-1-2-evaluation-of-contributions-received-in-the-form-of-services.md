@@ -5,7 +5,7 @@ lang: en
 lang-ref: 2-1-2
 permalink: "/en/guide/2_1_2-donation-of-services/"
 section: 2
-
+omit: "yes"
 ---
 ## Office or management work performed free of charge by a professional:
 

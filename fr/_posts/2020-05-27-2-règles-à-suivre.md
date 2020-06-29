@@ -20,4 +20,4 @@ La comptabilisation des dons reçus sous forme de biens ou de services dans ses 
 
 3\. L’organisme aurait dû autrement les acheter.
 
-next step = 2.1
+{% include next_step_button.html link="2_1-évaluation-du-don/" %}

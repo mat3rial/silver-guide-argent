@@ -19,4 +19,4 @@ In addition to the information mentioned above, the charity must supply the foll
 * A description of the received goods.
 * The name and address of the appraiser, if applicable.
 
-next step = 5.5
+{% include next_step_button.html link="5_5-donation-of-services/" %}

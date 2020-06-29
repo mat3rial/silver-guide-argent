@@ -14,4 +14,4 @@ If a donor donates an artwork within three years of purchasing it, the charitabl
 example_text="A donor buys a work of art valued at $300 and, six months later, donates it to a registered charity. Before donating the artwork, the donor has it appraised at a value of $1,000. In this case, the amount indicated on the receipt should be $300."
 %}
 
-next step = 5.4
+{% include next_step_button.html link="5_4-donation-inherited-work/" %}

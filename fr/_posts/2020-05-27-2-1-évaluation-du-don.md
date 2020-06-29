@@ -12,4 +12,4 @@ Pour les organismes, la principale difficulté réside dans l’évaluation de l
 
 Dans le cas d’organismes de bienfaisance, se référer à la section 5 « Reçus de dons de charité », ainsi qu’aux schémas 2 et 3 (voir Onglet _Schémas_)
 
-next step = 2.1.1
+{% include next_step_button.html link="2_1_1-dons-de-biens/" %}

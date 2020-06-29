@@ -14,4 +14,4 @@ For charities, refer to the section 5. on Charitable donation receipts and diagr
 
 Here are a few concrete examples of how to reasonably estimate fair value:
 
-next step: 2.1.1
+{% include next_step_button.html link="2_1_1-donations-of-goods/" %}

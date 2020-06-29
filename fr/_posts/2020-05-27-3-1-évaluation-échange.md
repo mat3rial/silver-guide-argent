@@ -12,4 +12,4 @@ La juste valeur du **bien ou du service donné** est basée sur le prix de vente
 
 La juste valeur **du service ou du bien reçu** est établie par l’autre parti selon ses prix de vente habituels pour ce client/partenaire.
 
-next step = 3.2
+{% include next_step_button.html link="3_2-lettre-entente-contrat/" %}

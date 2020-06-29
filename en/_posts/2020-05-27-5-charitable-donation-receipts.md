@@ -11,4 +11,4 @@ section: 5
 
 Organizations with charitable status can issue charitable donation receipts. However, they must comply with the rules for issuing these receipts.
 
-next step: 5.1
+{% include next_step_button.html link="5_1-cash-donations/" %}

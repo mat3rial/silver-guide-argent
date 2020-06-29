@@ -20,4 +20,4 @@ Le centre d’artistes autogéré doit facturer 13 % de TVH sur la valeur de la 
 
 À titre d’organisme de bienfaisance enregistré, la compagnie de théâtre peut réclamer une portion de la TVH en faisant une demande de remboursement à l’intention des organismes de services publics. Elle peut réclamer 82 % du 8 % qui correspond à la portion provinciale de la TVH (soit 32,80 $) et 50 % du 5 % correspondant à la portion fédérale de la TVH (soit 12,50 $), pour un remboursement total de 45,30 $. Les 19,70 $ restants représentent une dépense pour la compagnie de théâtre.
 
-next step = 4.2
+{% include next_step_button.html link="4_2-parrainage-commandite/" %}

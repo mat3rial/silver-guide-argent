@@ -14,4 +14,4 @@ Ce pourrait être avantageux d’ajouter à la charte des comptes réservés aux
 
 Comme mentionné plus haut dans les considérations initiales, il peut être utile et pertinent de prévoir, dès l’étape des prévisions budgétaires, les échanges de services et de biens nécessaires à la réalisation des activités de l’exercice. Ceux-ci pourront alors être intégrés dans le processus des opérations comptables dès le début.
 
-next step = 3.4
+{% include next_step_button.html link="3_4-présentation-états-financiers/" %}

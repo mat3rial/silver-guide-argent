@@ -5,7 +5,7 @@ lang: en
 lang-ref: 2-1-1
 permalink: "/en/guide/2_1_1-donations-of-goods/"
 section: 2
-
+omit: "yes"
 ---
 ## Donations of property, such as computers:
 
@@ -19,4 +19,4 @@ Usually, a supplier offering a free or significantly discounted item can provide
 
 Ask the landlord how much rent they would normally charge (monthly or periodically) if the premises were not being lent for free.
 
-next step = 2.1.2
+{% include next_step_button.html link="2_1_2-donation-of-services/" %}

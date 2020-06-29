@@ -17,9 +17,11 @@ Généralement, ces opérations sont évaluées à la juste valeur du bien ou du
 Afin de comptabiliser ces échanges non monétaires, iI importe de s’assurer que la juste valeur établie est suffisamment fiable.
 
 
-{% include yes_no.html
+{% include nav_yes_no.html
 question="La juste valeur établie des échanges est-elle suffisamment fiable ?"
 answer = 1
 yes = "go to 3.1"
 no = "Si la juste valeur n’est pas suffisamment fiable, ne pas constater. - end of workflow page"
+yes_link = "3_1-évaluation-échange/"
+no_link = "fin/"
 %}

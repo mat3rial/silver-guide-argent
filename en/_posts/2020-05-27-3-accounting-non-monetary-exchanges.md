@@ -15,9 +15,11 @@ Generally speaking, these transactions are assessed at the fair value either of 
 
 To account for these non-monetary exchanges, it is important to ensure that the assessment of fair value is sufficiently reliable. If the fair value is not sufficiently reliable, do not record it.
 
-{% include yes_no.html
+{% include nav_yes_no.html
 question="Is the established fair value of the exchange sufficiently accurate?"
 answer = 1
 yes = "go to 3.1"
 no = "Do not record transaction in financial statements. - end of workflow page"
+yes_link = "3_1-evaluation-exchange/"
+no_link = "end/"
 %}

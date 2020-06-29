@@ -5,7 +5,7 @@ lang: fr
 lang-ref: 2-1-2
 permalink: "/fr/guide/2_1_2-dons-de-services/"
 section: 2
-
+omit: "yes"
 ---
 ###
 

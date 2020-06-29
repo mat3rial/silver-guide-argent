@@ -18,4 +18,4 @@ c) Numéros de TPS/TVH et des taxes provinciales applicables, le cas échéant d
 
 Dans le cas des échanges de services qui font partie d’un partenariat, des dispositions peuvent être prises directement dans le contrat pour que le partenaire soit tenu de fournir une lettre détaillant la valeur et la nature de la contribution (par ex., les frais de transport, les droits versés aux artistes, les coûts de déplacement et de perdiem, l’aide technique) en échange de l’engagement du partenaire à fournir des équipements et services pour la présentation des œuvres.
 
-next step = 3.3
+{% include next_step_button.html link="3_3-comptabilisation/" %}

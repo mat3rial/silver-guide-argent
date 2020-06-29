@@ -29,4 +29,4 @@ Example volunteer labour not accounted in financial statements: Volunteers devot
 
 Example volunteer labour in financial statements: Volunteer labour as part of its operations, our organization relies on the services of many volunteers. These services are recognized in the organization’s revenues. Volunteer hours are compiled and recorded at an hourly rate equal to the average market rate for similar services (see tab _Scales_)
 
-next step = ending page, end of workflow
+{% include next_step_button.html link="end/" %}

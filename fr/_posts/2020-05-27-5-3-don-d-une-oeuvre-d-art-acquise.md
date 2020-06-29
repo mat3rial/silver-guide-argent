@@ -14,4 +14,4 @@ Si le donateur fait don du bien dans un délai de trois ans suivant son acquisit
 example_text="Un donateur se procure un objet d'art au coût de 300 $ et, six mois plus tard, il en fait don à un organisme de bienfaisance enregistré. Avant de faire don de l'objet, le donateur fait évaluer l'objet à une valeur de 1 000 $. Dans cet exemple, le montant inscrit sur le reçu de don devrait être de 300 $."
 %}
 
-next step = 5.4
+{% include next_step_button.html link="5_4-don-œuvre-reçue/" %}
