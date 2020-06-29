@@ -11,9 +11,7 @@ Project management: Anne Bertrand, Pierre Beaudoin
 
 Guide development: Sophie Houle, CPA
 
-Digital platform development: Corina MacDonald
-
-Platform design: Antonia Hernandez
+Digital platform development: Corina MacDonald, Antonia Hernandez, Evan Savage - MAT3RIAL
 
 Copyediting: Edwin Janzen
 
