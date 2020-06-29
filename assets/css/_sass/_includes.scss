@@ -1,6 +1,7 @@
 .outer-yes-no-wrapper {
   max-width: 350px;
   margin-bottom: 20px;
+  margin-top: 40px;
   .yes-no-wrapper {
     border: 1px solid lightgrey;
     .question {
@@ -50,7 +51,7 @@
 }
 
 .outer-accordion-wrapper {
-  max-width: 60%;
+  max-width: 350px;
   border: 1px solid lightgrey;
   display: grid;
   grid-auto-rows: auto auto;
@@ -72,19 +73,22 @@
     h4 {
       margin-top: 10px;
       margin-bottom: 10px;
+      max-width: 85%;
     }
     .open {
       display: none;
       position: absolute;
-      left: 155px;
-      top: 12px;
+      right: 20px;
+      top: 50%;
+      transform: translateY(-55%);
       color: $site-red;
       font-size: 1.5rem;
     }
     .close {
       position: absolute;
-      left: 150px;
-      top: 12px;
+      right: 15px;
+      top: 50%;
+      transform: translateY(-55%);
       color: $site-red;
       font-size: 1.5rem;
     }

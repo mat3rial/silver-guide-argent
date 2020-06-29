@@ -18,7 +18,7 @@ layout: default
       <h2>{{ page.line2 }}</h2>
     {% endif %}
     {% if page.line3 %}
-      <h2 class="red-box">{{ page.line3 }}</h2>
+      <h2 class="red-box"><a href="{{ site.baseurl }}/{{ page.lang }}/guide/{{ site.data.translations.guideStart[page.lang] }}">{{ page.line3 }}</a></h2>
     {% endif %}
     {% for part in site.guide %}
       <p>{{ part.title }}</p>

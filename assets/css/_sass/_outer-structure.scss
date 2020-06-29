@@ -122,7 +122,10 @@ body {
         .red-box {
           background-color: $site-red;
           text-decoration: underline;
-          color: white;
+          a {
+            color: white;
+          }
+
         }
       }
     }

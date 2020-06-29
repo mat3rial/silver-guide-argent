@@ -25,3 +25,9 @@ yesText:
 noText:
   en: "no"
   fr: "non"
+guideStart:
+  en: "1-considerations/"
+  fr: "1-considérations/"
+exampleText:
+  en: "Example"
+  fr: "Exemple"
