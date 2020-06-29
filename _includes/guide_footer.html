@@ -10,6 +10,8 @@
       {% endif %}
     {% endfor %}
   </div>
+  {% if page.lang-ref == "end" %}
+  {% else %}
   <div class="subsection-nav">
     {% for sub in subsection %}
       {% if sub.order %}
@@ -17,6 +19,7 @@
       {% endif %}
     {% endfor %}
   </div>
+  {% endif %}
   <div class="subsubsection-nav">
 
   </div>
