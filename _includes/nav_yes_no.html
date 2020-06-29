@@ -1,0 +1,45 @@
+{% if include.answer == 0 %} <!-- no -->
+  {% assign classes="wrong|right" | split: "|" %}
+{% else %}
+  {% assign classes="right|wrong" | split: "|" %}
+{% endif %}
+<div class="outer-yes-no-wrapper nav-yes-no">
+  <div class="yes-no-wrapper">
+    <h3 class="question">{{ include.question }}</h3>
+    <div class="choices">
+      <div data-link="{{ include.yes_link }}" class="{{ classes[0] }}"><h3>{{ site.data.translations.yesText[page.lang] }}</h3></div>
+      <div data-link="{{ include.no_link }}" class="{{ classes[1] }}"><h3>{{ site.data.translations.noText[page.lang] }}</h3></div>
+    </div>
+  </div>
+  <div class="incorrect-message">
+    {% if page.url contains "/en/" %}
+      {% if include.no %}
+        {{ include.no }}
+      {% else %}
+        Consult the guide!
+      {% endif %}
+    {% elsif page.url contains "/fr/" %}
+      {% if include.no %}
+        {{ include.no }}
+      {% else %}
+        Consult the guide (FRENCH)!
+      {% endif %}
+    {% endif %}
+  </div>
+  <div class="correct-message">
+    {% if page.url contains "/en/" %}
+      {% if include.yes %}
+        {{ include.yes }}
+      {% else %}
+        Great!
+      {% endif %}
+    {% elsif page.url contains "/fr/" %}
+      {% if include.yes %}
+        {{ include.yes }}
+      {% else %}
+        Bon!
+      {% endif %}
+    {% endif %}
+  </div>
+  <a style="display: none;" class="guide-button" href="{{ site.baseurl }}/{{ page.lang }}/guide/">{{ site.data.translations.nextButton[page.lang] }}</a>
+</div>
