@@ -51,10 +51,22 @@ body {
   max-width: 1100px;
   // display: grid;
   // grid-template-rows: auto 100px;
+  #fixed-header-wrapper {
+    position: fixed;
+    background-color: white;
+    width: calc(100vw - 40px);
+    max-width: 1100px;
+
+    padding: 20px 20px 0;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+  }
   #main-content {
     position:relative;
     &.home {
       .body-wrapper {
+        margin-top: 55px;
         .column-two {
           h2 {
             padding: 20px;
@@ -126,6 +138,7 @@ body {
     }
     &.static_page, &.page, &.post {
       .body-wrapper {
+        margin-top: 106px;
         .column-two {
           border-left: none;
           padding-left: 20px;
@@ -252,7 +265,17 @@ body {
   .outer-wrapper {
     grid-template-rows: auto 300px;
     padding: 0;
+    #fixed-header-wrapper {
+      width: 100%;
+      padding: 0;
+    }
+
     #main-content {
+      &.static_page, &.page, &.post, &.home {
+        .body-wrapper {
+          margin-top: 61px;
+        }
+      }
       .home-title-container {
         border: none;
         border-bottom: 1px solid black;
@@ -263,6 +286,11 @@ body {
       &.home {
         .home-title-container {
           justify-content: flex-end;
+        }
+        .body-wrapper {
+          .column-two {
+            padding-right: 0;
+          }
         }
       }
       .body-wrapper {
@@ -278,7 +306,7 @@ body {
         .column-two {
           border-left: none;
           border-top: 1px solid black;
-          padding-right: 20px !important;
+          padding-right: 20px;
         }
       }
       &.static_page {
