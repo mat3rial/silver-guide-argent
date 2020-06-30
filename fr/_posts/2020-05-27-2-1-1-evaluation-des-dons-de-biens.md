@@ -15,7 +15,8 @@ Si le donateur est un commerçant, lui demander une facture indiquant le prix de
 
 ### Dons de nourriture et de boissons:
 
-Souvent, le fournisseur qui donne à titre gracieux ou consent un rabais important est en mesure de fournir une facture à l’organisme en y indiquant le prix de vente habituel des articles. Il s’agit alors simplement de demander une pièce justificative au fournisseur. 
+Souvent, le fournisseur qui donne à titre gracieux ou consent un rabais important est en mesure de fournir une facture à l’organisme en y indiquant le prix de vente habituel des articles. Il s’agit alors simplement de demander une pièce justificative au fournisseur.
+
 <a href="{{ site.baseurl }}/fr/boîte_à_outils/modèles/" class="toolkit">Voir onglet _Modèles_ : Lettres</a>
 
 ### Espaces de travail ou d’exposition offerts gratuitement :
