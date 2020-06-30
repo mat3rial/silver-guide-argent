@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: static_page
 title: glossary
 lang-ref: glossary
 lang: en
 permalink: "/en/toolkit/glossary/"
 
 ---
-## Contributions ## 
+## Contributions ##
 
 Transfers, with no cash counterpart or other assets, to a non-profit organization, or settlements or cancellations with no consideration of liability to that organization.
 
@@ -19,7 +19,8 @@ A payment amount agreed upon by willing parties in the normal course of business
 ## Input tax credit (ITC) ##
 means a credit that GST/HST registrants can generally claim to recover the GST/HST paid or payable for property and services they acquired, imported into Canada, or brought into a participating province for use, consumption, or supply in the course of their commercial activities.
 
-# #Non-monetary exchanges ##
+## Non-monetary exchanges ##
+
 Exchanges of assets, liabilities, or non-monetary services against other assets, liabilities, or non-monetary services, with no or negligible monetary consideration.
 
 ## Non-profit organization ##
@@ -47,5 +48,5 @@ are charitable organizations, public foundations, or private foundations that ar
 ## Sponsorship ##
 A sponsorship is an exchange of goods between a sponsor and another party through which the sponsor commits to donating money, goods or services in exchange for access to the commercial potential of an activity. Sponsorship fees are not donations and the organization cannot deliver a charitable receipt for sponsorships because the sponsor typically receives the benefit of visibility in exchange. Sponsorships can be given in the form of cash, goods or services.
 
-## Supply ## 
+## Supply ##
 means the provision of property or a service in any way, including sale, transfer, barter, exchange, licence, rental, lease, gift, and disposition.

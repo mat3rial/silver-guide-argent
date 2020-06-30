@@ -54,14 +54,13 @@ body {
   #main-content {
     position:relative;
     &.home {
-
-    }
-    &.static_page, &.page, &.post {
       .body-wrapper {
         .column-two {
-          border-left: none;
-          padding-left: 20px;
-          padding-right: 40px;
+          h2 {
+            padding: 20px;
+            margin-top: 10px;
+            margin-bottom: 30px;
+          }
         }
       }
     }
@@ -114,11 +113,7 @@ body {
           width: 30px;
           border-bottom: 2px solid black;
         }
-        h2 {
-          padding: 20px;
-          margin-top: 10px;
-          margin-bottom: 30px;
-        }
+
         .red-box {
           background-color: $site-red;
           text-decoration: underline;
@@ -126,6 +121,18 @@ body {
             color: white;
           }
 
+        }
+      }
+    }
+    &.static_page, &.page, &.post {
+      .body-wrapper {
+        .column-two {
+          border-left: none;
+          padding-left: 20px;
+          padding-right: 40px;
+          h2 {
+            padding: 10px 0;
+          }
         }
       }
     }
@@ -197,9 +204,12 @@ body {
             h1,h2 {
               grid-column: 1;
               text-align: right;
-
+              max-width: 300px;
             }
             p {
+              grid-column: 2;
+            }
+            ul {
               grid-column: 2;
             }
             hr {
