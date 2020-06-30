@@ -17,7 +17,7 @@ If the donor is a business, ask for a receipt indicating the retail price of the
 
 Usually, a supplier offering a free or significantly discounted item can provide a supporting document indicating the item’s normal sale price. Be sure to ask for one.
 
-<a href="{{ site.baseurl }}/en/toolkit/templates/" class="toolkit">see Tab _Models_: letters</a>
+<a href="{{ site.baseurl }}/en/toolkit/templates/" class="toolkit">see Tab _Templates_: letters</a>
 
 ## Work or exhibition spaces offered free of charge:
 
