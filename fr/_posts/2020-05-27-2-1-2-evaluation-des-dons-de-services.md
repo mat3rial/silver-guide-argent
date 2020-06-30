@@ -6,7 +6,7 @@ lang-ref: 2-1-2
 permalink: "/fr/guide/2_1_2-dons-de-services/"
 section: 2
 omit: 'yes'
-order: 
+order:
 
 ---
 ### Travail de bureau ou de gestion exécuté gratuitement par un professionnel :
@@ -30,23 +30,29 @@ Pour pouvoir divulguer ces informations aux états financiers, qu’ils soient c
 "
 %}
 
-{% include yes_no.html
+{% include nav_yes_no.html
 question="La juste valeur établie du don est-elle suffisamment fiable ?"
 answer = 1
 yes = ""
 no = "Aucune constatation dans les états financiers."
+yes_link = ""
+no_link = "fin/"
 %}
 
-{% include yes_no.html
+{% include nav_yes_no.html
 question="Les biens ou services reçus sont-ils utilisés dans le cadre du fonctionnement courant ?"
 answer = 1
 yes = ""
 no = "Aucune constatation dans les états financiers."
+yes_link = ""
+no_link = "fin/"
 %}
 
-{% include yes_no.html
+{% include nav_yes_no.html
 question="L'organisme aurait-il dû autrement les acheter?"
 answer = 1
 yes = "go to 2.2"
 no = "Aucune constatation dans les états financiers."
+yes_link = "2_2-présentation-états-financiers/"
+no_link = "fin/"
 %}

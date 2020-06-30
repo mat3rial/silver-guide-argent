@@ -309,11 +309,12 @@ body {
           padding-right: 20px;
         }
       }
-      &.static_page {
+      &.static_page, &.page, &.post {
         .body-wrapper {
           .column-two {
             padding-top: 30px;
-            padding-left: 30px;
+            padding-left: 20px;
+            padding-right: 20px;
             // grid-template-columns: auto;
             display: block;
           }
