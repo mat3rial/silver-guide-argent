@@ -9,7 +9,7 @@ section: 2
 order: 
 
 ---
-<a href="#" class="toolkit" target="_blank">voir Schéma 1</a>
+<a href="{{ site.baseurl }}/assets/schema-diagram/schema1.pdf" class="toolkit" target="_blank">voir Schéma 1</a>
 
 _(Manuel de CPA Canada, Chap. 4410.16)_
 
