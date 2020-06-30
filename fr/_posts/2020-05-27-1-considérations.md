@@ -23,8 +23,8 @@ Si vous relevez une erreur dans ce document, nous vous prions de nous en aviser,
 
 {% include nav_yes_no.html question="Réception d'un bien ou d'un service sans contrepartie monétaire.
 En échange, est-ce que l'organisme fournit un bien ou un service ?" answer = 1
-yes = "go to section 3"
-no = "go to section 2"
+yes = ""
+no = ""
 yes_link = "3-comptabilisation-échanges-non-monétaire/"
 no_link = "2-règles-à-suivre/"
 %}
