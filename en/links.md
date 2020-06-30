@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Useful links and references '
+title: 'useful links and references '
 lang-ref: links
 lang: en
 

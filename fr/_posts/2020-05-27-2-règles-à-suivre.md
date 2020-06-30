@@ -6,9 +6,10 @@ lang: fr
 lang-ref: "2"
 permalink: "/fr/guide/2-règles-à-suivre/"
 section: 2
+order: 
 
 ---
-(voir Schéma 1)
+<a href="{{ site.baseurl }}/assets/schema-diagram/schema1.pdf" class="toolkit" target="_blank">voir Schéma 1</a>
 
 _(Manuel de CPA Canada, Chap. 4410.16)_
 

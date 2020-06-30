@@ -1,6 +1,6 @@
 ---
 layout: static_page
-title: À propos
+title: à propos
 lang-ref: about
 lang: fr
 

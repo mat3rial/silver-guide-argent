@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Procedures
+title: procedures
 lang-ref: procedures
 lang: en
 permalink: "/en/toolkit/procedures/"

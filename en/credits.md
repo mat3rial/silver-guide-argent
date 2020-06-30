@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Credits
+title: credits
 lang-ref: credits
 lang: en
 
