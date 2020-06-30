@@ -5,7 +5,9 @@ lang: fr
 lang-ref: 2-1-1
 permalink: "/fr/guide/2_1_1-dons-de-biens/"
 section: 2
-omit: "yes"
+omit: 'yes'
+order: 
+
 ---
 ### Dons de biens, en l’occurrence des ordinateurs :
 
@@ -19,5 +21,4 @@ Souvent, le fournisseur qui donne à titre gracieux ou consent un rabais importa
 
 Obtenir du locateur le prix qu’il exigerait (mensuellement ou ponctuellement) en temps normal s’il ne prêtait pas les locaux à titre gratuit.
 
-next step = 2.1.2
 {% include next_step_button.html link="2_1_2-dons-de-services/" %}
