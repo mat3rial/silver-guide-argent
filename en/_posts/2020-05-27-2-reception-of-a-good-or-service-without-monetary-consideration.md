@@ -6,9 +6,10 @@ lang: en
 lang-ref: "2"
 permalink: "/en/guide/2-rules-to-follow/"
 section: 2
+order: 
 
 ---
-(See Diagram 1)
+<a href="#" class="toolkit" target="_blank">See Diagram 1</a>
 
 _(CPA Canada Handbook, Chap. 4410.16)_
 
