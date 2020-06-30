@@ -5,7 +5,9 @@ lang: en
 lang-ref: 2-1-1
 permalink: "/en/guide/2_1_1-donations-of-goods/"
 section: 2
-omit: "yes"
+omit: 'yes'
+order: 
+
 ---
 ## Donations of property, such as computers:
 
@@ -13,7 +15,9 @@ If the donor is a business, ask for a receipt indicating the retail price of the
 
 ## Food and beverage donations:
 
-Usually, a supplier offering a free or significantly discounted item can provide a supporting document indicating the item’s normal sale price. Be sure to ask for one. (see Tab _Models_: letters…)
+Usually, a supplier offering a free or significantly discounted item can provide a supporting document indicating the item’s normal sale price. Be sure to ask for one.
+
+<a href="{{ site.baseurl }}/en/toolkit/templates/" class="toolkit">see Tab _Models_: letters</a>
 
 ## Work or exhibition spaces offered free of charge:
 
