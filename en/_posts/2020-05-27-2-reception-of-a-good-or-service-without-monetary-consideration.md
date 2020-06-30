@@ -9,7 +9,7 @@ section: 2
 order: 
 
 ---
-<a href="#" class="toolkit" target="_blank">See Diagram 1</a>
+<a href="{{ site.baseurl }}/assets/schema-diagram/schema1.pdf" class="toolkit" target="_blank">See Diagram 1</a>
 
 _(CPA Canada Handbook, Chap. 4410.16)_
 
