@@ -9,9 +9,17 @@
     </div>
   </div>
   <div>
-    <img src="{{ site.baseurl }}/assets/img/CCA_RGB_black_e.png"/>
+    {% if page.lang == 'en' %}
+      <img src="{{ site.baseurl }}/assets/img/CCA_RGB_black_e.png"/>
+    {% else %}
+      <img src="{{ site.baseurl }}/assets/img/CCA_RGB_black_f.png"/>
+    {% endif %}
   </div>
   <div>
-    <img src="{{ site.baseurl }}/assets/img/2li_EnFr_Wordmark_C.png"/>
+    {% if page.lang == 'en' %}
+      <img src="{{ site.baseurl }}/assets/img/2li_EnFr_Wordmark_C.png"/>
+    {% else %}
+      <img src="{{ site.baseurl }}/assets/img/2li_FrEn_Wordmark_C.png"/>
+    {% endif %}
   </div>
 </div>
