@@ -6,7 +6,7 @@ lang-ref: 2-1-2
 permalink: "/fr/guide/2_1_2-dons-de-services/"
 section: 2
 omit: 'yes'
-order:
+order: 
 
 ---
 ### Travail de bureau ou de gestion exécuté gratuitement par un professionnel :
@@ -15,7 +15,9 @@ Demander au donateur un document indiquant la valeur marchande des biens donnés
 
 ### Service de transport, de placement médias, ou autres fournisseurs de services:
 
-Que le donateur soit un commerçant ou un OBNL, demander une facture indiquant le prix de détail et le montant du don (ou rabais). (Voir onglet _Modèles_ : facture_don_1, facture_don_2)
+Que le donateur soit un commerçant ou un OBNL, demander une facture indiquant le prix de détail et le montant du don (ou rabais).
+
+[Voir onglet _Modèles_ : Facture du don 1, Facture du don2]({{ site.baseurl }}/fr/boîte_à_outils/modèles/)
 
 ### Service de bénévoles
 
