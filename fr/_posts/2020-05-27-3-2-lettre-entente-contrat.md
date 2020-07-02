@@ -8,7 +8,11 @@ order: 2
 section: 3
 
 ---
-Un organisme qui fait le choix de constater ses opérations non monétaires doit s’assurer de garder les documents pertinents pour justifier la comptabilisation de ces opérations dans ses registres comptables. Pour chaque échange de services, les différents partis devraient préparer un contrat ou une lettre d’entente (voir onglet _Modèles_). Le contrat ou la lettre d’entente devrait contenir les éléments suivants :
+Un organisme qui fait le choix de constater ses opérations non monétaires doit s’assurer de garder les documents pertinents pour justifier la comptabilisation de ces opérations dans ses registres comptables. Pour chaque échange de services, les différents partis devraient préparer un contrat ou une lettre d’entente. 
+
+[Voir onglet _Modèles_]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
+
+Le contrat ou la lettre d’entente devrait contenir les éléments suivants :
 
 a) Service à rendre ou bien à donner pour chacune des parties;
 
