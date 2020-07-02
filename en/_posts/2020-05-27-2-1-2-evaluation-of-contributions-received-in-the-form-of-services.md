@@ -29,7 +29,9 @@ In general, volunteer labour is not recorded in an organization’s income and e
 
 However, such information can be included in the notes to the financial statements (see example of note below).
 
-To disclose this information in its financial statements—whether in the organization’s revenues or in the notes—the organization must implement a system to collect the information. An example of such a system could be a register (see tab _Models_ add link to registry_volunteer) in which the volunteer records their name, the date they volunteered, and the event or activity for which they volunteered.
+To disclose this information in its financial statements—whether in the organization’s revenues or in the notes—the organization must implement a system to collect the information. An example of such a system could be a register in which the volunteer records their name, the date they volunteered, and the event or activity for which they volunteered.
+
+[see tab _Templates_ : Volunteer registry]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
 
 {% include nav_yes_no.html
 question="Can the fair value of the donation be reasonably assessed?"
