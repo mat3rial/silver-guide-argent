@@ -5,9 +5,10 @@ lang: en
 lang-ref: "3"
 permalink: "/en/guide/3-accounting-non-monetary-exchanges/"
 section: 3
+order: 
 
 ---
-(See diagram 1)
+[See Diagram 1]({{ site.baseurl }}/en/toolkit/diagrams/){: .toolkit}
 
 In this section, we will focus on exchanges of goods and services. Once again, the main issue in recognizing these transactions lies in their proper valuation.
 
