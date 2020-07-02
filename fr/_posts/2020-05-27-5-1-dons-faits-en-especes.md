@@ -8,7 +8,7 @@ order: 1
 section: 5
 
 ---
-Dans le cas des reçus de **dons faits en espèces (argent comptant)**, la chose est simple. Le reçu remis indique le montant des espèces encaissées par l’organisme. Les informations suivantes doivent apparaître sur le reçu (voir onglet _Modèles_ : reçu_don) :
+Dans le cas des reçus de **dons faits en espèces (argent comptant)**, la chose est simple. Le reçu remis indique le montant des espèces encaissées par l’organisme. Les informations suivantes doivent apparaître sur le reçu : 
 
 * Énoncé précisant qu’il s’agit d’un reçu officiel aux fins de l’impôt sur le revenu;
 * Le nom et l’adresse de l’organisme de bienfaisance enregistré auprès de l’Agence du revenu du Canada;
@@ -22,5 +22,7 @@ Dans le cas des reçus de **dons faits en espèces (argent comptant)**, la chose
 * Le montant admissible du don aux fins de l’impôt sur le revenu;
 * La signature par la personne autorisée au sein de l’organisme;
 * Le nom et l’adresse du site Web de l’Agence du revenu du Canada.
+
+[Voir onglet _Modèles_ : Reçu de dons]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
 {% include next_step_button.html link="5-2-don-de-biens/" %}
