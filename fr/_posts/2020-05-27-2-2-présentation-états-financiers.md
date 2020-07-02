@@ -18,12 +18,27 @@ L’évaluation du don reçu sous forme de biens et de services doit être faite
 
 EXEMPLES NOTES AFFÉRENTES AUX E/F POUR DONS DE BIENS ET DE SERVICES AUTRES QUE LE BÉNÉVOLAT
 
-Exemple dons de biens et de services : Les apports reçus sous forme de biens et de services sont comptabilisés uniquement s’il est possible d’en estimer raisonnablement la juste valeur à la date à laquelle ils sont reçus. En 20XX, des apports reçus sous forme de fournitures et de services équivalant à un montant de X $ ont été enregistrés à titre de revenus.
+{% include accordion_example.html
+title="Exemple 1 - dons de biens et de services"
+example_text="Les apports reçus sous forme de biens et de services sont comptabilisés uniquement s’il est possible d’en estimer raisonnablement la juste valeur à la date à laquelle ils sont reçus. En 20XX, des apports reçus sous forme de fournitures et de services équivalant à un montant de X $ ont été enregistrés à titre de revenus."
+%}
 
-Exemple dons d’œuvres _:_ On compte XX œuvres d’art parmi les dons faits à la collection de la galerie au cours de l’année. Les œuvres données ont été évaluées indépendamment, et leur juste valeur marchande est de XX $. Ces éléments sont déclarés à titre de revenus provenant de dons selon leur juste valeur marchande, les coûts de programmation et d’acquisition étant portés aux dépenses, et sont reconnus une fois l’acte de donation signé et l’évaluation terminée.
+{% include accordion_example.html
+title="Exemple 2 - dons d’œuvres"
+example_text="On compte XX œuvres d’art parmi les dons faits à la collection de la galerie au cours de l’année. Les œuvres données ont été évaluées indépendamment, et leur juste valeur marchande est de XX $. Ces éléments sont déclarés à titre de revenus provenant de dons selon leur juste valeur marchande, les coûts de programmation et d’acquisition étant portés aux dépenses, et sont reconnus une fois l’acte de donation signé et l’évaluation terminée."
+%}
 
 EXEMPLES NOTES AFFÉRENTES AUX E/F POUR DONS DE SERVICES BÉNÉVOLE
 
-Services bénévoles comptabilisés : Dans le cadre de son fonctionnement courant, l’organisme a recours aux services de nombreux bénévoles. Ces services sont constatés dans les produits de l’organisme. Les heures consacrées par les bénévoles sont compilées et constatées selon un taux horaire équivalent au taux moyen sur le marché pour des services similaires. (Voir onglet _Barèmes_)
+<!-- SNIPPET INFO: ACCORDION EXAMPlE  **You can delete these notes after referencing!**
+
+* title: this variable is optional, will be replaced with "Example <num>" otherwise
+* example_text: the text that is visible when the accordion is open
+  \-->
+
+{% include accordion_example.html
+title="Exemple 3 - Services bénévoles comptabilisés"
+example_text="Dans le cadre de son fonctionnement courant, l’organisme a recours aux services de nombreux bénévoles. Ces services sont constatés dans les produits de l’organisme. Les heures consacrées par les bénévoles sont compilées et constatées selon un taux horaire équivalent au taux moyen sur le marché pour des services similaires. (Voir onglet _Barèmes_)"
+%}
 
 {% include next_step_button.html link="fin/" %}
