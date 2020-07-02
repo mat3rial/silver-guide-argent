@@ -15,7 +15,8 @@ Ask the donor for a document indicating the market value of the services provide
 
 ## Media placement, transportation, or other service providers:
 
-If the donor is a merchant, ask for an invoice indicating the retail price and the amount of the donation (or discount). (See Tab Models: invoice_donation_1, invoice_donation_2)
+If the donor is a merchant, ask for an invoice indicating the retail price and the amount of the donation (or discount). 
+
 [See Tab _Templates_: Invoice for donation 1, Invoice for donation 2]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
 
 ## Volunteer labour:
