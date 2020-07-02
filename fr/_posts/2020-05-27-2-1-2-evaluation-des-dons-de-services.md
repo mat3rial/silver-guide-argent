@@ -17,7 +17,7 @@ Demander au donateur un document indiquant la valeur marchande des biens donnés
 
 Que le donateur soit un commerçant ou un OBNL, demander une facture indiquant le prix de détail et le montant du don (ou rabais).
 
-[Voir onglet _Modèles_ : Facture du don 1, Facture du don2]({{ site.baseurl }}/fr/boîte_à_outils/modèles/)
+[Voir onglet _Modèles_ : Facture du don 1, Facture du don2]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
 ### Service de bénévoles
 
