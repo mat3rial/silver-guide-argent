@@ -6,9 +6,10 @@ lang: fr
 lang-ref: "3"
 permalink: "/fr/guide/3-comptabilisation-échanges-non-monétaire/"
 section: 3
+order: 
 
 ---
-(Voir Schéma 1)
+[Voir Schéma 1]({{ site.baseurl }}/fr/boîte_à_outils/schémas/){: .toolkit}
 
 Dans cette section, nous nous attarderons plutôt aux échanges de biens ou de services. Encore une fois, l’enjeu majeur de la comptabilisation de ces opérations porte sur l’évaluation adéquate de celles-ci.
 
