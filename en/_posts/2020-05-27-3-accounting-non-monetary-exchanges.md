@@ -19,8 +19,8 @@ To account for these non-monetary exchanges, it is important to ensure that the 
 {% include nav_yes_no.html
 question="Is the established fair value of the exchange sufficiently accurate?"
 answer = 1
-yes = "go to 3.1"
-no = "Do not record transaction in financial statements. - end of workflow page"
+yes = ""
+no = "Do not record transaction in financial statements."
 yes_link = "3_1-evaluation-exchange/"
 no_link = "end/"
 %}
