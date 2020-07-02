@@ -21,8 +21,8 @@ Afin de comptabiliser ces échanges non monétaires, iI importe de s’assurer q
 {% include nav_yes_no.html
 question="La juste valeur établie des échanges est-elle suffisamment fiable ?"
 answer = 1
-yes = "go to 3.1"
-no = "Si la juste valeur n’est pas suffisamment fiable, ne pas constater. - end of workflow page"
+yes = ""
+no = "Si la juste valeur n’est pas suffisamment fiable, ne pas constater."
 yes_link = "3_1-évaluation-échange/"
 no_link = "fin/"
 %}
