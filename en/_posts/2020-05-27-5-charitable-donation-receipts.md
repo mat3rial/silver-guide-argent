@@ -4,7 +4,7 @@ title: '5. Charitable organizations: charitable donation receipts'
 lang: en
 lang-ref: "5"
 permalink: "/en/guide/5-charitable-donation-receipts/"
-section: "5"
+section: 5
 
 ---
 [See Diagram 2]({{ site.baseurl }}/en/toolkit/diagrams/){: .toolkit}
