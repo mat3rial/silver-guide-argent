@@ -2,13 +2,13 @@
 <html lang="{{ site.lang }}">
 
   {% include head.html %}
-  <body>
+  <body class="{{ page.layout}}">
+    <div id="fixed-header-wrapper">
+      {% include home_title.html %}
+      {% include header.html %}
+    </div>
     <div class="outer-wrapper">
       <div id="main-content"  class="{{ page.layout }}">
-        <div id="fixed-header-wrapper">
-          {% include home_title.html %}
-          {% include header.html %}
-        </div>
         {{ content }}
       </div>
       {% if page.layout == 'post' %}

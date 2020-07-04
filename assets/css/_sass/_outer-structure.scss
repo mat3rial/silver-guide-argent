@@ -41,6 +41,19 @@ body {
   }
 }
 
+#fixed-header-wrapper {
+  position: fixed;
+  background-color: white;
+  width: calc(100% - 40px);
+  max-width: 1100px;
+  z-index: 1000;
+  padding: 20px 20px 0;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  // transform: translateX(-50%);
+}
+
 .outer-wrapper {
   // width: 96%;
   min-height: 93vh;
@@ -51,17 +64,7 @@ body {
   max-width: 1100px;
   // display: grid;
   // grid-template-rows: auto 100px;
-  #fixed-header-wrapper {
-    position: fixed;
-    background-color: white;
-    width: calc(100vw - 40px);
-    max-width: 1100px;
-    z-index: 1000;
-    padding: 20px 20px 0;
-    top: 0;
-    left: 50%;
-    transform: translateX(-50%);
-  }
+
   #main-content {
     position:relative;
     &.home {
@@ -202,12 +205,13 @@ body {
 }
 
 @media (min-width: 767px) {
-  .outer-wrapper {
-    #main-content.home {
-      .home-title-container {
-        display: none;
-      }
+  body.home {
+    .home-title-container {
+      display: none;
     }
+  }
+  .outer-wrapper {
+
     #main-content {
       &.static_page {
         .body-wrapper {
@@ -256,26 +260,18 @@ body {
   }
 }
 @media (max-width: 767px) {
+  #fixed-header-wrapper {
+    width: 100%;
+    padding: 0;
+  }
   .menu-link {
     font-size: 1rem;
   }
   .site-header svg {
     margin-left: 5px;
   }
-  .outer-wrapper {
-    grid-template-rows: auto 300px;
-    padding: 0;
+  body {
     #fixed-header-wrapper {
-      width: 100%;
-      padding: 0;
-    }
-
-    #main-content {
-      &.static_page, &.page, &.post, &.home {
-        .body-wrapper {
-          margin-top: 61px;
-        }
-      }
       .home-title-container {
         border: none;
         border-bottom: 1px solid black;
@@ -283,10 +279,29 @@ body {
           margin-left: 20px;
         }
       }
-      &.home {
+    }
+    &.home {
+      #fixed-header-wrapper {
         .home-title-container {
           justify-content: flex-end;
         }
+      }
+
+    }
+  }
+
+  .outer-wrapper {
+    grid-template-rows: auto 300px;
+    padding: 0;
+
+
+    #main-content {
+      &.static_page, &.page, &.post, &.home {
+        .body-wrapper {
+          margin-top: 61px;
+        }
+      }
+      &.home {
         .body-wrapper {
           .column-two {
             padding-right: 0;
