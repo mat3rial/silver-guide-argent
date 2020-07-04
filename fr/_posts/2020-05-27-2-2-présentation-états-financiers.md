@@ -30,12 +30,6 @@ example_text="On compte XX œuvres d’art parmi les dons faits à la collection
 
 EXEMPLES NOTES AFFÉRENTES AUX E/F POUR DONS DE SERVICES BÉNÉVOLE
 
-<!-- SNIPPET INFO: ACCORDION EXAMPlE  **You can delete these notes after referencing!**
-
-* title: this variable is optional, will be replaced with "Example <num>" otherwise
-* example_text: the text that is visible when the accordion is open
-  \-->
-
 {% include accordion_example.html
 title="Exemple 3 - Services bénévoles comptabilisés"
 example_text="Dans le cadre de son fonctionnement courant, l’organisme a recours aux services de nombreux bénévoles. Ces services sont constatés dans les produits de l’organisme. Les heures consacrées par les bénévoles sont compilées et constatées selon un taux horaire équivalent au taux moyen sur le marché pour des services similaires. (Voir onglet _Barèmes_)"
