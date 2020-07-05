@@ -9,7 +9,7 @@ The following resources were consulted for the development of this document.
 
 **Gifts of services**
 
-<a href="https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/policy-commentary-017-gifts-services.html" target="_blank" title="Gifts of services">https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/policy-commentary-017-gifts-services.html</a>
+> <a href="https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/policy-commentary-017-gifts-services.html" target="_blank" title="Gifts of services">https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/policies-guidance/policy-commentary-017-gifts-services.html</a>
 
 **Split-receipting and Deemed Fair Market Value**
 
