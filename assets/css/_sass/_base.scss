@@ -64,6 +64,10 @@ p a{
 p a:hover{
   text-decoration:none;
 }
+img.doc {
+  width: 30px;
+  display: inline-block;  
+}
 
 /* Lists */
 ul, ol, dl {
@@ -111,13 +115,6 @@ a.toolkit {
 a.external {
   font-weight: 400;
   text-decoration: underline;
-}
-a.doc {
-  background-image: url('../../img/archive.svg');
-  width: 30px;
-  background-repeat: no-repeat;
-  padding-left: 35px;  
-  display: block;  
 }
 
 /*
