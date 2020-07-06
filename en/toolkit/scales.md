@@ -5,4 +5,12 @@ lang-ref: scales
 lang: en
 
 ---
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF AGREEMENT FOR EXCHANGE OF SERVICES"/>[LETTER OF AGREEMENT FOR EXCHANGE OF SERVICES]({{ site.baseurl }}/assets/template-en/agreement_exchange.doc) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="Recommended Employment Standards and Human Resource
+Management Tools in Canadian Artist-Run Media Arts Organizations"/>[FINAL REPORT - Recommended Employment Standards and Human Resource
+Management Tools in Canadian Artist-Run Media Arts Organizations]({{ site.baseurl }}/assets/scales/IMAA_ES_report_EN.pdf) (.pdf)
+
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="Recommended Rate Structure for Employment Positions and
+Other Human Resources Tools
+Excerpt"/>[Recommended Rate Structure for Employment Positions and
+Other Human Resources Tools
+Excerpt]({{ site.baseurl }}/assets/scales/IMAA_Excerpt_pay_schedule.pdf) (.pdf)
