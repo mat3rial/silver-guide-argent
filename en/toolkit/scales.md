@@ -3,6 +3,7 @@ layout: page
 title: scales
 lang-ref: scales
 lang: en
+permalink: "/en/toolkit/scales/"
 
 ---
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="Recommended Employment Standards and Human Resource
