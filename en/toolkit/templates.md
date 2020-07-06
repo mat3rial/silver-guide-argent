@@ -27,3 +27,7 @@ permalink: "/en/toolkit/templates/"
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="SPONSORSHIP LETTER"/>[SPONSORSHIP LETTER]({{ site.baseurl }}/assets/template-en/sponsorship_letter.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="VOLUNTEER REGISTRY"/>[VOLUNTEER REGISTRY]({{ site.baseurl }}/assets/template-en/registry_volunteer.xls) (.xls)
+
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="INVOICE FOR DONATION 1"/>[INVOICE FOR DONATION 1]({{ site.baseurl }}/assets/template-en/invoice_donation_1.pdf) (.pdf)
+
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="INVOICE FOR DONATION 2"/>[INVOICE FOR DONATION 2]({{ site.baseurl }}/assets/template-en/invoice_donation_2.pdf) (.pdf)
