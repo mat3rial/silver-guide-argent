@@ -171,6 +171,9 @@ body {
       align-items: center;
       justify-content: center;
       height: 100px;
+      a {
+        display: contents;
+      }
       img {
         max-width: 90%;
         max-height: 60%;
