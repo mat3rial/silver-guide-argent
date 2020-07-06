@@ -5,6 +5,13 @@ lang-ref: scales
 lang: fr
 
 ---
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="Recommended Employment Standards and Human Resource Management Tools in Canadian Artist-Run Media Arts Organizations"/>[FINAL REPORT - Recommended Employment Standards and Human Resource Management Tools in Canadian Artist-Run Media Arts Organizations]({{ site.baseurl }}/assets/scales/IMAA_ES_report_EN.pdf) (.pdf)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="Recommandation de normes d’emploi et d’outils de gestion
+des ressources humaines pour les centres canadiens en arts
+médiatiques indépendants"/>[RAPPORT FINAL - Recommandation de normes d’emploi et d’outils de gestion
+des ressources humaines pour les centres canadiens en arts
+médiatiques indépendants]({{ site.baseurl }}/assets/scales/AAMI_ES_report_ FR.pdf) (.pdf)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="Recommended Rate Structure for Employment Positions and Other Human Resources Tools Excerpt"/>[Recommended Rate Structure for Employment Positions and Other Human Resources Tools Excerpt]({{ site.baseurl }}/assets/scales/IMAA_Excerpt_pay_schedule.pdf) (.pdf)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="Recommandation d’une structure salariale pour les emplois et
+d’autres outils"/>[Recommandation d’une structure salariale pour les emplois et
+d’autres outils]({{ site.baseurl }}/assets/scales/AAMI_extrait_structure_salariale.pdf) (.pdf)
+
