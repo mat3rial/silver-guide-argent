@@ -12,7 +12,7 @@ Afin de faciliter la comptabilisation dans les registres comptables, une copie d
 
 Ce pourrait être avantageux d’ajouter à la charte :
 
-* Un compte réservé aux échanges de biens et de services **dans les revenus** :   « Commandites et échange de services »
+* Un compte réservé aux échanges de biens et de services **dans les revenus** :  &nbsp;&nbsp; « Commandites et échange de services »
 * Des comptes réservés aux échanges de biens et de services **dans les dépenses** de l’organisation : un compte « Commandites de production et échanges » et un compte « Commandites de marketing et échanges ».
 
 Comme mentionné plus haut dans les considérations initiales, il peut être utile et pertinent de prévoir, dès l’étape des prévisions budgétaires, les échanges de services et de biens nécessaires à la réalisation des activités de l’exercice. Ceux-ci pourront alors être intégrés dans le processus des opérations comptables dès le début.
