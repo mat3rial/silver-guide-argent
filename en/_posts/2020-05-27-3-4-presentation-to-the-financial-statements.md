@@ -11,13 +11,13 @@ section: 3
 _(CPA Canada Handbook, Chap. 3831.17)_
 
 The following information should be provided by the auditor and disclosed as notes in the financial statements:
+<ul class="textlist">
+  <li>a) The type of each non-monetary transaction;</li>
 
-a) The type of each non-monetary transaction;
+  <li>b) The basis for valuation (fair value) of each such transaction;</li>
 
-b) The basis for valuation (fair value) of each such transaction;
-
-c) Related gains and losses, if any.
-
+  <li>c) Related gains and losses, if any.</li>
+</ul>
 In the notes regarding its principle accounting policies, an organization must disclose its revenue recognition method. When different methods are applied to different types of transactions generating revenues, including non-monetary exchanges (barter), the organization must indicate which method was used for each major type of product or service.
 
 **Examples of financial statement notes:**
