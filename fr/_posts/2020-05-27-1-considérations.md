@@ -3,7 +3,7 @@ layout: post
 title: 1. Départ
 lang: fr
 lang-ref: "1"
-permalink: "/fr/guide/1-départ/"
+permalink: "/fr/guide/1-considérations/"
 section: 1
 order: 
 
