@@ -16,7 +16,7 @@ When an organization chooses to record contributions of goods and services, it m
 
 The contribution received in the form of goods and services must be evaluated at fair value at the **time of the donation**.
 
-Notes disclosing contributions received in the form of donated goods and services other than volunteer labour:
+**Notes disclosing contributions received in the form of donated goods and services other than volunteer labour:**
 
 {% include accordion_example.html
 title="Example 1 - contribution of goods and services"
@@ -28,7 +28,7 @@ title="Example 2 - gift of artwork"
 example_text="Contributions to the gallery’s collection in the year included XX works of art. The contributed works were appraised independently, with a fair market value of $XX. These items are reported as donation revenue, and programming and acquisition costs expensed, at their fair market value and are recognized when the deed of donation is signed and the appraisal completed."
 %}
 
-Notes disclosing contributions received in the form of volunteer labour:
+**Notes disclosing contributions received in the form of volunteer labour:**
 
 {% include accordion_example.html
 title="Example 3 - volunteer labour not accounted in financial statements"
