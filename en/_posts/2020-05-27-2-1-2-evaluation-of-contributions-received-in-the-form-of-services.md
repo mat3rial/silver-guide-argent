@@ -37,7 +37,7 @@ To disclose this information in its financial statements—whether in the organi
 question="Can the fair value of the donation be reasonably assessed?"
 answer = 1
 yes = ""
-no = "Do not record transaction in financial statements. end of workflow - send to ending page"
+no = "Do not record transaction in financial statements."
 yes_link = ""
 no_link = "end/"
 %}
@@ -46,7 +46,7 @@ no_link = "end/"
 question="Are the goods and services received used as part of the organization's current operations? "
 answer = 1
 yes = ""
-no = "Do not record transaction in financial statements. end of workflow - send to ending page"
+no = "Do not record transaction in financial statements."
 yes_link = ""
 no_link = "end/"
 %}
@@ -55,7 +55,7 @@ no_link = "end/"
 question="Would the organization have had to otherwise purchase these?"
 answer = 1
 yes = "GO TO 2.2 "
-no = "Do not record transaction in financial statements. end of workflow - send to ending page"
+no = "Do not record transaction in financial statements."
 yes_link = "2_2-presentation-financial-statements/"
 no_link = "end/"
 %}
