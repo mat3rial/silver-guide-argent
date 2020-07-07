@@ -6,7 +6,7 @@ lang: en
 permalink: "/en/toolkit/templates/"
 
 ---
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF AGREEMENT 1"/>[LETTER OF AGREEMENT 1]({{ site.baseurl }}/assets/template-en/letter_agreement_1.doc) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF AGREEMENT 1"/>[AGREEMENT SERVICE EXCHANGE]({{ site.baseurl }}/assets/template-en/letter_agreement_1.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF AGREEMENT 2"/>[LETTER OF AGREEMENT 2]({{ site.baseurl }}/assets/template-en/letter_agreement_2.doc) (.doc)
 
