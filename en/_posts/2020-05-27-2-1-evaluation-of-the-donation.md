@@ -14,6 +14,6 @@ For charities, refer to the [section 5]({{ site.baseurl }}/en/guide/5-charitable
 
 [see tab: _Diagrams_]({{ site.baseurl }}/en/toolkit/diagrams){: .toolkit}
 
-Here are a few concrete examples of how to reasonably estimate fair value:
+Go to next step for more concrete examples of how to reasonably estimate fair value.
 
 {% include next_step_button.html link="2_1_1-donations-of-goods/" %}
