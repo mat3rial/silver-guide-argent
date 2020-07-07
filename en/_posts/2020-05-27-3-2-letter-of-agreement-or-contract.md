@@ -18,10 +18,9 @@ The following points should be included in such a contract or letter of agreemen
 
 <li>b) Value of the services rendered or goods supplied by both parties;</li>
 
-<li>c) GST/HST and applicable provincial tax numbers of each organization, if applicable ([See section 4. Impact of sales taxes]({{ site.baseurl }}/en/guide/4-impact-taxes/))</li>
+<li>c) GST/HST and applicable provincial tax numbers of each organization, if applicable (<a href="{ site.baseurl }}/en/guide/4-impact-taxes/" title="">See section 4. Impact of sales taxes</a>)</li>
 
 </ul>
-[See section 4. Impact of sales taxes]({{ site.baseurl }}/en/guide/4-impact-taxes/)
 
 In cases of **service exchange in partnerships**, provision may be made to add into the contract a requirement obliging the donor partner to provide a letter detailing the value of the contribution such as shipping charges, production costs, exhibition fees paid to artists, travel and per diem expenses, or technical assistance, in exchange for the organization’s commitment to provide its facilities and services for the exhibition of the work.
 
