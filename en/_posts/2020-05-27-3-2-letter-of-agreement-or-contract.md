@@ -18,7 +18,7 @@ The following points should be included in such a contract or letter of agreemen
 
 <li>b) Value of the services rendered or goods supplied by both parties;</li>
 
-<li>c) GST/HST and applicable provincial tax numbers of each organization, if applicable (<a href="{{ site.baseurl }}/en/guide/4-impact-taxes/" title=""><em>See section 4. Impact of sales taxes</em></a>)</li>
+<li>c) GST/HST and applicable provincial tax numbers of each organization, if applicable (<a href="{{ site.baseurl }}/en/guide/4-impact-taxes/" title=""><strong>See section 4. Impact of sales taxes</strong></a>)</li>
 
 </ul>
 
