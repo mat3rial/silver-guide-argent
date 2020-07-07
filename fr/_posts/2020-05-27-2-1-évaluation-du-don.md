@@ -14,4 +14,6 @@ Dans le cas d’organismes de bienfaisance, se référer à la [section 5]({{ si
 
 [Voir onglet _Schémas_]({{ site.baseurl }}/fr/boîte_à_outils/schémas/){: .toolkit}
 
+Allez à la prochaine étape pour quelques exemples concrets pour évaluer la juste valeur.
+
 {% include next_step_button.html link="2_1_1-dons-de-biens/" %}
