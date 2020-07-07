@@ -13,7 +13,7 @@ If an organization chooses to record these non-monetary transactions, it must ke
 [See tab _Templates_: Letters of Agreement 1 & 2]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
 
 The following points should be included in such a contract or letter of agreement:
-<u/>
+<ul class="textlist"/>
 <li>a) Service to be performed by or goods to be supplied for each party;</li>
 
 <li>b) Value of the services rendered or goods supplied by both parties;</li>
