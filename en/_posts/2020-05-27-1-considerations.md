@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 1. Considerations
+title: 1. Start
 lang: en
 lang-ref: "1"
-permalink: "/en/guide/1-considerations/"
+permalink: "/en/guide/1-start/"
 section: 1
 order: 
 
