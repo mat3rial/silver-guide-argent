@@ -16,7 +16,7 @@ Lorsque l’organisme a fait le choix de comptabiliser les dons de biens et de s
 
 L’évaluation du don reçu sous forme de biens et de services doit être faite à la juste valeur **à la date du don.**
 
-Exemples notes afférentes aux états financiers pour dons de biens et de services autres que le bénévolat :
+**Exemples notes afférentes aux états financiers pour dons de biens et de services autres que le bénévolat :**
 
 {% include accordion_example.html
 title="Exemple 1 - dons de biens et de services"
@@ -28,7 +28,7 @@ title="Exemple 2 - dons d’œuvres"
 example_text="On compte XX œuvres d’art parmi les dons faits à la collection de la galerie au cours de l’année. Les œuvres données ont été évaluées indépendamment, et leur juste valeur marchande est de XX $. Ces éléments sont déclarés à titre de revenus provenant de dons selon leur juste valeur marchande, les coûts de programmation et d’acquisition étant portés aux dépenses, et sont reconnus une fois l’acte de donation signé et l’évaluation terminée."
 %}
 
-Exemples notes afférentes aux états financiers pour dons de services bénévole :
+**Exemples notes afférentes aux états financiers pour dons de services bénévole :**
 
 {% include accordion_example.html
 title="Exemple 3 - Services bénévoles comptabilisés"
