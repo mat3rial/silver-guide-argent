@@ -10,7 +10,7 @@ permalink: "/en/toolkit/templates/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF AGREEMENT 2"/>[LETTER OF AGREEMENT 2]({{ site.baseurl }}/assets/template-en/letter_agreement_2.doc) (.doc)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF PARTNERSHIP AGREEMENT"/>[LETTER OF PARTNERSHIP AGREEMENT]({{ site.baseurl }}/assets/template-en/agreement_exchange_partnership.doc) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF AGREEMENT FOR PARTNERSHIP"/>[LETTER OF AGREEMENT FOR PARTNERSHIP]({{ site.baseurl }}/assets/template-en/agreement_exchange_partnership.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="ARTIST CONTRACT DONATION"/>[ARTIST CONTRACT DONATION]({{ site.baseurl }}/assets/template-en/contract_artist_donations.doc) (.doc)
 
