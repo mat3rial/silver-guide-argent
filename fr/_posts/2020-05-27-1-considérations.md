@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 1. Considérations
+title: 1. Départ
 lang: fr
 lang-ref: "1"
-permalink: "/fr/guide/1-considérations/"
+permalink: "/fr/guide/1-départ/"
 section: 1
 order: 
 
