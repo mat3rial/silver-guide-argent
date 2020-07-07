@@ -9,10 +9,11 @@ section: 2
 
 ---
 Lorsque l’organisme a fait le choix de comptabiliser les dons de biens et de services, il doit présenter l’information suivante dans ses états financiers :
+<ul class="textlist">
+  <li>1. La méthode suivie;</li>
 
-1\. La méthode suivie;
-
-2\. La nature et le montant des dons de biens et de services constatés dans les états financiers.
+<li>2. La nature et le montant des dons de biens et de services constatés dans les états financiers.</li>
+</ul>
 
 L’évaluation du don reçu sous forme de biens et de services doit être faite à la juste valeur **à la date du don.**
 
