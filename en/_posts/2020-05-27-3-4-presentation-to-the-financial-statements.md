@@ -10,7 +10,7 @@ section: 3
 ---
 _(CPA Canada Handbook, Chap. 3831.17)_
 
-The following information should be disclosed in the financial statements:
+The following information should be provided by the auditor and disclosed as notes in the financial statements:
 
 a) The type of each non-monetary transaction;
 
