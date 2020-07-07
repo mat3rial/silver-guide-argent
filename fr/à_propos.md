@@ -5,6 +5,7 @@ lang-ref: about
 lang: fr
 
 ---
+[But](#but) | [Contexte](#contexte) | [Défis](#défis) | [Considérations](#considérations)
 ## **But**
 
 _Pas juste une question d’argent_, c’est un outil de référence, un guide développé par la Conférence des collectifs et des centres d’artistes autogérés (ARCA) en partenariat avec l’Alliance des arts médiatiques indépendants. Il s’adresse à ceux et celles qui travaillent au sein d’organismes à but non lucratif (OBNL) dans le milieu culturel, comme les centres d’artistes autogérés (CAA). Son objectif? Mettre à leur disposition des ressources qui les aideront à identifier, à quantifier et à documenter les opérations et les contributions non monétaires que les OBNL reçoivent sous forme de biens et de services, puis à rendre compte de ces opérations et contributions dans leurs états financiers.
