@@ -37,7 +37,8 @@ example_text="Volunteers devote approximately 500 hours (750 in 20X0) per year t
 
 {% include accordion_example.html
 title="Example 4 - volunteer labour in financial statements"
-example_text="Volunteer labour as part of its operations, our organization relies on the services of many volunteers. These services are recognized in the organization’s revenues. Volunteer hours are compiled and recorded at an hourly rate equal to the average market rate for similar services (see tab _Scales_)"
+example_text="Volunteer labour as part of its operations, our organization relies on the services of many volunteers. These services are recognized in the organization’s revenues. Volunteer hours are compiled an _recorded at an hourly rate equal to the average market rate for similar services_ 
+See tab _Scales_{: .toolkit}"
 %}
 
 {% include next_step_button.html link="end/" %}
