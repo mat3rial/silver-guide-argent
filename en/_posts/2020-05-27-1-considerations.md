@@ -3,7 +3,7 @@ layout: post
 title: 1. Start
 lang: en
 lang-ref: "1"
-permalink: "/en/guide/1-start/"
+permalink: "/en/guide/1-considerations/"
 section: 1
 order: 
 
