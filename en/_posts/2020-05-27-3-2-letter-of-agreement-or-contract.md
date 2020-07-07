@@ -13,12 +13,12 @@ If an organization chooses to record these non-monetary transactions, it must ke
 [See tab _Templates_: Letters of Agreement 1 & 2]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
 
 The following points should be included in such a contract or letter of agreement:
+<u/>
+<li>a) Service to be performed by or goods to be supplied for each party;</li>
 
-a) Service to be performed by or goods to be supplied for each party;
+<li>b) Value of the services rendered or goods supplied by both parties;</li>
 
-b) Value of the services rendered or goods supplied by both parties;
-
-c) GST/HST and applicable provincial tax numbers of each organization, if applicable (see section 4. Impact of sales taxes)
+<li>c) GST/HST and applicable provincial tax numbers of each organization, if applicable (see section 4. Impact of sales taxes)</li></ul>
 
 In cases of **service exchange in partnerships**, provision may be made to add into the contract a requirement obliging the donor partner to provide a letter detailing the value of the contribution such as shipping charges, production costs, exhibition fees paid to artists, travel and per diem expenses, or technical assistance, in exchange for the organization’s commitment to provide its facilities and services for the exhibition of the work.
 
