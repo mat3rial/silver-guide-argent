@@ -16,7 +16,7 @@ Les informations suivantes doivent être divulguées dans les états financiers 
 
   <li>b) La base d’évaluation (juste valeur);</li>
 
-  <li>c) Les gains et les pertes connexes, s’il y a lieu</li>
+  <li>c) Les gains et les pertes connexes, s’il y a lieu.</li>
 </ul>
 Dans sa note sur les principales méthodes comptables, l’organisme doit divulguer sa méthode de constatation des produits. Lorsque des méthodes différentes sont appliquées à des types différents d’opérations générant des produits, y compris les échanges non monétaires (opérations de troc), l’organisme doit indiquer la méthode suivie pour chaque type important de produits.
 
