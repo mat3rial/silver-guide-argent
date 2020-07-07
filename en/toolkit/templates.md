@@ -6,7 +6,7 @@ lang: en
 permalink: "/en/toolkit/templates/"
 
 ---
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF AGREEMENT FOR EXCHANGE OF SERVICES"/>[LETTER OF AGREEMENT FOR EXCHANGE OF SERVICES]({{ site.baseurl }}/assets/template-en/agreement_exchange.doc) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF AGREEMENT FOR EXCHANGE OF SERVICES"/>[LETTER OF AGREEMENT 1]({{ site.baseurl }}/assets/template-en/letter_agreement_1.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="ARTIST CONTRACT DONATION"/>[ARTIST CONTRACT DONATION]({{ site.baseurl }}/assets/template-en/contract_artist_donations.doc) (.doc)
 
