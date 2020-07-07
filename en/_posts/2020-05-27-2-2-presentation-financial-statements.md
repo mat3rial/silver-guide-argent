@@ -9,10 +9,11 @@ section: 2
 
 ---
 When an organization chooses to record contributions of goods and services, it must present the following information in its financial statements:
+<ul class="textlist">
+  <li>1. The method used;</li>
 
-1\. The method used;
-
-2\. The kind and amount of contributed goods and services recorded in the financial statements.
+<li>2. The kind and amount of contributed goods and services recorded in the financial statements.</li>
+</ul>
 
 The contribution received in the form of goods and services must be evaluated at fair value at the **time of the donation**.
 
