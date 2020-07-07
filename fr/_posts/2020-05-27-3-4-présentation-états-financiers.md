@@ -10,13 +10,13 @@ section: 3
 ---
 _(Manuel de CPA Canada, Chap. 3831.17_)
 
-Les informations suivantes doivent être divulguées dans les états financiers :
-<ul class="textlist">
-  <li>a) La nature de l’opération non monétaire;</li>
+Les informations suivantes doivent être fournies par le vérificateur ou la vérificatrice et divulguées dans les états financiers :
 
-  <li>b) La base d’évaluation (juste valeur);</li>
+<ul class="textlist"> <li>a) La nature de l’opération non monétaire;</li>
 
-  <li>c) Les gains et les pertes connexes, s’il y a lieu.</li>
+<li>b) La base d’évaluation (juste valeur);</li>
+
+<li>c) Les gains et les pertes connexes, s’il y a lieu.</li>
 </ul>
 Dans sa note sur les principales méthodes comptables, l’organisme doit divulguer sa méthode de constatation des produits. Lorsque des méthodes différentes sont appliquées à des types différents d’opérations générant des produits, y compris les échanges non monétaires (opérations de troc), l’organisme doit indiquer la méthode suivie pour chaque type important de produits.
 
