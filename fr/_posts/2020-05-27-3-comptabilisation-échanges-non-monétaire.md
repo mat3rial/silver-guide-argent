@@ -1,7 +1,6 @@
 ---
 layout: post
-title: '3. Règles à suivre : comptabilisation des échanges non-monétaires (échanges
-  de service)'
+title: 3. Comptabilisation des échanges non-monétaires (échanges de service)
 lang: fr
 lang-ref: "3"
 permalink: "/fr/guide/3-comptabilisation-échanges-non-monétaire/"
