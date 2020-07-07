@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Table of Contents
+title: table of contents
 lang-ref: toc
 lang: en
 
