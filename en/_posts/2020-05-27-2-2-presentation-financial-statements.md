@@ -4,7 +4,7 @@ title: 2.2. Presentation in the financial statements
 lang: en
 lang-ref: 2-2
 permalink: "/en/guide/2_2-presentation-financial-statements/"
-order: 2
+order: 4
 section: 2
 
 ---

@@ -5,8 +5,8 @@ lang: en
 lang-ref: 2-1-1
 permalink: "/en/guide/2_1_1-donations-of-goods/"
 section: 2
-omit: 'yes'
-order: 
+# omit: 'yes'
+order: 2
 
 ---
 ## Donations of property, such as computers:

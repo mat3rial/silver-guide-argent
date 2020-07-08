@@ -5,8 +5,8 @@ lang: fr
 lang-ref: 2-1-1
 permalink: "/fr/guide/2_1_1-dons-de-biens/"
 section: 2
-omit: 'yes'
-order: 
+# omit: 'yes'
+order: 2
 
 ---
 ### Dons de biens, en l’occurrence des ordinateurs :

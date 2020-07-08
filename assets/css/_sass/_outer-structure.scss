@@ -42,15 +42,6 @@ body {
   }
 }
 
-h2:target::before {
-  content: "";
-  display: block;
-  position: relative;
-  height: 300px; /* fixed header height*/
-  margin-top: -300px; /* negative fixed header height */
-  visibility: hidden;
-}
-
 #fixed-header-wrapper {
   position: fixed;
     background-color: white;

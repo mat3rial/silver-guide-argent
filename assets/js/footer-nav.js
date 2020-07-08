@@ -15,7 +15,10 @@ $( document ).ready(function() {
       $('.section-nav').css('border-bottom', '1px solid black');
     }
     $('.section-nav').children().eq(section_splits[0]-1).find('a').css('color', site_red);
-    if (section_splits[0] > 1) {
+    if (section_splits.length > 2) { // SUBSUBSECTION HANDLING
+      $('.subsection-nav').children().eq(section_splits[2]).find('a').css('color', site_red);
+    }
+    else if (section_splits[0] > 1) {
       $('.subsection-nav').children().eq(section_splits[1]-1).find('a').css('color', site_red);
     }
 
