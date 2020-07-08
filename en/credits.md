@@ -11,6 +11,8 @@ Project management: Anne Bertrand, Pierre Beaudoin
 
 Guide development: Sophie Houle, CPA
 
+Revision of the English version of the guide: Julia Gaunt-Rannala, CPA (Young Associates)
+
 Digital platform development: Corina MacDonald, Antonia Hernandez, Evan Savage - MAT3RIAL
 
 Copyediting: Edwin Janzen
