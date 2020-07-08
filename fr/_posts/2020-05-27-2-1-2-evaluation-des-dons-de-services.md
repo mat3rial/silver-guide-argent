@@ -6,12 +6,14 @@ lang-ref: 2-1-2
 permalink: "/fr/guide/2_1_2-dons-de-services/"
 section: 2
 omit: 'yes'
-order:
+order: 
 
 ---
 ### Travail de bureau ou de gestion exécuté gratuitement par un professionnel :
 
 Demander au donateur un document indiquant la valeur marchande des biens donnés ou des services rendus à titre gracieux, soit le prix qu’il facture habituellement pour ces biens ou services.
+
+[Voir onglet _Modèles_ : Entente contribution]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
 ### Service de transport, de placement médias, ou autres fournisseurs de services:
 
