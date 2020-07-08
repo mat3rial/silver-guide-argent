@@ -21,8 +21,8 @@ $( document ).ready(function() {
   // }, function(){
   //     $(".sub-menu").stop().slideUp("fast");
   // });
-  $(".desktop").hover(function () {
-    $(this).find(".sub-menu").slideToggle("fast");
+  $(".desktop .menu-link").hover(function () {
+    $(this).siblings(".sub-menu").slideToggle("fast");
   });
   // $(document).mouseup(function(e) {
   //   if (!$('.dropbtn').is(e.target)) {
