@@ -11,6 +11,8 @@ lang: fr
 
 **Développement du guide :** Sophie Houle, CPA
 
+**Révision de la version anglaise du guide :** Julia Gaunt-Rannala, CPA (Young Associates)
+
 **Développement de la plateforme numérique :** Corina MacDonald, Antonia Hernandez, Evan Savage - MAT3RIAL
 
 **Révision :** Edwin Janzen
