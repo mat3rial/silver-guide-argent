@@ -138,9 +138,19 @@ body {
 
         .red-box {
           background-color: $site-red;
+          display: flex;
+          flex-direction: row;
+          align-items: center;
           /* text-decoration: underline; */
           a {
             color: white;
+            position: relative;
+          }
+          svg {
+            // position: absolute;
+            // top: 8px;
+            margin-left: 10px;
+            width: 20px;
           }
 
         }

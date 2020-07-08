@@ -18,7 +18,20 @@ layout: default
       <h2>{{ page.line2 }}</h2>
     {% endif %}
     {% if page.line3 %}
-      <h2 class="red-box"><a href="{{ site.baseurl }}/{{ page.lang }}/guide/{{ site.data.translations.guideStart[page.lang] }}">{{ page.line3 }}</a></h2>
+      <h2 class="red-box">
+        <a href="{{ site.baseurl }}/{{ page.lang }}/guide/{{ site.data.translations.guideStart[page.lang] }}">{{ page.line3 }}</a>
+        <svg width="20px" height="20px" viewBox="0 0 185 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+            <title>Group</title>
+            <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                <g id="ARROW-VECTOR-PACK" transform="translate(-188.000000, -295.000000)" fill="white">
+                    <g id="Group" transform="translate(188.482000, 295.314854)">
+                        <path d="M167.88,79.7601456 L12.661,79.7601456 C5.669,79.7601456 0,74.0921456 0,67.1001456 C0,60.1081456 5.669,54.4391456 12.661,54.4391456 L167.88,54.4391456 C174.872,54.4391456 180.541,60.1081456 180.541,67.1001456 C180.541,74.0921456 174.872,79.7601456 167.88,79.7601456" id="Fill-1"></path>
+                        <path d="M109.553,131.668146 C105.956,131.668146 102.384,130.145146 99.881,127.184146 C95.364,121.845146 96.032,113.857146 101.371,109.341146 L151.581,66.8721456 L101.145,22.1311456 C95.914,17.4911456 95.436,9.48914561 100.076,4.25814561 C104.715,-0.970854393 112.719,-1.45085439 117.948,3.18914561 L179.318,57.6291456 C182.066,60.0661456 183.619,63.5761456 183.576,67.2491456 C183.533,70.9221456 181.897,74.3941456 179.093,76.7671456 L117.723,128.675146 C115.345,130.685146 112.441,131.668146 109.553,131.668146" id="Fill-2"></path>
+                    </g>
+                </g>
+            </g>
+        </svg>
+      </h2>
     {% endif %}
     {% for part in site.guide %}
       <p>{{ part.title }}</p>
