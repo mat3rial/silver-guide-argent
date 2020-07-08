@@ -1,6 +1,7 @@
 html {
   position: absolute;
   width: 100vw;
+  // scroll-padding-top: 136px;
 }
 
 body {
@@ -41,6 +42,15 @@ body {
   }
 }
 
+h2:target::before {
+  content: "";
+  display: block;
+  position: relative;
+  height: 300px; /* fixed header height*/
+  margin-top: -300px; /* negative fixed header height */
+  visibility: hidden;
+}
+
 #fixed-header-wrapper {
   position: fixed;
     background-color: white;
@@ -73,7 +83,7 @@ body {
     position:relative;
     &.home {
       .body-wrapper {
-        margin-top: 55px;
+        padding-top: 55px;
         .column-two {
           h2 {
             padding: 20px;
@@ -95,6 +105,8 @@ body {
           h1, h2 {
             padding: 0;
             margin-top: 15px;
+            margin-top: calc(15px - 146px);
+            padding-top: 146px;
           }
         }
 
@@ -145,13 +157,13 @@ body {
     }
     &.static_page, &.page, &.post {
       .body-wrapper {
-        margin-top: 106px;
+        padding-top: 106px;
         .column-two {
           border-left: none;
           padding-left: 20px;
           padding-right: 40px;
           h2 {
-            padding: 10px 0;
+            // padding: 10px 0;
           }
         }
       }
