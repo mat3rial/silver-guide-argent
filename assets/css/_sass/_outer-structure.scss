@@ -317,7 +317,8 @@ h2:target::before {
     #main-content {
       &.static_page, &.page, &.post, &.home {
         .body-wrapper {
-          margin-top: 61px;
+          // margin-top: 61px;
+          padding-top: 61px;
         }
       }
       &.home {
