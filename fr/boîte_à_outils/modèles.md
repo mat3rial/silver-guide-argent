@@ -12,6 +12,8 @@ permalink: "/fr/boîte_à_outils/modèles/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="ENTENTE D’ÉCHANGE PARTENARIAT"/>[ENTENTE D’ÉCHANGE PARTENARIAT]({{ site.baseurl }}/assets/modèle-fr/entente_echange_partenariat.doc) (.doc)
 
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="ENTENTE D’ÉCHANGE DE SERVICE"/>[ENTENTE D’ÉCHANGE SERVICE]({{ site.baseurl }}/assets/modèle-fr/entente_échange_de_service.doc) (.doc)
+
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="CONTRAT D'ARTISTE - DON"/>[CONTRAT D'ARTISTE - DON]({{ site.baseurl }}/assets/modèle-fr/contract_dons.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FAQ POUR LES DONATEURS D’ŒUVRES"/>[FAQ POUR LES DONATEURS D’ŒUVRES]({{ site.baseurl }}/assets/modèle-fr/FAQ_donateurs.doc) (.doc)
