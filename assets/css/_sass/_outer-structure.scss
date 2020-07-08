@@ -9,6 +9,23 @@ body {
   // position: absolute;
 }
 
+a {
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+  -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+
+  /* Adds a hyphen where the word breaks, if supported (No Blink) */
+  -ms-hyphens: auto;
+  -moz-hyphens: auto;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+}
+
 .home-title, .page-title {
   font-family: "GeometricBlack";
 }
@@ -138,19 +155,23 @@ body {
 
         .red-box {
           background-color: $site-red;
-          display: flex;
-          flex-direction: row;
-          align-items: center;
+
+
           /* text-decoration: underline; */
           a {
             color: white;
             position: relative;
-          }
-          svg {
-            // position: absolute;
-            // top: 8px;
-            margin-left: 10px;
-            width: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            flex-direction: row;
+            align-items: center;
+            width: max-content;
+            svg {
+              // position: absolute;
+              // top: 8px;
+              margin-left: 10px;
+              width: 20px;
+            }
           }
 
         }
