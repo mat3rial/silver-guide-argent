@@ -6,7 +6,7 @@ lang: fr
 permalink: "/fr/boîte_à_outils/modèles/"
 
 ---
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="ENTENTE D’ÉCHANGE DE SERVICE"/>[ENTENTE D’ÉCHANGE DE SERVICE]({{ site.baseurl }}/assets/modèle-fr/entente_échange_de_service.doc) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="ENTENTE CONTRIBUTION"/>[ENTENTE CONTRIBUTION]({{ site.baseurl }}/assets/modèle-fr/entente_contribution.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="ENTENTE DE VISIBILITÉ"/>[ENTENTE DE VISIBILITÉ]({{ site.baseurl }}/assets/modèle-fr/entente_visibilite.doc) (.doc)
 

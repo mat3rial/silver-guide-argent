@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5.4. Donation of inherited work
+title: 5.4. Donation of inherited artwork
 lang: en
 lang-ref: 5-4
 permalink: "/en/guide/5_4-donation-inherited-work/"

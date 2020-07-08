@@ -17,7 +17,7 @@ The following resources were consulted for the development of this document.
 
 **Gifts and Income Tax**
 
-> <a href="https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html" class="external" target="_blank" title="Gifts and Income Tax">https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113.html</a>
+> <a href="https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113/p113-gifts-income-tax.html" class="external" target="_blank" title="Gifts and Income Tax">https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/p113/p113-gifts-income-tax.html</a>
 
 **GST/HST Information for Non-Profit Organizations**
 

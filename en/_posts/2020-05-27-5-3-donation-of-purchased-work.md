@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '5.3. Donation of purchased work '
+title: '5.3. Donation of purchased artwork '
 lang: en
 lang-ref: 5-3
 permalink: "/en/guide/5_3-donation-purchased-work/"
