@@ -121,6 +121,12 @@ a.external {
   font-weight: 400;
   text-decoration: underline;
 }
+a.anchor {
+   display: block;
+   position: relative;
+   top: -250px;
+   visibility: hidden;
+}
 
 /*
   Blockquote
