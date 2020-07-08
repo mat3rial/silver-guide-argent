@@ -28,6 +28,12 @@ h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
 }
+h2.anchor {
+   display: block;
+   position: relative;
+   top: -250px;
+   visibility: hidden;
+}
 h3 {
   margin-top: 1.5rem;
   font-size: 1.25rem;
@@ -120,12 +126,6 @@ a.toolkit {
 a.external {
   font-weight: 400;
   text-decoration: underline;
-}
-a.anchor {
-   display: block;
-   position: relative;
-   top: -250px;
-   visibility: hidden;
 }
 
 /*
