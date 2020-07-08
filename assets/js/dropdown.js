@@ -21,8 +21,8 @@ $( document ).ready(function() {
   // }, function(){
   //     $(".sub-menu").stop().slideUp("fast");
   // });
-  $(".toolkit.desktop").hover(function () {
-    $(".sub-menu").slideToggle("fast");
+  $(".desktop").hover(function () {
+    $(this).find(".sub-menu").slideToggle("fast");
   });
   // $(document).mouseup(function(e) {
   //   if (!$('.dropbtn').is(e.target)) {
@@ -39,7 +39,7 @@ $( document ).ready(function() {
 // });
 
 
-$(".toolkit.mobile").on("click", function(e){
+$(".mobile").on("click", function(e){
   e.stopPropagation();
-  $(".sub-menu").slideToggle("fast");
+  $(this).parent().find(".sub-menu").slideToggle("fast");
 })
