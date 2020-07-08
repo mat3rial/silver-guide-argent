@@ -13,6 +13,8 @@ order:
 
 Ask the donor for a document indicating the market value of the services provided free of charge (i.e., the price they would usually charge for these goods or services).
 
+[See Tab _Templates_: Agreement Contribution]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
+
 ## Media placement, transportation, or other service providers:
 
 If the donor is a merchant, ask for an invoice indicating the retail price and the amount of the donation (or discount). 
