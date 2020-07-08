@@ -12,6 +12,8 @@ permalink: "/en/toolkit/templates/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="AGREEMENT PARTNERSHIP"/>[AGREEMENT PARTNERSHIP]({{ site.baseurl }}/assets/template-en/agreement_exchange_partnership.doc) (.doc)
 
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="AGREEMENT SERVICE EXCHANGE"/>[AGREEMENT SERVICE EXCHANGE]({{ site.baseurl }}/assets/template-en/agreement_exchange.doc) (.doc)
+
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="ARTIST CONTRACT DONATION"/>[ARTIST CONTRACT DONATION]({{ site.baseurl }}/assets/template-en/contract_artist_donations.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FAQ FOR ART DONORS"/>[FAQ FOR ART DONORS]({{ site.baseurl }}/assets/template-en/FAQ_art_donors.doc) (.doc)
