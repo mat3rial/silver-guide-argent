@@ -7,7 +7,7 @@ $( document ).ready(function() {
     var section_splits = section.split("_").map(function(x) {
       return parseInt(x, 10)
     })
-    console.log(section, section_splits)
+    // console.log(section, section_splits)
     // if (section_splits.length == 1) {
     //   $('section-nav').children().eq();
     // }
