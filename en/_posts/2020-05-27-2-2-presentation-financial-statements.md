@@ -42,4 +42,16 @@ example_text="Volunteer labour as part of its operations, our organization relie
 See tab Scales"
 %}
 
+<div class="outer-accordion-wrapper">
+  <div class="example-text-wrapper">
+      <h4 class="include-title">*Example 4 - volunteer labour in financial statements*</h4>
+    <div class="close">+</div>
+    <div class="open">-</div>
+  </div>
+  <div class="example-wrapper">
+    Volunteer labour as part of its operations, our organization relies on the services of many volunteers. These services are recognized in the organization’s revenues. Volunteer hours are compiled and recorded at an hourly rate equal to the average market rate for similar services.
+    <a href="{{ site.baseurl }}/en/toolkit/scales/" title="Scales">See tab <em>SCALES</em></a>
+  </div>
+</div>
+
 {% include next_step_button.html link="end/" %}
