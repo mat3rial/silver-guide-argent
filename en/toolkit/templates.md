@@ -8,9 +8,9 @@ permalink: "/en/toolkit/templates/"
 ---
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="AGREEMENT CONTRIBUTION"/>[AGREEMENT CONTRIBUTION]({{ site.baseurl }}/assets/template-en/agreement_contribution.doc) (.doc)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF AGREEMENT 2"/>[AGREEMENT VISIBILITY]({{ site.baseurl }}/assets/template-en/promo_agreement.doc) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="AGREEMENT VISIBILITY"/>[AGREEMENT VISIBILITY]({{ site.baseurl }}/assets/template-en/promo_agreement.doc) (.doc)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER OF AGREEMENT FOR PARTNERSHIP"/>[AGREEMENT PARTNERSHIP]({{ site.baseurl }}/assets/template-en/agreement_exchange_partnership.doc) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="AGREEMENT PARTNERSHIP"/>[AGREEMENT PARTNERSHIP]({{ site.baseurl }}/assets/template-en/agreement_exchange_partnership.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="ARTIST CONTRACT DONATION"/>[ARTIST CONTRACT DONATION]({{ site.baseurl }}/assets/template-en/contract_artist_donations.doc) (.doc)
 
