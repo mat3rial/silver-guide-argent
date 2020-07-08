@@ -5,7 +5,7 @@ lang: en
 lang-ref: "1"
 permalink: "/en/guide/1-considerations/"
 section: 1
-order: 
+order:
 
 ---
 {% include nav_yes_no.html

@@ -41,5 +41,9 @@
       {% endif %}
     {% endif %}
   </div>
-  <a style="display: none;" class="guide-button" href="{{ site.baseurl }}/{{ page.lang }}/guide/">{{ site.data.translations.nextButton[page.lang] }}</a>
+  {% if include.nextText %}
+    <a style="display:none;" class="guide-button" href="{{ site.baseurl }}/{{ page.lang }}/guide/{{ include.link }}">{{ include.nextText }}</a>
+  {% else %}
+    <a style="display:none;" class="guide-button" href="{{ site.baseurl }}/{{ page.lang }}/guide/{{ include.link }}">{{ site.data.translations.nextButton[page.lang] }}</a>
+  {% endif %}
 </div>

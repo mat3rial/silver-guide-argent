@@ -1,1 +1,5 @@
-<a class="guide-button" href="{{ site.baseurl }}/{{ page.lang }}/guide/{{ include.link }}">{{ site.data.translations.nextButton[page.lang] }}</a>
+{% if include.nextText %}
+  <a class="guide-button" href="{{ site.baseurl }}/{{ page.lang }}/guide/{{ include.link }}">{{ include.nextText }}</a>
+{% else %}
+  <a class="guide-button" href="{{ site.baseurl }}/{{ page.lang }}/guide/{{ include.link }}">{{ site.data.translations.nextButton[page.lang] }}</a>
+{% endif %}
