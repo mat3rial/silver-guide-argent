@@ -10,7 +10,7 @@ section: 2
 ---
 When an organization chooses to record contributions of goods and services, it must present the following information in its financial statements:
 <ul class="textlist">
-  <li>1. The method used;</li>
+<li>1. The method used;</li>
 
 <li>2. The kind and amount of contributed goods and services recorded in the financial statements.</li>
 </ul>
@@ -42,16 +42,8 @@ example_text="Volunteer labour as part of its operations, our organization relie
 See tab Scales"
 %}
 
-<div class="outer-accordion-wrapper">
-  <div class="example-text-wrapper">
-      <h4 class="include-title"><strong>Example 4 - volunteer labour in financial statements</strong></h4>
-    <div class="close">+</div>
-    <div class="open">-</div>
-  </div>
-  <div class="example-wrapper">
-    Volunteer labour as part of its operations, our organization relies on the services of many volunteers. These services are recognized in the organization’s revenues. Volunteer hours are compiled and recorded at an hourly rate equal to the average market rate for similar services.
-    <a class="toolkit" href="{{ site.baseurl }}/en/toolkit/scales/" title="Scales">See tab <em>SCALES</em></a>
-  </div>
-</div>
+<div class="outer-accordion-wrapper"> <div class="example-text-wrapper"> <h4 class="include-title"><strong>Example 4 - volunteer labour in financial statements</strong></h4> <div class="close">+</div> <div class="open">-</div> </div> <div class="example-wrapper"> Volunteer labour as part of its operations, our organization relies on the services of many volunteers. These services are recognized in the organization’s revenues. Volunteer hours are compiled and recorded at an hourly rate equal to the average market rate for similar services.
+
+<a class="toolkit" href="{{ site.baseurl }}/en/toolkit/scales/" title="Scales">See tab <em>SCALES</em></a> 
 
 {% include next_step_button.html link="end/" %}
