@@ -4,10 +4,11 @@ title: table of contents
 lang-ref: toc
 lang: en
 permalink: "/en/guide/table-of-contents/"
----
-1\. Start
 
-2\. Accounting for contributions received in the form of goods and services
+---
+1\. [Start]({{ site.baseurl }}/en/guide/1-start/) 
+
+2\. [Accounting for contributions received in the form of goods and services]({{ site.baseurl }}/en/guide/2-rules-to-follow/) 
 <ul class="textlist">
 <li>2.1. Evaluation of the contribution
 
