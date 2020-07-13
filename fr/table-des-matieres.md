@@ -35,9 +35,9 @@ permalink: "/fr/guide/table-des-matières/"
 
 5\. [Organisme de bienfaisance : Reçus de dons de charité]({{site.baseurl}}/fr/guide/5-reçus-dons-de-charité/)
 <ul class="textlist">
-  <li>5.1. Dons faits en espèces</li>
-  <li>5.2. Don de biens</li>
-  <li>5.3. Don d'une œuvre d'art acquise</li>
-  <li>5.4. Don d'une œuvre reçue</li>
-  <li>5.5. Don de services</li>
+  <li>5.1. <a href="{{site.baseurl}}/fr/guide/5_1-dons-espèces/" title="Dons faits en espèces">Dons faits en espèces</a></li>
+  <li>5.2. <a href="{{site.baseurl}}/fr/guide/5-2-don-de-biens/" title="Don de biens">Don de biens</a></li>
+  <li>5.3. <a href="{{site.baseurl}}/fr/guide/5_3-don-œuvre-acquise/" title="Don d'une œuvre d'art acquise">Don d'une œuvre d'art acquise</a></li>
+  <li>5.4. <a href="{{site.baseurl}}/fr/guide/5_4-don-œuvre-reçue/" title="Don d'une œuvre reçue">Don d'une œuvre reçue</a></li>
+  <li>5.5. <a href="{{site.baseurl}}/fr/guide/5_5-don-de-services/" title="Don de services">Don de services</a></li>
 </ul>
