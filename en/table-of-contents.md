@@ -18,10 +18,10 @@ permalink: "/en/guide/table-of-contents/"
   <li>2.1.2. <a href="{{ site.baseurl }}/en/guide/2_1_2-donation-of-services/" title="Evaluation of contributions received in the form of services">Evaluation of contributions received in the form of services</a></li>
 </ul></li>
 
-<li>2.2. Presentation in the financial statements</li>
+  <li>2.2. <a href="{{ site.baseurl }}/en/guide/2_2-presentation-financial-statements/" title="Presentation in the financial statements">Presentation in the financial statements</a></li>
 </ul>
 
-3\. Accounting for non-monetary exchanges (bartered exchanges)
+3\. <a href="{{ site.baseurl }}/en/guide/3-accounting-non-monetary-exchanges/" title="Accounting for non-monetary exchanges (bartered exchanges)">Accounting for non-monetary exchanges (bartered exchanges)</a>
 <ul class="textlist">
   <li>3.1. Evaluation of the exchange</li>
 
