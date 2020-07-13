@@ -27,10 +27,10 @@ permalink: "/fr/guide/table-des-matières/"
   <li>3.4. <a href="{{site.baseurl}}/fr/guide/3_4-présentation-états-financiers/" title="Présentation aux états financiers">Présentation aux états financiers</a></li>
 </ul>
 
-4\. Incidence de l'application de la taxe sur les produits et services (TPS) de la taxe de vente harmonisée (TVH) et des taxes provinciales là où applicables
+4\. [Incidence de l'application de la taxe sur les produits et services (TPS) de la taxe de vente harmonisée (TVH) et des taxes provinciales là où applicables]({{site.baseurl}}/fr/guide/4_incidence-taxe/)
 <ul class="textlist">
-  <li>4.1. Échange de services de valeur équivalente</li>
-  <li>4.2. Parrainage (commandite)</li>
+  <li>4.1. <a href="{{site.baseurl}}/fr/guide/4_1-échange-valeur-équivalente/" title="Échange de services de valeur équivalente">Échange de services de valeur équivalente</a></li>
+  <li>4.2. <a href="{{site.baseurl}}/fr/guide/4_2-parrainage-commandite/" title="Parrainage (commandite)">Parrainage (commandite)</a></li>
 </ul>
 
 5\. Organisme de bienfaisance : Reçus de dons de charité
