@@ -21,10 +21,10 @@ permalink: "/fr/guide/table-des-matières/"
 
 3\. [Comptabilisation des échanges non-monétaires (échanges de service)]({{site.baseurl}}/fr/guide/3-comptabilisation-échanges-non-monétaire/)
 <ul class="textlist">
-  <li>3.1. <a href="" title="">Évaluation de l'échange</a></li>
-  <li>3.2. Lettre d'entente ou contrat</li>
-  <li>3.3. Comptabilisation</li>
-  <li>3.4. Présentation aux états financiers</li>
+  <li>3.1. <a href="{{site.baseurl}}/fr/guide/3_1-évaluation-échange/" title="Évaluation de l'échange">Évaluation de l'échange</a></li>
+  <li>3.2. <a href="{{site.baseurl}}/fr/guide/3_2-lettre-entente-contrat/" title="Lettre d'entente ou contrat">Lettre d'entente ou contrat</a></li>
+  <li>3.3. <a href="{{site.baseurl}}/fr/guide/3_3-comptabilisation/" title="Comptabilisation">Comptabilisation</a></li>
+  <li>3.4. <a href="{{site.baseurl}}/fr/guide/3_4-présentation-états-financiers/" title="Présentation aux états financiers">Présentation aux états financiers</a></li>
 </ul>
 
 4\. Incidence de l'application de la taxe sur les produits et services (TPS) de la taxe de vente harmonisée (TVH) et des taxes provinciales là où applicables
