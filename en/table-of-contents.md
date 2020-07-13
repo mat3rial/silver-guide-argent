@@ -15,7 +15,7 @@ permalink: "/en/guide/table-of-contents/"
 <ul class="textlist">
   <li>2.1.1. <a href="{{ site.baseurl }}/en/guide/2_1_1-donations-of-goods/" titl="Evaluation of contributions in the form of goods">Evaluation of contributions in the form of goods</a> </li>
 
-<li>2.1.2. Evaluation of contributions received in the form of services</li>
+  <li>2.1.2. <a href="{{ site.baseurl }}/en/guide/2_1_2-donation-of-services/" title="Evaluation of contributions received in the form of services">Evaluation of contributions received in the form of services</a></li>
 </ul></li>
 
 <li>2.2. Presentation in the financial statements</li>
