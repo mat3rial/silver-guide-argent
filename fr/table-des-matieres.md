@@ -8,9 +8,9 @@ permalink: "/fr/guide/table-des-matières/"
 ---
 1\. [Départ]({{site.baseurl}}/fr/guide/1-départ/)
 
-2\. Comptabilisation des dons reçus sous forme de biens ou de services
+2\. [Comptabilisation des dons reçus sous forme de biens ou de services]({{site.baseurl}}/fr/guide/2-règles-à-suivre/)
 <ul class="textlist">
-  <li>2.1. Évaluation du don
+  <li>2.1. <a href="{{site.baseurl}}/fr/guide/2_1-évaluation-du-don/" title="Évaluation du don">Évaluation du don</a>
     <ul class="textlist">
       <li>2.1.1. Évaluation des dons de biens</li>
       <li>2.1.2. Évaluation des dons de services</li>
