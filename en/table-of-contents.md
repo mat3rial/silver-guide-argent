@@ -10,11 +10,10 @@ permalink: "/en/guide/table-of-contents/"
 
 2\. [Accounting for contributions received in the form of goods and services]({{ site.baseurl }}/en/guide/2-rules-to-follow/) 
 <ul class="textlist">
-<li>2.1. [Evaluation of the contribution]({{ site.baseurl }}/en/guide/2_1-evaluation-of-contribution/) 
+<li>2.1. <a href="{{ site.baseurl }}/en/guide/2_1-evaluation-of-contribution/" title="Evaluation of the contribution">Evaluation of the contribution</a>
   
 <ul class="textlist">
-<li>2.1.1. [Evaluation of contributions in the form of goods]({{ site.baseurl }}/en/guide/2_1_1-donations-of-goods/) 
- </li>
+  <li>2.1.1. <a href="{{ site.baseurl }}/en/guide/2_1_1-donations-of-goods/" titl="Evaluation of contributions in the form of goods">Evaluation of contributions in the form of goods</a> </li>
 
 <li>2.1.2. Evaluation of contributions received in the form of services</li>
 </ul></li>
