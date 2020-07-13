@@ -33,7 +33,7 @@ permalink: "/fr/guide/table-des-matières/"
   <li>4.2. <a href="{{site.baseurl}}/fr/guide/4_2-parrainage-commandite/" title="Parrainage (commandite)">Parrainage (commandite)</a></li>
 </ul>
 
-5\. Organisme de bienfaisance : Reçus de dons de charité
+5\. [Organisme de bienfaisance : Reçus de dons de charité]({{site.baseurl}}/fr/guide/5-reçus-dons-de-charité/)
 <ul class="textlist">
   <li>5.1. Dons faits en espèces</li>
   <li>5.2. Don de biens</li>
