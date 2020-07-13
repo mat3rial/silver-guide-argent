@@ -12,16 +12,16 @@ permalink: "/fr/guide/table-des-matières/"
 <ul class="textlist">
   <li>2.1. <a href="{{site.baseurl}}/fr/guide/2_1-évaluation-du-don/" title="Évaluation du don">Évaluation du don</a>
     <ul class="textlist">
-      <li>2.1.1. Évaluation des dons de biens</li>
-      <li>2.1.2. Évaluation des dons de services</li>
+      <li>2.1.1. <a href="{{site.baseurl}}/fr/guide/2_1_1-dons-de-biens/" title="Évaluation des dons de biens">Évaluation des dons de biens</a></li>
+      <li>2.1.2. <a href="{{site.baseurl}}/fr/guide/2_1_2-dons-de-services/" title="Évaluation des dons de services">Évaluation des dons de services</a></li>
     </ul>
   </li>
-  <li>2.2. Présentation aux états financiers</li>
+  <li>2.2. <a href="{{site.baseurl}}/fr/guide/2_2-présentation-états-financiers/" title="Présentation aux états financiers">Présentation aux états financiers</a></li>
 </ul>
 
-3\. Comptabilisation des échanges non-monétaires (échanges de service)
+3\. [Comptabilisation des échanges non-monétaires (échanges de service)]({{site.baseurl}}/fr/guide/3-comptabilisation-échanges-non-monétaire/)
 <ul class="textlist">
-  <li>3.1. Évaluation de l'échange</li>
+  <li>3.1. <a href="" title="">Évaluation de l'échange</a></li>
   <li>3.2. Lettre d'entente ou contrat</li>
   <li>3.3. Comptabilisation</li>
   <li>3.4. Présentation aux états financiers</li>
