@@ -4,8 +4,9 @@ title: table des matières
 lang-ref: toc
 lang: fr
 permalink: "/fr/guide/table-des-matières/"
+
 ---
-1\. Départ
+1\. [Départ]({{site.baseurl}}/fr/guide/1-départ/)
 
 2\. Comptabilisation des dons reçus sous forme de biens ou de services
 <ul class="textlist">
