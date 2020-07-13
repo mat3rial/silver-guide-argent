@@ -23,13 +23,13 @@ permalink: "/en/guide/table-of-contents/"
 
 3\. <a href="{{ site.baseurl }}/en/guide/3-accounting-non-monetary-exchanges/" title="Accounting for non-monetary exchanges (bartered exchanges)">Accounting for non-monetary exchanges (bartered exchanges)</a>
 <ul class="textlist">
-  <li>3.1. Evaluation of the exchange</li>
+  <li>3.1. <a href="{{ site.baseurl }}/en/guide/3_1-evaluation-exchange/" title="Evaluation of the exchange">Evaluation of the exchange</a></li>
 
-  <li>3.2. Letter of agreement or contract</li>
+  <li>3.2. <a href="{{ site.baseurl }}/en/guide/3_2-letter-agreement-contract/" title="Letter of agreement or contract">Letter of agreement or contract</a></li>
 
-  <li>3.3. Recognition in organization's books</li>
+  <li>3.3. <a href="{{ site.baseurl }}/en/guide/3_3-accounting/" title="Recognition in organization's books">Recognition in organization's books</a></li>
 
-  <li>3.4. Presentation in the financial statements</li>
+  <li>3.4. <a href="{{ site.baseurl }}/en/guide/3_4-presentation-financial-statements/" title="Presentation in the financial statements">Presentation in the financial statements</a></li>
 </ul>
 4\. Impact of applying the Goods and Services Tax (GST) and Harmonized Sales Tax (HST) and Provincial Sales Tax (PST) where applicable
 <ul class="textlist">
