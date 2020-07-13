@@ -6,7 +6,7 @@ lang: fr
 permalink: "/fr/boîte_à_outils/schémas/"
 
 ---
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="Schéma 1" />[SCHÉMA 1]({{ site.baseurl }}/assets/schema-diagram/schema1.pdf) (.pdf)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="Schéma 1" /><a href="{{ site.baseurl }}/assets/schema-diagram/schema1.pdf" title="Schema 1" target="_blank">SCHÉMA 1</a> (.pdf)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="Schéma 2" />[SCHÉMA 2]({{ site.baseurl }}/assets/schema-diagram/schema2.pdf) (.pdf)
 
