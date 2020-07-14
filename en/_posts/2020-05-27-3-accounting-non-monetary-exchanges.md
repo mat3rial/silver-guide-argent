@@ -14,6 +14,8 @@ In this section, we will focus on exchanges of goods and services. Once again, t
 
 Generally speaking, these transactions are assessed at the fair value either of the goods or services received or the goods or services supplied—**whichever is more accurate**.
 
+Exchanges can also be treated as separate contributions.
+
 To account for these non-monetary exchanges, it is important to ensure that the assessment of fair value is sufficiently reliable. If the fair value is not sufficiently reliable, do not record it.
 
 {% include nav_yes_no.html
