@@ -23,4 +23,6 @@ For the issuance of **cash donation receipts**, the procedure is simple. A recei
 * The signature of the recipient organization’s authorized signor;
 * The name and website address of the Canada Revenue Agency.
 
+[See tab _Templates_ : Donation Receipt]({{site.baseurl}}/en/toolkit/templates/){: .toolkit}
+
 {% include next_step_button.html link="5_2-donation-of-goods/" %}
