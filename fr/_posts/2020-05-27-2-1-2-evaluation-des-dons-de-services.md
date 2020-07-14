@@ -5,7 +5,6 @@ lang: fr
 lang-ref: 2-1-2
 permalink: "/fr/guide/2_1_2-dons-de-services/"
 section: 2
-# omit: 'yes'
 order: 3
 
 ---
@@ -23,7 +22,13 @@ Que le donateur soit un commerçant ou un OBNL, demander une facture indiquant l
 
 ### Service de bénévoles
 
-Généralement, le bénévolat n’est pas constaté dans les revenus et dépenses de l’organisme pour deux raisons, soit parce que l’évaluation de la juste valeur est trop difficile, ou parce que l’organisme n’a pas la capacité financière d’acheter ces services, donc la troisième condition voulant que, n’eût été ce don, il ait quand même acheté ces services, n’est pas remplie. Cependant, cette information peut être inscrite par voie de notes aux états financiers.
+Généralement, le bénévolat n’est pas constaté dans les revenus et dépenses de l’organisme pour deux raisons : 
+<ul class="textlist">
+  <li>1. l’évaluation de la juste valeur est trop difficile;</li>
+<li> 2. l’organisme n’a pas la capacité financière d’acheter ces services, donc la troisième condition voulant que, n’eût été ce don, il ait quand même acheté ces services, n’est pas remplie. </li>
+  </ul>
+
+Cependant, cette information peut être inscrite par voie de notes aux états financiers.
 
 <div class="outer-accordion-wrapper">
   <div class="example-text-wrapper">
