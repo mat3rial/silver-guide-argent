@@ -23,11 +23,11 @@ If the donor is a merchant, ask for an invoice indicating the retail price and t
 ## Volunteer labour:
 
 In general, volunteer labour is not recorded in an organization’s income and expenses for two reasons:
+<ul class="textlist">
+  <li>1. Evaluating its fair value is too difficult;</li>
 
-1\. Evaluating its fair value is too difficult;
-
-2\. The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.
-
+<li>2. The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.</li>
+</ul>
 However, such information can be included in the notes to the financial statements (see example of note below).
 
 {% include accordion_example.html
