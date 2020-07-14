@@ -36,4 +36,4 @@ title="Exemple 3 - Services bénévoles comptabilisés"
 example_text="Dans le cadre de son fonctionnement courant, l’organisme a recours aux services de nombreux bénévoles. Ces services sont constatés dans les produits de l’organisme. Les heures consacrées par les bénévoles sont compilées et constatées selon un taux horaire équivalent au taux moyen sur le marché pour des services similaires. (Voir onglet _Barèmes_)"
 %}
 
-{% include next_step_button.html link="fin/" %}
+{% include next_step_button.html nextText="fin" link="fin/" %}
