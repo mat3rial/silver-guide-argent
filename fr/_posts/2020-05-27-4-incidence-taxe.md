@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 4. Incidence de l'application de la taxe sur les produits et services (TPS)
-  de la taxe de vente harmonisée (TVH) et des taxes provinciales là où applicables</span>
+  de la taxe de vente harmonisée (TVH) et des taxes provinciales là où applicables
 lang: fr
 lang-ref: "4"
 permalink: "/fr/guide/4_incidence-taxe/"
@@ -15,4 +15,4 @@ L’incidence de la taxe variera selon le statut de l’organisme. Par exemple, 
 
 Un OBNL **qui** **n'est pas inscrit à la TPS / TVH** ne facturera pas la taxe de vente sur les revenus, qu'il s'agisse ou non d'une vente au comptant ou d'un échange. L’OBNL pourra toutefois réclamer une partie de la taxe de vente payée sur leurs achats (que ce soit en espèces ou en échange) par le biais de la remise aux organismes de services publics, mais tout montant qui ne peut être réclamé devra être enregistré comme dépense.
 
-{% include next_step_button.html link="4_1-échange-valeur-équivalente/" %}
+{% include next_step_button.html nextText="exemples" link="4_1-échange-valeur-équivalente/" %}
