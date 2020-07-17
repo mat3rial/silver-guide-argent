@@ -36,4 +36,10 @@ title="Exemple 3 - Services bénévoles comptabilisés"
 example_text="Dans le cadre de son fonctionnement courant, l’organisme a recours aux services de nombreux bénévoles. Ces services sont constatés dans les produits de l’organisme. Les heures consacrées par les bénévoles sont compilées et constatées selon un taux horaire équivalent au taux moyen sur le marché pour des services similaires. (Voir onglet _Barèmes_)"
 %}
 
+
+<div class="outer-accordion-wrapper"> <div class="example-text-wrapper"> <h4 class="include-title"><strong>Exemple 3 - Services bénévoles comptabilisés</strong></h4> <div class="close">+</div> <div class="open">-</div> </div> <div class="example-wrapper"> Dans le cadre de son fonctionnement courant, l’organisme a recours aux services de nombreux bénévoles. Ces services sont constatés dans les produits de l’organisme. Les heures consacrées par les bénévoles sont compilées et constatées selon un taux horaire équivalent au taux moyen sur le marché pour des services similaires.<br/><br/>
+
+<a class="toolkit" href="{{ site.baseurl }}/fr/boîte_à_outils/barèmes/" title="Barèmes">Voir onglet <em>BARÈMES</em></a> 
+  </div></div>
+
 {% include next_step_button.html nextText="fin" link="../" %}
