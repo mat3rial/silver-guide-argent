@@ -12,4 +12,4 @@ section: 5
 
 [See Diagram 3]({{ site.baseurl }}/en/toolkit/diagrams/){: .toolkit}
 
-{% include next_step_button.html nextText="end" link="end/" %}
+{% include next_step_button.html nextText="end" link="../" %}
