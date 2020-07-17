@@ -47,4 +47,4 @@ See tab Scales"
 <a class="toolkit" href="{{ site.baseurl }}/en/toolkit/scales/" title="Scales">See tab <em>SCALES</em></a> 
   </div></div>
 
-{% include next_step_button.html nextText="end" link="/" %}
+{% include next_step_button.html nextText="end" link="../" %}
