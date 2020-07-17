@@ -12,4 +12,4 @@ section: 5
 
 [voir Schéma 3]({{ site.baseurl }}/fr/boîte_à_outils/schémas/){: .toolkit}
 
-{% include next_step_button.html nextText="fin" link="fin/" %}
+{% include next_step_button.html nextText="fin" link="../" %}
