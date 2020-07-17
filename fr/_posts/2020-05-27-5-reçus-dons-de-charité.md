@@ -12,4 +12,4 @@ order:
 
 Les organismes se qualifiant à titre d’organisme de bienfaisance peuvent délivrer des reçus de dons de charité. Cependant, il est primordial pour l’organisme de se conformer aux règles sur la délivrance des reçus de dons de charité.
 
-{% include next_step_button.html link="5_1-dons-espèces/" %}
+{% include next_step_button.html nextText="prochaine" link="5_1-dons-espèces/" %}
