@@ -26,4 +26,4 @@ Dans de tels cas, l’ARC ne considère pas la somme reçue par l’OBNL comme u
 example_text="Une station de radio qui est un organisme sans but lucratif a reçu une somme de 1 000 $ d’une entreprise qui la parraine. En remerciement des sommes reçues, l’organisme diffusera une publicité de 30 secondes pour l’entreprise en question. Cette publicité sera diffusée trois fois par jour pour les quatre prochaines semaines. Un tel service de publicité est normalement vendu au prix de 600 $. Le coût de la publicité représente 60 % de la somme versée par le parrain. Comme la somme versée vise à plus de 50 % un service de publicité à la radio, la TPS et la TVQ s’appliquent à la totalité du 1 000 $ reçu dans le cadre du parrainage."
 %}
 
-{% include next_step_button.html nextText="fin" link="fin/" %}
+{% include next_step_button.html nextText="fin" link="../" %}
