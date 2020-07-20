@@ -64,6 +64,10 @@ fiscal - Organisme de bienfaisance enregistré et Statut aux fins de la taxe de 
 
 Organisme sans but lucratif, organisme de bienfaisance, municipalité, administration hospitalière ou scolaire, collège public ou université.
 
+## Remboursement de TPS/TVH
+
+Aussi appelé remise aux organismes de services publics, est un remboursement partiel de 50% des taxes payées sur tout achat, y compris les taxes payées dans le cadre d’un échange de services. 
+
 ## Service
 
 Tout ce qui n’est ni un bien, ni de l’argent, ni tout ce qui est fourni à un employeur par un salarié relativement à sa charge ou à son emploi.
