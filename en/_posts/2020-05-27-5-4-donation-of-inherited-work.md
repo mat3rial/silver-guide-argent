@@ -4,7 +4,7 @@ title: 5.2.3. Donation of inherited work
 lang: en
 lang-ref: 5-2-3
 permalink: "/en/guide/5_2_3-donation-inherited-work/"
-order: 4
+order: 5
 section: 5
 
 ---
@@ -19,4 +19,4 @@ In addition to the information mentioned above, the charity must supply the foll
 * A description of the received goods.
 * The name and address of the appraiser, if applicable.
 
-{% include next_step_button.html link="5_5-donation-of-services/" %}
+{% include next_step_button.html link="5_3-donation-of-services/" %}
