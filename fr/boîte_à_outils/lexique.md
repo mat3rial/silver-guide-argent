@@ -26,7 +26,7 @@ Une commandite est un échange de bons procédés entre un commanditaire et une 
 
 ## Échanges non monétaires
 
-Échanges d’actifs, (très rarement de passifs) ou de services non monétaires contre d’autres actifs, passifs ou services non monétaires, sans contrepartie financière ou moyennant une contrepartie financière négligeable.
+Aussi appelé "échange de service", l’échanges d’actifs, (très rarement de passifs) ou de services non monétaires contre d’autres actifs, passifs ou services non monétaires, sans contrepartie financière ou moyennant une contrepartie financière négligeable; l’échange est une pratique courante des partenariats et co-productions dans lesquels chaque partie contribue des biens et des services de valeurs plus ou moins égales. 
 
 ## Fourniture
 
