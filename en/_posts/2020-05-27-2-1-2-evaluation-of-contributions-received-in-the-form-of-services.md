@@ -10,7 +10,7 @@ order: 3
 ---
 ## Office or management work performed free of charge by a professional:
 
-Ask the donor for a document indicating the market value of the services provided free of charge (i.e., the price they would usually charge for these goods or services).
+Ask the donor for a document indicating the market value of the services provided free of charge (i.e., the price they would usually charge for these goods or services). A donation of services is not eligible for a charitable tax receipt (ref. section 5.5, and DIAGRAM 3 - procedure for issuing receipts for service donations.)
 
 [See Tab _Templates_: Agreement Contribution]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
 
@@ -24,7 +24,7 @@ If the donor is a merchant, ask for an invoice indicating the retail price and t
 
 In general, volunteer labour is not recorded in an organization’s income and expenses for two reasons:
 <ul class="textlist">
-  <li>1. Evaluating its fair value is too difficult;</li>
+<li>1. Evaluating its fair value is too difficult;</li>
 
 <li>2. The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.</li>
 </ul>
