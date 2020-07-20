@@ -8,7 +8,7 @@ permalink: "/fr/boîte_à_outils/lexique/"
 ---
 ## Apport
 
-Transfert sans contrepartie d’argent ou d’autres actifs à un organisme sans but lucratif, ou règlement ou annulation sans contrepartie d’un élément de passif de cet organisme.
+Transfert sans contrepartie d’argent ou d’autres actifs à un organisme sans but lucratif, ou règlement ou annulation sans contrepartie d’un élément de passif de cet organisme, tel un don en argent.
 
 ## Apports reçus sous forme de biens ou de services
 
