@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 5.4. Don d'une œuvre reçue
+title: 5.2.3. Don d'une œuvre reçue
 lang: fr
-lang-ref: 5-4
-permalink: "/fr/guide/5_4-don-œuvre-reçue/"
-order: 4
+lang-ref: 5-2-3
+permalink: "/fr/guide/5_2_3-don-œuvre-reçue/"
+order: 5
 section: 5
 
 ---
@@ -19,4 +19,4 @@ En plus des renseignements mentionnés précédemment, l’organisme de bienfais
 * La description du bien reçu;
 * Le nom et l’adresse de l’évaluateur, s’il y a lieu.
 
-{% include next_step_button.html link="5_5-don-de-services/" %}
+{% include next_step_button.html link="5_3-don-de-services/" %}
