@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '5.3. Donation of purchased artwork '
+title: '5.2.2. Donation of purchased artwork '
 lang: en
-lang-ref: 5-3
-permalink: "/en/guide/5_3-donation-purchased-work/"
+lang-ref: 5-2-2
+permalink: "/en/guide/5_2_2-donation-purchased-work/"
 order: 3
 section: 5
 
