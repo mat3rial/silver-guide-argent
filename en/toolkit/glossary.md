@@ -18,6 +18,10 @@ Non-monetary or non-reciprocal transfers, i.e., transfers of assets, liabilities
 
 A payment amount agreed upon by willing parties in the normal course of business, on a level playing field such as retail sales prices of local or online commerce.
 
+## GST/HST Rebate
+
+Also called Public Service Bodies Rebate, is a refund for qualifying non-profit organization of taxes paid on purchases, including those that were also acquired through bartered exchange. 
+
 ## In Kind Donation: see Contribution
 
 ## Input tax credit (ITC)
