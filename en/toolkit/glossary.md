@@ -24,7 +24,8 @@ A credit that GST/HST registrants can generally claim to recover the GST/HST pai
 
 ## Non-monetary exchanges
 
-Exchanges of assets, liabilities, or non-monetary services against other assets, liabilities, or non-monetary services, with no or negligible monetary consideration.
+Also referred to as "bartered exchanges" or "exchanges of goods and services", exchanges of assets, liabilities, or non-monetary services against other assets, liabilities, or non-monetary services, with no or negligible monetary consideration such as in partnerships and co-productions where each partner contributes in kind goods and services of more or less equal value, commonly known as barter. 
+
 
 ## Non-profit organization
 
