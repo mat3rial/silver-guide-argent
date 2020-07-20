@@ -24,6 +24,8 @@ L’équivalent provincial qui permet de récupérer la TVQ payée sur les intra
 
 Une commandite est un échange de bons procédés entre un commanditaire et une autre partie, par lequel le commanditaire s’engage à donner de l’argent ou des biens ou services en contrepartie d’un accès au potentiel commercial de l’activité. Les frais de commandite ne sont pas des dons et l’organisme ne peut pas délivrer de reçu de don de bienfaisance pour des commandites parce que le commanditaire reçoit typiquement une offre de visibilité en échange. Les commandites peuvent être offertes en argent, en biens ou en services.
 
+## Don en nature: voir Apport
+
 ## Échanges non monétaires
 
 Aussi appelé "échange de service", l’échanges d’actifs, (très rarement de passifs) ou de services non monétaires contre d’autres actifs, passifs ou services non monétaires, sans contrepartie financière ou moyennant une contrepartie financière négligeable; l’échange est une pratique courante des partenariats et co-productions dans lesquels chaque partie contribue des biens et des services de valeurs plus ou moins égales. 
