@@ -18,7 +18,7 @@ Non-monetary or non-reciprocal transfers, i.e., transfers of assets, liabilities
 
 A payment amount agreed upon by willing parties in the normal course of business, on a level playing field such as retail sales prices of local or online commerce.
 
-## In Kind Donation ##: see Contribution
+## In Kind Donation: see Contribution
 
 ## Input tax credit (ITC)
 
