@@ -34,7 +34,7 @@ Une fourniture est la livraison de biens ou la prestation de services, notamment
 
 ## Juste valeur
 
-Montant de la contrepartie dont conviendraient des parties compétentes agissant en toute liberté dans des conditions de pleine concurrence.
+Montant de la contrepartie dont conviendraient des parties compétentes agissant en toute liberté dans des conditions de pleine concurrence, tel le prix de vente au détail dans un commerce local ou en ligne.
 
 ## Organisme sans but lucratif
 
