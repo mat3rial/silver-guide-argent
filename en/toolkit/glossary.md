@@ -18,6 +18,8 @@ Non-monetary or non-reciprocal transfers, i.e., transfers of assets, liabilities
 
 A payment amount agreed upon by willing parties in the normal course of business, on a level playing field such as retail sales prices of local or online commerce.
 
+## In Kind Donation ##: see Contribution
+
 ## Input tax credit (ITC)
 
 A credit that GST/HST registrants can generally claim to recover the GST/HST paid or payable for property and services they acquired, imported into Canada, or brought into a participating province for use, consumption, or supply in the course of their commercial activities.
