@@ -1,10 +1,10 @@
 ---
 layout: post
-title: '5.3. Don d''une œuvre d''art acquise '
+title: '5.2.2. Don d''une œuvre d''art acquise '
 lang: fr
-lang-ref: 5-3
-permalink: "/fr/guide/5_3-don-œuvre-acquise/"
-order: 3
+lang-ref: 5-2-2
+permalink: "/fr/guide/5_2_2-don-œuvre-acquise/"
+order: 4
 section: 5
 
 ---
@@ -14,4 +14,4 @@ Si le donateur fait don du bien dans un délai de trois ans suivant son acquisit
 example_text="Un donateur se procure un objet d'art au coût de 300 $ et, six mois plus tard, il en fait don à un organisme de bienfaisance enregistré. Avant de faire don de l'objet, le donateur fait évaluer l'objet à une valeur de 1 000 $. Dans cet exemple, le montant inscrit sur le reçu de don devrait être de 300 $."
 %}
 
-{% include next_step_button.html link="5_4-don-œuvre-reçue/" %}
+{% include next_step_button.html link="5_2_3-don-œuvre-reçue/" %}
