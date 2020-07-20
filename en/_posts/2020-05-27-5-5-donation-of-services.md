@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 5.5. Donation of services
+title: 5.3. Donation of services
 lang: en
 lang-ref: 5-5
-permalink: "/en/guide/5_5-donation-of-services/"
-order: 5
+permalink: "/en/guide/5_3-donation-of-services/"
+order: 6
 section: 5
 
 ---
