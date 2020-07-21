@@ -35,3 +35,5 @@ permalink: "/en/toolkit/templates/"
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="INVOICE FOR DONATION 1"/>[INVOICE FOR DONATION 1]({{ site.baseurl }}/assets/template-en/invoice_donation_1.pdf) (.pdf)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="INVOICE FOR DONATION 2"/>[INVOICE FOR DONATION 2]({{ site.baseurl }}/assets/template-en/invoice_donation_2.pdf) (.pdf)
+
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="WAIVED FEE"/>[WAIVED FEE]({{ site.baseurl }}/assets/template-en/waived_Fee.doc) (.doc)
