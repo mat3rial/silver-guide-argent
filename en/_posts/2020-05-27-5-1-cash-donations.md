@@ -25,4 +25,4 @@ For the issuance of **cash donation receipts**, the procedure is simple. A recei
 
 [See tab _Templates_ : Donation Receipt]({{site.baseurl}}/en/toolkit/templates/){: .toolkit}
 
-{% include next_step_button.html link="5_2-donation-of-goods/" %}
+{% include next_step_button.html nextText="next" link="5_2-donation-of-goods/" %}
