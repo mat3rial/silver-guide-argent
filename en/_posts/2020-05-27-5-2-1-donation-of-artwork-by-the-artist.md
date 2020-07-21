@@ -4,8 +4,8 @@ title: 5.2.1. Donation of Artwork by the Artist
 lang: en
 lang-ref: 5-2-1
 permalink: "/en/guide/5_2_1-donation-by-artist/"
-order: 3
-section: 5
+order: "3"
+section: "5"
 
 ---
 If an artist donates an artwork, the charitable organization can issue a receipt in the amount deemed as fair market value (FMV) for that artwork.  When the FMV is less than $1,000, the assessment can be made by a member of the charity or someone with sufficient knowledge of the goods in question (i.e. the curator or artistic director in an artist-run centre).
@@ -21,3 +21,5 @@ example_text="An artist gives a charity an artwork valued at $1,000. The charity
 **Note**
 
 If the amount of the advantage is more than 80% of the fair market value of the gift, an official donation receipt cannot be issued. For more information, go to [Split receipting](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/issuing-receipts/split-receipting.html){: .external}.
+
+{% include next_step_button.html nextText="next" link="5_2_2-donation-purchased-work/" %}
