@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2.1 Evaluation of the contribution
+title: 2.1. Evaluation of the contribution
 lang: en
 lang-ref: 2-1
 permalink: "/en/guide/2_1-evaluation-of-contribution/"

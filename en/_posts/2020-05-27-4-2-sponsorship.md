@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4.2 Sponsorship
+title: 4.2. Sponsorship
 lang: en
 lang-ref: 4-2
 permalink: "/en/guide/4_2-sponsorship/"

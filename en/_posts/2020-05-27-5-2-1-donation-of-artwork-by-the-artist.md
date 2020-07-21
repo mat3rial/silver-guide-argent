@@ -3,7 +3,7 @@ layout: post
 title: 5.2.1. Donation of Artwork by the Artist
 lang: en
 lang-ref: 5-2-1
-permalink: "/en/guide/5_2_1-donation-by-artist"
+permalink: "/en/guide/5_2_1-donation-by-artist/"
 order: 3
 section: 5
 
