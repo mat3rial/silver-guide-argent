@@ -4,8 +4,8 @@ title: '5.2.2. Donation of purchased work '
 lang: en
 lang-ref: 5-2-2
 permalink: "/en/guide/5_2_2-donation-purchased-work/"
-order: "4"
-section: "5"
+order: 4
+section: 5
 
 ---
 If a donor donates an artwork within three years of purchasing it, the charitable organization must issue a receipt for an amount that corresponds to the lesser market value amount of the donation and its cost to the donor immediately before the donation was made.
