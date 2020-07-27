@@ -51,17 +51,17 @@ A non-profit organization or prescribed government organization whose percentage
 
 Charitable organizations, public foundations, or private foundations that are created and resident in Canada. They must use their resources for charitable activities and have charitable purposes that fall into one or more of the following categories:
 
-* the relief of poverty;
-* the advancement of education;
-* the advancement of religion;
-* other purposes that benefit the community.
+* the relief of poverty
+* the advancement of education
+* the advancement of religion
+* other purposes that benefit the community
 
 ## Service
 
 Service means anything other than:
 
-* property;
-* money;
+* property
+* money
 * anything that is supplied to an employer by a person who is or agrees to become an employee of the employer in the course of or in relation to the office or employment of that person.
 
 ## Sponsorship
