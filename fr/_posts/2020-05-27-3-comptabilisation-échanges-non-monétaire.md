@@ -14,7 +14,7 @@ Dans cette section, nous nous attarderons plutôt aux échanges de biens ou de s
 
 Généralement, ces opérations sont évaluées à la juste valeur du bien ou du service reçu, ou à la juste valeur du bien ou du service donné, **selon celle qui est la plus fiable**.
 
-Afin de comptabiliser ces échanges non monétaires, iI importe de s’assurer que la juste valeur établie est suffisamment fiable.
+Afin de comptabiliser ces échanges non monétaires, iI importe de s’assurer que la <a href="{{site.baseurl}}/fr/boîte_à_outils/lexique#juste-valeur" target="_blank" title="Montant de la contrepartie dont conviendraient des parties compétentes agissant en toute liberté dans des conditions de pleine concurrence, tel le prix de vente au détail dans un commerce local ou en ligne.">juste valeur</a> établie est suffisamment fiable.
 
 
 {% include nav_yes_no.html
