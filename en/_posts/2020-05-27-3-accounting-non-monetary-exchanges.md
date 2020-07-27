@@ -16,7 +16,7 @@ Generally speaking, these transactions are assessed at the fair value either of 
 
 Exchanges can also be treated as separate contributions.
 
-To account for these non-monetary exchanges, it is important to ensure that the assessment of <a href="{{site.baseurl}}/en/toolkit/glossary#fair-value" target="_blank" title="A payment amount agreed upon by willing parties in the normal course of business, on a level playing field such as retail sales prices of local or online commerce.">fair value</a> is sufficiently reliable. If the fair value is not sufficiently reliable, do not record it.
+To account for these <a href="{{site.baseurl}}/en/toolkit/glossary#non-monetary-exchanges" target="_blank" title="Also referred to as 'bartered exchanges' or 'exchanges of goods and services', exchanges of assets, liabilities, or non-monetary services against other assets, liabilities, or non-monetary services, with no or negligible monetary consideration such as in partnerships and co-productions where each partner contributes in kind goods and services of more or less equal value, commonly known as barter.">non-monetary exchanges</a>, it is important to ensure that the assessment of <a href="{{site.baseurl}}/en/toolkit/glossary#fair-value" target="_blank" title="A payment amount agreed upon by willing parties in the normal course of business, on a level playing field such as retail sales prices of local or online commerce.">fair value</a> is sufficiently reliable. If the fair value is not sufficiently reliable, do not record it.
 
 {% include nav_yes_no.html
 question="Is the established fair value of the exchange sufficiently accurate?"
