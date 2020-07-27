@@ -20,7 +20,7 @@ A payment amount agreed upon by willing parties in the normal course of business
 
 ## GST/HST Rebate
 
-Also called Public Service Bodies Rebate, is a refund for qualifying non-profit organization of taxes paid on purchases, including those that were also acquired through bartered exchange. 
+Also called Public Service Bodies Rebate, is a refund for qualifying non-profit organization of taxes paid on purchases, including those that were also acquired through bartered exchange.
 
 ## In Kind Donation: see Contribution
 
@@ -30,8 +30,7 @@ A credit that GST/HST registrants can generally claim to recover the GST/HST pai
 
 ## Non-monetary exchanges
 
-Also referred to as "bartered exchanges" or "exchanges of goods and services", exchanges of assets, liabilities, or non-monetary services against other assets, liabilities, or non-monetary services, with no or negligible monetary consideration such as in partnerships and co-productions where each partner contributes in kind goods and services of more or less equal value, commonly known as barter. 
-
+Also referred to as "bartered exchanges" or "exchanges of goods and services", exchanges of assets, liabilities, or non-monetary services against other assets, liabilities, or non-monetary services, with no or negligible monetary consideration such as in partnerships and co-productions where each partner contributes in kind goods and services of more or less equal value, commonly known as barter.
 
 ## Non-profit organization
 
@@ -52,12 +51,18 @@ A non-profit organization or prescribed government organization whose percentage
 
 Charitable organizations, public foundations, or private foundations that are created and resident in Canada. They must use their resources for charitable activities and have charitable purposes that fall into one or more of the following categories:
 
-* the relief of poverty
-* the advancement of education
-* the advancement of religion
-* other purposes that benefit the community
-* **Service** – means anything other than:
-  * Property, money, anything that is supplied to an employer by a person who is or agrees to become an employee of the employer in the course of or in relation to the office or employment of that person
+* the relief of poverty;
+* the advancement of education;
+* the advancement of religion;
+* other purposes that benefit the community.
+
+## Service
+
+Service means anything other than:
+
+* property;
+* money;
+* anything that is supplied to an employer by a person who is or agrees to become an employee of the employer in the course of or in relation to the office or employment of that person.
 
 ## Sponsorship
 
