@@ -12,7 +12,7 @@ order:
 
 _(CPA Canada Handbook, Chap. 4410.16)_
 
-It is up to individual organizations to choose whether or not they will account for <a href="{{site.baseurl}}/toolkit/glossary/#contributions" target="_blank" title="contributions">contributions</a> received in the form of goods and services in their financial statements. However, in accordance with the accounting standards applicable to non-profit organizations, if an organization does account for such contributions in its financial statements, it must ensure that the following three conditions are met:
+It is up to individual organizations to choose whether or not they will account for <a href="{{site.baseurl}}/toolkit/glossary#contributions" target="_blank" title="contributions">contributions</a> received in the form of goods and services in their financial statements. However, in accordance with the accounting standards applicable to non-profit organizations, if an organization does account for such contributions in its financial statements, it must ensure that the following three conditions are met:
 
 1\. The fair value of these contributions can be reasonably estimated;
 
