@@ -6,7 +6,7 @@ lang: en
 permalink: "/en/toolkit/glossary/"
 
 ---
-<h2><a id="contributions">Contributions</a></h2>
+## Contributions
 
 Transfers, with no cash counterpart or other assets, to a non-profit organization, or settlements or cancellations with no consideration of liability to that organization such as a cash donation.
 
