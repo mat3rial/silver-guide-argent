@@ -20,6 +20,8 @@ L’équivalent provincial qui permet de récupérer la TVQ payée sur les intra
 
 Une commandite est un échange de bons procédés entre un commanditaire et une autre partie, par lequel le commanditaire s’engage à donner de l’argent ou des biens ou services en contrepartie d’un accès au potentiel commercial de l’activité. Les frais de commandite ne sont pas des dons et l’organisme ne peut pas délivrer de reçu de don de bienfaisance pour des commandites parce que le commanditaire reçoit typiquement une offre de visibilité en échange. Les commandites peuvent être offertes en argent, en biens ou en services.
 
+Les termes Commandite et Parrainage servent tous deux à décrire la même réalité, soit le fait d’offrir un service de promotion ou le droit d’utiliser le logo de l’organisme à un donateur en échange des sommes reçues. Commandite est le terme le plus courant pour référer à ce type de situation. Cependant, c’est le terme Parrainage qui est utilisé dans la Loi sur la taxe d’accise fédérale et dans la Loi sur la taxe de vente du Québec.
+
 ## Don en nature: voir Apport
 
 ## Échanges non monétaires
@@ -67,5 +69,3 @@ Aussi appelé remise aux organismes de services publics, est un remboursement pa
 ## Service
 
 Tout ce qui n’est ni un bien, ni de l’argent, ni tout ce qui est fourni à un employeur par un salarié relativement à sa charge ou à son emploi.
-
-Les termes Commandite et Parrainage servent tous deux à décrire la même réalité, soit le fait d’offrir un service de promotion ou le droit d’utiliser le logo de l’organisme à un donateur en échange des sommes reçues. Commandite est le terme le plus courant pour référer à ce type de situation. Cependant, c’est le terme Parrainage qui est utilisé dans la Loi sur la taxe d’accise fédérale et dans la Loi sur la taxe de vente du Québec.
