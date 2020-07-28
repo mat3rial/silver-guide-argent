@@ -23,13 +23,6 @@ The provision of space by the charitable organization is an exempt <a class="tip
   </div>
 </div>
 
-{% include accordion_example.html 
-title="Example 1 - QST in Québec" 
-example_text="A charitable organization enters into an agreement with an artist-run centre in Québec (registered to charge sales tax) for an exchange of services of equal value. The charitable organization will lend one of its spaces to the artist-run centre in exchange for the use of the artist-run centre’s equipment. The value of the exchanged services is established at $1,000. No money is exchanged.<br/>
-
-The provision of space by the charitable organization is an exempt <a class="tip" href="{{site.baseurl}}/en/toolkit/glossary#supply" target="_blank" title="The provision of property or a service in any way, including sale, transfer, barter, exchange, licence, rental, lease, gift, and disposition.">supply</a>. As a result, no taxes should be collected by the charity. However, the rental of equipment by the artist-run centre is considered a taxable service, and as the centre is registered for taxes, it must collect and remit taxes on the FMV of the exchanged services, which, in this example, equals $50 for GST (5% of $1,000) and $99.75 for QST (9.975% of $1,000). For the charity, since it is only entitled to a 50% rebate on the GST and QST, this will result in a cost of $74.88, or 50% of the GST ($50) and QST (99.75)."
-%}
-
 {% include accordion_example.html
 title="Example 2 - HST in Ontario"
 example_text="A theatre company in Ontario that is a charity, and not registered for HST, agrees to an exchange with an artist-run centre. The artist-run centre is a non-profit, and an HST registrant filing on the commercial method. The theatre will provide an advertisement in its program, worth $500, in exchange for the rental of the artist-run centre’s projection equipment, also worth $500.
