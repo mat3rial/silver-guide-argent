@@ -126,7 +126,8 @@ a.tip {
 }
 a.tip[title] {
     font-family: $body-font-family;
-    font-size: 1rem;
+    color: red;
+    font-size: 1.5rem;
     background-color: white;
 }
 
