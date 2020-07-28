@@ -122,13 +122,10 @@ a.external {
   text-decoration: underline;
 }
 a.tip {
-  font-weight: 400;
+  font-weight: bold;
 }
 a.tip:hover span {
-    padding: 5px 20px 5px 5px;
-    display: block;
-    z-index: 100;
-    width: 250px;
+    font-family: $body-font-family;
 }
 
 /*
