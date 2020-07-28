@@ -124,8 +124,10 @@ a.external {
 a.tip {
   font-weight: bold;
 }
-a.tip:hover span {
+a.tip[title] {
     font-family: $body-font-family;
+    font-size: 1rem;
+    background-color: white;
 }
 
 /*
