@@ -10,10 +10,6 @@ permalink: "/fr/boîte_à_outils/lexique/"
 
 Transfert sans contrepartie d’argent ou d’autres actifs à un organisme sans but lucratif, ou règlement ou annulation sans contrepartie d’un élément de passif de cet organisme, tel un don en argent.
 
-## Apports reçus sous forme de biens ou de services
-
-Transferts non monétaires et non réciproques, c’est-à-dire des transferts d’actifs, de passifs ou de services non monétaires sans contrepartie. Par exemple : dons d’équipement, comme des ordinateurs, ou services rendus gratuitement.
-
 ## CTI (Crédit de taxe sur les intrants)
 
 Si vous êtes inscrits au fichier de la TPS, vous pouvez demander des crédits pour récupérer la TPS que vous avez payée (ou qui est devenue exigible) sur les biens et les services acquis, importés ou transférés pour les utiliser, les consommer ou les fournir dans le cadre de vos activités commerciales. Ces crédits sont appelés crédits de taxe sur les intrants (CTI), dans le régime de la TPS.
@@ -28,7 +24,7 @@ Une commandite est un échange de bons procédés entre un commanditaire et une 
 
 ## Échanges non monétaires
 
-Aussi appelé "échange de service", l’échanges d’actifs, (très rarement de passifs) ou de services non monétaires contre d’autres actifs, passifs ou services non monétaires, sans contrepartie financière ou moyennant une contrepartie financière négligeable; l’échange est une pratique courante des partenariats et co-productions dans lesquels chaque partie contribue des biens et des services de valeurs plus ou moins égales. 
+Aussi appelé "échange de service", l’échanges d’actifs, (très rarement de passifs) ou de services non monétaires contre d’autres actifs, passifs ou services non monétaires, sans contrepartie financière ou moyennant une contrepartie financière négligeable; l’échange est une pratique courante des partenariats et co-productions dans lesquels chaque partie contribue des biens et des services de valeurs plus ou moins égales.
 
 ## Fourniture
 
@@ -44,7 +40,7 @@ Un organisme qui poursuit des fins non lucratives et qui n’est pas enregistré
 
 Il existe cependant une sous-catégorie d’organisme sans but lucratif à laquelle un organisme pourrait appartenir : les organismes sans but lucratif admissible.
 
-## Organisme sans but lucratif admissible 
+## Organisme sans but lucratif admissible
 
 Il s’agit d’un organisme sans but lucratif dont le pourcentage des revenus provenant d’un financement public pour l’exercice en cours OU le pourcentage combiné des revenus provenant d’un financement public pour les deux exercices précédents est d’au moins 40 %. Un seul de ces deux pourcentages doit être d’au moins 40 %.
 
@@ -66,7 +62,7 @@ Organisme sans but lucratif, organisme de bienfaisance, municipalité, administr
 
 ## Remboursement de TPS/TVH
 
-Aussi appelé remise aux organismes de services publics, est un remboursement partiel de 50% des taxes payées sur tout achat, y compris les taxes payées dans le cadre d’un échange de services. 
+Aussi appelé remise aux organismes de services publics, est un remboursement partiel de 50% des taxes payées sur tout achat, y compris les taxes payées dans le cadre d’un échange de services.
 
 ## Service
 
