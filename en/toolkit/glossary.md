@@ -10,10 +10,6 @@ permalink: "/en/toolkit/glossary/"
 
 Transfers, with no cash counterpart or other assets, to a non-profit organization, or settlements or cancellations with no consideration of liability to that organization such as a cash donation.
 
-## Contributions received in the form of goods and services
-
-Non-monetary or non-reciprocal transfers, i.e., transfers of assets, liabilities, or non-monetary services received with no consideration. Examples: donations of equipment, computers, or services rendered free of charge.
-
 ## Fair value
 
 A payment amount agreed upon by willing parties in the normal course of business, on a level playing field such as retail sales prices of local or online commerce.
