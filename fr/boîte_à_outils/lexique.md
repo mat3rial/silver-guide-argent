@@ -44,7 +44,7 @@ Un organisme qui poursuit des fins non lucratives et qui n’est pas enregistré
 
 Il existe cependant une sous-catégorie d’organisme sans but lucratif à laquelle un organisme pourrait appartenir : les organismes sans but lucratif admissible.
 
-__Organisme sans but lucratif admissible *__
+## Organisme sans but lucratif admissible 
 
 Il s’agit d’un organisme sans but lucratif dont le pourcentage des revenus provenant d’un financement public pour l’exercice en cours OU le pourcentage combiné des revenus provenant d’un financement public pour les deux exercices précédents est d’au moins 40 %. Un seul de ces deux pourcentages doit être d’au moins 40 %.
 
