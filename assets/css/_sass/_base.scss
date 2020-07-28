@@ -124,7 +124,7 @@ a.external {
 a.tip {
   font-weight: bold;
 }
-a.tip[title] {
+a.tip[title]:hover::before {
     font-family: $body-font-family;
     color: red;
     font-size: 1.5rem;
