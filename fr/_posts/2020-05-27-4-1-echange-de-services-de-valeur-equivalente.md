@@ -10,6 +10,19 @@ section: 4
 ---
 Cet exemple démontre l’importance de produire et de comptabiliser une facture pour chacune de ces transactions afin de s’assurer que l’organisme traite de façon adéquate les taxes.
 
+<div class="outer-accordion-wrapper">
+  <div class="example-text-wrapper">
+      <h4 class="include-title">Exemple 1 - TVQ au Québec</h4>
+    <div class="close">+</div>
+    <div class="open">-</div>
+  </div>
+  <div class="example-wrapper">
+    Un organisme de bienfaisance conclut une entente avec un centre d’artistes au Québec (inscrit aux taxes) pour l’échange de services de valeur équivalente. L’organisme de bienfaisance offre la location de ses espaces au centre d’artistes. En échange, le centre d’artistes lui offre la location d’équipement. La valeur des services échangés est établie à 1 000 $. Aucune somme d’argent n’est échangée.<br/><br/>
+    La <a class="tip" href="{{site.baseurl}}/fr/boîte_à_outils/lexique#fourniture" target="_blank" title="Une fourniture est la livraison de biens ou la prestation de services, notamment par vente, transfert, troc, échange, licence, louage, donation ou aliénation.">fourniture</a> des espaces par l’organisme de bienfaisance est une fourniture exonérée. Par conséquent, aucune taxe n’est à percevoir par l’organisme de bienfaisance. Par contre, la location d’équipement offerte par le centre d’artistes constitue un service taxable et, comme le centre est inscrit aux taxes, il devra percevoir et remettre les taxes sur la JVM des services échangés. Dans cet exemple, le montant s’élève à 50 $ pour la TPS (5 % de 1 000 $) et 99,75 $ pour la TVQ (9,975 % de 1 000 $). Comme l’organisme de bienfaisance n’a droit qu’au remboursement de 50 % de la TPS et de la TVQ, l’échange entraînera pour lui un coût de 74,88 $, soit 50 % de la TPS (50$) et de la TVQ payées (99,75 $).
+  </div>
+</div>
+
+
 {% include accordion_example.html
 title="Exemple 1 - TVQ au Québec"
 example_text="Un organisme de bienfaisance conclut une entente avec un centre d’artistes au Québec (inscrit aux taxes) pour l’échange de services de valeur équivalente. L’organisme de bienfaisance offre la location de ses espaces au centre d’artistes. En échange, le centre d’artistes lui offre la location d’équipement. La valeur des services échangés est établie à 1 000 $. Aucune somme d’argent n’est échangée.
