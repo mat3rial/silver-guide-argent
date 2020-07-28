@@ -12,9 +12,9 @@ order:
 
 _(Manuel de CPA Canada, Chap. 4410.16)_
 
-La comptabilisation des <a href="{{site.baseurl}}/fr/boîte_à_outils/lexique#apports" target="_blank" title="Transfert sans contrepartie d’argent ou d’autres actifs à un organisme sans but lucratif, ou règlement ou annulation sans contrepartie d’un élément de passif de cet organisme, tel un don en argent.">dons (apports)</a> reçus sous forme de biens ou de services dans ses états financiers est un choix propre à chaque organisme. Cependant, conformément aux normes comptables applicables aux organismes sans but lucratif, pour constater ces dons dans ses états financiers, l’organisme doit s’assurer que les trois conditions suivantes sont respectées :
+La comptabilisation des <a class="tip" href="{{site.baseurl}}/fr/boîte_à_outils/lexique#apports" target="_blank" title="Transfert sans contrepartie d’argent ou d’autres actifs à un organisme sans but lucratif, ou règlement ou annulation sans contrepartie d’un élément de passif de cet organisme, tel un don en argent.">dons (apports)</a> reçus sous forme de biens ou de services dans ses états financiers est un choix propre à chaque organisme. Cependant, conformément aux normes comptables applicables aux organismes sans but lucratif, pour constater ces dons dans ses états financiers, l’organisme doit s’assurer que les trois conditions suivantes sont respectées :
 
-1\. La <a href="{{site.baseurl}}/fr/boîte_à_outils/lexique#juste-valeur" target="_blank" title="Montant de la contrepartie dont conviendraient des parties compétentes agissant en toute liberté dans des conditions de pleine concurrence, tel le prix de vente au détail dans un commerce local ou en ligne.">juste valeur</a> de ces dons peut faire l’objet d’une estimation fiable;
+1\. La <a class="tip" href="{{site.baseurl}}/fr/boîte_à_outils/lexique#juste-valeur" target="_blank" title="Montant de la contrepartie dont conviendraient des parties compétentes agissant en toute liberté dans des conditions de pleine concurrence, tel le prix de vente au détail dans un commerce local ou en ligne.">juste valeur</a> de ces dons peut faire l’objet d’une estimation fiable;
 
 2\. Les biens et services reçus sont utilisés dans le cadre du fonctionnement courant;
 
