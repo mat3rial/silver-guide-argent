@@ -46,7 +46,7 @@ Il s’agit d’un organisme sans but lucratif dont le pourcentage des revenus p
 
 Un organisme sans but lucratif doit respecter cette condition pour chaque année où il compte se prévaloir des avantages liés au statut d’organisme sans but lucratif admissible.
 
-Le statut d’organisme sans but lucratif admissible permet à ces organismes de demander un remboursement partiel (50 %) des taxes payées sur leurs achats admissibles pour lesquels ils ne peuvent pas demander de crédit de taxes sur les intrants (CTI)12 ni de remboursement de taxes sur les intrants (RTI)13. Les organismes sans but lucratif admissibles n’ont pas besoin d’être inscrits aux fichiers de la TPS et de la TVQ pour avoir droit à ce remboursement.
+Le statut d’organisme sans but lucratif admissible permet à ces organismes de demander un remboursement partiel (50 %) des taxes payées sur leurs achats admissibles pour lesquels ils ne peuvent pas demander de crédit de taxes sur les intrants (CTI) ni de remboursement de taxes sur les intrants (RTI). Les organismes sans but lucratif admissibles n’ont pas besoin d’être inscrits aux fichiers de la TPS et de la TVQ pour avoir droit à ce remboursement.
 
 \* Revenu Québec utilise le terme organisme sans but lucratif (OSBL) dans ses publications, alors que l’Agence du revenu du Canada opte pour le terme organisme à but non lucratif (OBNL). Ces deux appellations ont la même signification, bien que le terme OBNL soit le plus couramment utilisé en pratique dans le milieu des arts et de la culture.
 
