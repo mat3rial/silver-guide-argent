@@ -8,7 +8,7 @@ order: 2
 section: 4
 
 ---
-Les organismes à but non lucratif reçoivent souvent des contributions d'entreprises pour financer leurs activités. En retour, l'organisation à but non lucratif peut fournir des services promotionnels pour le parrain ou peut accorder à celui-ci le droit d'utiliser son logo, son nom d’organisme, ou toute autre propriété intellectuelle similaire.
+Les organismes à but non lucratif reçoivent souvent des contributions d'entreprises pour financer leurs activités. En retour, l'organisation à but non lucratif peut fournir des services promotionnels pour le <a class="tip" href="{{site.baseurl}}/fr/boîte_à_outils/lexique#commandite" target="_blank" title="Une commandite est un échange de bons procédés entre un commanditaire et une autre partie, par lequel le commanditaire s’engage à donner de l’argent ou des biens ou services en contrepartie d’un accès au potentiel commercial de l’activité. Les frais de commandite ne sont pas des dons et l’organisme ne peut pas délivrer de reçu de don de bienfaisance pour des commandites parce que le commanditaire reçoit typiquement une offre de visibilité en échange. Les commandites peuvent être offertes en argent, en biens ou en services.">parrain</a> ou peut accorder à celui-ci le droit d'utiliser son logo, son nom d’organisme, ou toute autre propriété intellectuelle similaire.
 
 {% include accordion_example.html
 example_text="Un organisme imprime sur les sacs de congrès des délégués le nom de l'entreprise qui les parraine. La contribution de la société n’est pas considérée comme un paiement pour un produit ou service. Par conséquent, la contribution n’est pas assujettie à la TPS/TVH."
