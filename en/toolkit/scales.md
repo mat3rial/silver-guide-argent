@@ -1,6 +1,6 @@
 ---
 layout: page
-title: scales
+title: pay rates
 lang-ref: scales
 lang: en
 permalink: "/en/toolkit/scales/"
