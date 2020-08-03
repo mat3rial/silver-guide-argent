@@ -1,0 +1,11 @@
+{% assign subtitles = site.posts | where: 'lang', page.lang | sort: 'section' %}
+{% assign subsection = subtitles | where: 'section', page.section | sort: 'order' %}
+
+<div class="guide-nav-wrapper">
+  {% for s in subtitles %}
+    {% if s.order or s.omit == "yes" %}
+    {% else %}
+      <div><h3><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a></h3></div>
+    {% endif %}
+  {% endfor %}
+</div>

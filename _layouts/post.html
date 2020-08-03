@@ -1,17 +1,18 @@
 ---
-layout: page
+layout: default
 ---
-{% assign next_count = page.order | plus: 1 %}
-{% assign prev_count = page.order | plus: -1 %}
-{% assign next_page = site.posts | where:"lang", page.lang | where:"order", next_count %}
-{% assign prev_page = site.posts | where:"lang", page.lang | where:"order", prev_count %}
 
-{{ content }}
-<!-- {% if page.order > 1 and page.order < 25 %}
-  <a class="guide-button" href="{{ site.baseurl }}{{ prev_page[0].url }}">{{ site.data.translations.prevButton[page.lang] }}</a>
-  <a class="guide-button" href="{{ site.baseurl }}{{ next_page[0].url }}">{{ site.data.translations.nextButton[page.lang] }}</a>
-{% elsif page.order == 1 %}
-  <a class="guide-button" href="{{ site.baseurl }}{{ next_page[0].url }}">{{ site.data.translations.nextButton[page.lang] }}</a>
-{% elsif page.order == 16 %}
-  <a class="guide-button" href="{{ site.baseurl }}{{ prev_page[0].url }}">{{ site.data.translations.prevButton[page.lang] }}</a>
-{% endif %} -->
+<div class="body-wrapper">
+  <div class="column-one">
+    {% include guide_nav.html %}
+    <!-- <h3 class="home-subtitle">{{ page.subtitle }}</h3> -->
+  </div>
+  <div class="column-two">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {{ content }}
+    {% if page.title == 'guide' %}
+      {% assign next_page = site.posts | where:"lang", page.lang | where:"order", 1 %}
+      <a class="guide-button" href="{{ site.baseurl }}{{ next_page[0].url }}">{{ site.data.translations.getStarted[page.lang] }}</a>
+    {% endif %}
+  </div>
+</div>

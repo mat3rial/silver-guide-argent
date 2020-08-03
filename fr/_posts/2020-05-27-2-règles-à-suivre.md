@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 2. Comptabilisation des dons reçus sous forme de biens ou de services
+short_title: 2. Comptabilisation des Dons
 lang: fr
 lang-ref: "2"
 permalink: "/fr/guide/2-règles-à-suivre/"
 section: 2
-order: 
+order:
 
 ---
 <a href="{{ site.baseurl }}/assets/schema-diagram/schema1.pdf" class="toolkit" target="_blank">voir Schéma 1</a>

@@ -2,11 +2,12 @@
 layout: post
 title: 4. Impact of applying the Goods and Services Tax (GST) and Harmonized Sales
   Tax (HST) and Provincial Sales Tax (PST) where applicable
+short_title: 4. Impact of Applying Taxes
 lang: en
 lang-ref: "4"
 permalink: "/en/guide/4-impact-taxes/"
 section: 4
-order: 
+order:
 
 ---
 With a few exceptions, under the <a class="external" href="https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/news93/news93-excise-gst-hst-news-no-93.html" target="_blank">Excise Tax Act</a> the bartered exchange of services may be subject to GST and HST or other sales taxes in other provinces. The value of the compensation by organizations registered to charge sales tax should be the fair market value (FMV) of the non-monetary transactions which are often the subject of verbal agreements. It is recommended that you obtain a written version of each agreement in order to determine the appropriate treatment for sales tax purposes. In this case, taxes are collectible by organizations registered to charge sales tax and each party involved in the exchange of goods or services must remit them. Therefore, it is important that organizations that exchange goods and services assess carefully the potential impact of GST and PST on these transactions. Taxation authorities expect the taxable value for such exchanges to correspond to the FMV of the goods and services exchanged, whether or not a contract value is specified in the contract agreement between the donor and recipient parties.

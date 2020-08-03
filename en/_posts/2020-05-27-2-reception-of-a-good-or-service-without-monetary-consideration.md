@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 2. Accounting for contributions received in the form of goods and services
+short_title: 2. Accounting for Contributions
 lang: en
 lang-ref: "2"
 permalink: "/en/guide/2-rules-to-follow/"
 section: 2
-order: 
+order:
 
 ---
 <a href="{{ site.baseurl }}/assets/schema-diagram/diagram1.pdf" class="toolkit" target="_blank">See Diagram 1</a>

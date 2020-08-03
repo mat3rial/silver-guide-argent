@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 3. Comptabilisation des échanges non-monétaires (échanges de service)
+short_title: 3. Comptabilisation des Échanges
 lang: fr
 lang-ref: "3"
 permalink: "/fr/guide/3-comptabilisation-échanges-non-monétaire/"
 section: 3
-order: 
+order:
 
 ---
 [Voir Schéma 1]({{ site.baseurl }}/fr/boîte_à_outils/schémas/){: .toolkit}

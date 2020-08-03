@@ -2,11 +2,12 @@
 layout: post
 title: 4. Incidence de l'application de la taxe sur les produits et services (TPS)
   de la taxe de vente harmonisée (TVH) et des taxes provinciales là où applicables
+short_title: 4. Incidence de l'Application de la Taxe
 lang: fr
 lang-ref: "4"
 permalink: "/fr/guide/4_incidence-taxe/"
 section: 4
-order: 
+order:
 
 ---
 Sauf certaines exceptions prévues à la <a class="external" href="https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/news93/nouvelles-accise-tps-tvh-no-93.html" target="_blank">Loi sur la taxe d’accise</a>, les échanges de services peuvent être assujettis à la TPS, TVH et autres taxes provinciales. La valeur de la contrepartie d’organismes inscrits pour charger les taxes sera alors la juste valeur marchande (JVM) de ces transactions. Dans un tel cas, les taxes sont percevables par des organismes inscrits pour charger la taxe de vente et chacune des parties à l’échange de biens ou de services devra les remettre. Ainsi, il est important pour les organismes effectuant des échanges de biens ou de services d’être très prudents afin de bien évaluer les incidences possibles de la TPS et de la taxe provinciale sur ces opérations. Les autorités fiscales considèrent que la valeur taxable de tels échanges doit correspondre à la JVM des biens et des services échangés, et ce, qu’une valeur soit précisée ou non dans le contrat entre les parties.

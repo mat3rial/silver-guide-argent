@@ -1,11 +1,12 @@
 ---
 layout: post
 title: '5. Charitable organizations: charitable donation receipts'
+short_title: '5. Charitable Organizations: Receipts'
 lang: en
 lang-ref: "5"
 permalink: "/en/guide/5-charitable-donation-receipts/"
 section: 5
-order: 
+order:
 
 ---
 [See Diagram 2]({{ site.baseurl }}/en/toolkit/diagrams/){: .toolkit}
