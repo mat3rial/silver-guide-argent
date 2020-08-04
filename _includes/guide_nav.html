@@ -1,11 +1,28 @@
 {% assign subtitles = site.posts | where: 'lang', page.lang | sort: 'section' %}
-{% assign subsection = subtitles | where: 'section', page.section | sort: 'order' %}
+{% assign subsection = subtitles | sort: 'section' | sort: 'order' %}
 
 <div class="guide-nav-wrapper">
   {% for s in subtitles %}
     {% if s.order or s.omit == "yes" %}
     {% else %}
-      <div><h3><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a></h3></div>
+      <div class="section-container">
+        {% if s.section == 1 %}
+          <h3><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a></h3>
+        {% else %}
+          <h3><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a>{% include arrow_down.html %}</h3>
+        {% endif %}
+        {% if page.section == s.section %}
+          <div class="subsection-dropdown">
+        {% else %}
+          <div class="subsection-dropdown" style="display: none;">
+        {% endif %}
+        {% for sub in subsection %}
+          {% if sub.section == s.section and sub.omit != "yes" and sub.title != s.title %}
+            <p><a href="{{ site.baseurl }}{{ sub.url }}">{{ sub.title }}</a></p>
+          {% endif %}
+        {% endfor %}
+        </div>
+      </div>
     {% endif %}
   {% endfor %}
 </div>

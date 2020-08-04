@@ -126,6 +126,7 @@ a {
     }
     &.post {
       .body-wrapper {
+        border-bottom: 1px solid black;
         .column-two {
           padding-top: 20px;
           .page-title {
@@ -360,6 +361,7 @@ a {
       }
       &.post {
         .body-wrapper {
+          border-bottom: none;
           .column-one {
             grid-row: 2;
           }
