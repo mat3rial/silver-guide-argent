@@ -9,7 +9,7 @@
         {% if s.section == 1 %}
         <h4><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a></h4>
         {% else %}
-          <h4><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a> &nbsp;{% include arrow_down.html %}</h4>
+          <h4><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a> {% include arrow_down.html %}</h4>
         {% endif %}
         {% if page.section == s.section %}
           <div class="subsection-dropdown">
