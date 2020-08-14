@@ -7,9 +7,9 @@
     {% else %}
       <div class="section-container">
         {% if s.section == 1 %}
-          <h3><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a></h3>
+          <p><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a></p>
         {% else %}
-          <h3><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a>{% include arrow_down.html %}</h3>
+          <p><a href="{{ site.baseurl }}{{ s.url }}">{{ s.short_title }}</a>{% include arrow_down.html %}</p>
         {% endif %}
         {% if page.section == s.section %}
           <div class="subsection-dropdown">
