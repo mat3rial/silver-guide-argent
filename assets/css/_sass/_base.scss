@@ -128,6 +128,19 @@ a {
   // }
 }
 
+.body-wrapper a.toolkit:hover {
+  background-color: #D8D8D8;
+  padding: .5rem;
+  border: solid 1px #666;
+  color: $site-red;
+  a {
+    color: $site-red;
+  }
+  // @media (min-width: 768px) {
+  //   max-width: 250px;
+  // }
+}
+
 a.external {
   font-weight: 400;
   text-decoration: underline;
