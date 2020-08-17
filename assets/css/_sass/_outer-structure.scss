@@ -152,7 +152,7 @@ a {
 
       .column-one {
         padding: 20px;
-        overflow: scroll;
+        overflow: /* scroll */hidden;
         // .home-subtitle {
         //   font-family: "Geometric";
         // }
@@ -163,7 +163,7 @@ a {
       .column-two {
         border-left: 1px solid black;
         padding-top: 15%;
-        overflow: scroll;
+        overflow: /* scroll */hidden;
         // padding-bottom: 15%;
         .short-line {
           margin-left: 20px;
