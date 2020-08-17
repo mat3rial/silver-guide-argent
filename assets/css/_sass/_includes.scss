@@ -151,8 +151,10 @@
 
 .guide-nav-wrapper {
   width: 100%;
+
   .section-container {
     h4 {
+      font-weight: 100;
       display: flex;
       align-items: center;
       justify-content: space-between;
@@ -171,6 +173,9 @@
     .subsection-dropdown {
       margin-left: 15px;
       width: calc(100% - 15px);
+      a {
+        font-weight: 100;
+      }
     }
   }
 }
