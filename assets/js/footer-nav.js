@@ -44,7 +44,7 @@ $(document).ready(function() {
       return parseInt(x, 10)
     })
     console.log(section, section_splits);
-    side_nav.children().eq(section_splits[0] - 1).find('h3 a').css('color', site_red);
+    side_nav.children().eq(section_splits[0] - 1).find('h4 a').css('color', site_red);
     if (section_splits.length == 2) { // SUBSUBSECTION HANDLING
       $('.guide-nav-wrapper div div p a:contains(' + section_splits[0] + '.' + section_splits[1] + '. )').css('color', site_red);
       // $('.subsection-nav div h4 a:contains(' + section_splits[0] + '.' + section_splits[1] + '. )').css('color', site_red);
@@ -55,6 +55,6 @@ $(document).ready(function() {
   }
 });
 
-$('.guide-nav-wrapper > div h3 svg').on('click', function() {
+$('.guide-nav-wrapper > div h4 svg').on('click', function() {
   $(this).parents('.section-container').find('.subsection-dropdown').slideToggle('fast');
 });

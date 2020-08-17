@@ -45,6 +45,7 @@ $( document ).ready(function() {
         answered = 1;
         count += 1;
       }
+      window.scrollBy(0, 150);
     });
 
     // SLIDE DOWN GUIDE BUTTON AND DON'T SHOW NEXT BUTTON
@@ -72,6 +73,7 @@ $( document ).ready(function() {
         $(this).parents('.outer-yes-no-wrapper').find('.incorrect-message').slideDown('fast');
         answered = 1
       }
+      window.scrollBy(0, 150);
     });
   } else {
     $('.choices div').hover(function(){
@@ -83,7 +85,8 @@ $( document ).ready(function() {
       if ($(this).parents('.outer-yes-no-wrapper').hasClass('nav-yes-no')) {
         guideButton.slideDown('fast');
         guideButton.attr('href', _href + $(this).attr('data-link'));
-        console.log($(this).attr('data-link'));
+        // console.log($(this).attr('data-link'));
+        guideButton[0].scrollIntoView();
       }
       $(this).addClass('active');
       $(this).parent().addClass('used');
@@ -95,6 +98,7 @@ $( document ).ready(function() {
       }
       $(this).parents('.outer-yes-no-wrapper').find('.correct-message').slideDown('fast');
       answered = 1
+      window.scrollBy(0, 150);
     });
     $('.wrong').on('click', function() {
       if ($(this).parents('.outer-yes-no-wrapper').hasClass('nav-yes-no')) {
@@ -105,7 +109,8 @@ $( document ).ready(function() {
         //   return str + $(this).attr('data-link');
         // });
         guideButton.attr('href', _href + $(this).attr('data-link'));
-        console.log($(this).attr('data-link'));
+        // console.log($(this).attr('data-link'));
+        guideButton[0].scrollIntoView();
       }
       $(this).addClass('active');
       $(this).parent().addClass('used');
@@ -117,6 +122,7 @@ $( document ).ready(function() {
       }
       $(this).parents('.outer-yes-no-wrapper').find('.incorrect-message').slideDown('fast');
       answered = 1
+      window.scrollBy(0, 150);
     });
     if (answered == 1) {
 

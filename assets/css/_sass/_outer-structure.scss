@@ -96,6 +96,7 @@ a {
     &.home {
       .body-wrapper {
         padding-top: 55px;
+        height: calc(100vh - 195px);
         .column-two {
           h2 {
             padding: 20px;
@@ -139,7 +140,7 @@ a {
     .body-wrapper {
       width: 100%;
       // height: calc(100% - 53px);
-      min-height: calc(100vh - 215px);
+      height: calc(100vh - 145px);
       // min-height: calc(100vh - 230px);
       display: grid;
       grid-template-columns: 33.33% auto;
@@ -151,7 +152,7 @@ a {
 
       .column-one {
         padding: 20px;
-
+        overflow: scroll;
         // .home-subtitle {
         //   font-family: "Geometric";
         // }
@@ -162,6 +163,7 @@ a {
       .column-two {
         border-left: 1px solid black;
         padding-top: 15%;
+        overflow: scroll;
         // padding-bottom: 15%;
         .short-line {
           margin-left: 20px;
@@ -378,6 +380,7 @@ a {
         grid-template-columns: auto;
         grid-auto-rows: max-content;
         border: none;
+        height: auto;
         .column-one {
           .page-title {
             margin: 10px 0;

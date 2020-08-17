@@ -36,7 +36,7 @@ h4, h5, h6 {
   margin-top: 1rem;
   font-size: 1rem;
 }
-h4 { font-size: 1.25rem; }
+h4 { font-size: 1rem; }
 
 /* Body */
 body {
@@ -67,7 +67,7 @@ p a:hover{
 }
 img.doc {
   width: 30px;
-  display: inline-block;  
+  display: inline-block;
   margin-right: 10px;
 }
 
@@ -110,6 +110,7 @@ a {
   color: $brand-color;
   text-decoration: none;
 }
+
 a.toolkit {
   background-color: #fff;
   padding: .5rem;
@@ -117,8 +118,16 @@ a.toolkit {
   text-transform: lowercase;
   font-weight: 600;
   font-size: .8rem;
-  color: red;
+  display: inline-block;
+  color: $site-red;
+  a {
+    color: $site-red;
+  }
+  // @media (min-width: 768px) {
+  //   max-width: 250px;
+  // }
 }
+
 a.external {
   font-weight: 400;
   text-decoration: underline;

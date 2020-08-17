@@ -2,7 +2,7 @@
 layout: post
 title: 4. Incidence de l'application de la taxe sur les produits et services (TPS)
   de la taxe de vente harmonisée (TVH) et des taxes provinciales là où applicables
-short_title: 4. Incidence de l'Application de la Taxe
+short_title: 4. Incidence de l'application de la taxe
 lang: fr
 lang-ref: "4"
 permalink: "/fr/guide/4_incidence-taxe/"
