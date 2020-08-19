@@ -32,7 +32,7 @@ permalink: "/fr/boîte_à_outils/modèles/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REGISTRE BÉNÉVOLES"/>[REGISTRE BÉNÉVOLES]({{ site.baseurl }}/assets/modèle-fr/registre_bénévoles.xls) (.xls)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FACTURE DE DON 1"/>[FACTURE DE DON 1]({{ site.baseurl }}/assets/modèle-fr/rfacture_don_1.pdf) (.pdf)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FACTURE DE DON 1"/>[FACTURE DE DON 1]({{ site.baseurl }}/assets/modèle-fr/facture_don_1.pdf) (.pdf)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FACTURE DE DON 2"/>[FACTURE DE DON 2]({{ site.baseurl }}/assets/modèle-fr/facture_don_2.pdf) (.pdf)
 

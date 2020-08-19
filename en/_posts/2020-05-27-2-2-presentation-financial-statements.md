@@ -31,14 +31,9 @@ example_text="Contributions to the gallery’s collection in the year included X
 
 **Notes disclosing contributions received in the form of volunteer labour:**
 
-{% include accordion_example.html
-title="Example 3 - volunteer labour not accounted in financial statements"
-example_text="Volunteers devote approximately 500 hours (750 in 20X0) per year to help ABC organization provide its services. Due to the difficulty in determining the fair value of contributions received in the form of services, these contributions are not recognized in their financial statements."
-%}
+<div class="outer-accordion-wrapper"> <div class="example-text-wrapper"> <h4 class="include-title"><strong>Example 3 - volunteer labour in financial statements</strong></h4> <div class="close">+</div> <div class="open">-</div> </div> <div class="example-wrapper"> Volunteer labour as part of its operations, our organization relies on the services of many volunteers. These services are recognized in the organization’s revenues. Volunteer hours are compiled and recorded at an hourly rate equal to the average market rate for similar services.<br/><br/>
 
-<div class="outer-accordion-wrapper"> <div class="example-text-wrapper"> <h4 class="include-title"><strong>Example 4 - volunteer labour in financial statements</strong></h4> <div class="close">+</div> <div class="open">-</div> </div> <div class="example-wrapper"> Volunteer labour as part of its operations, our organization relies on the services of many volunteers. These services are recognized in the organization’s revenues. Volunteer hours are compiled and recorded at an hourly rate equal to the average market rate for similar services.<br/><br/>
-
-<a class="toolkit" href="{{ site.baseurl }}/en/toolkit/scales/" title="Scales">See tab <em>PAY RATES</em></a> 
-  </div></div>
+<a class="toolkit" href="{{ site.baseurl }}/en/toolkit/scales/" title="Scales">See tab <em>PAY RATES</em></a>
+</div></div>
 
 {% include next_step_button.html nextText="end" link="../" %}
