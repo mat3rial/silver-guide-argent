@@ -128,7 +128,19 @@ a {
   // }
 }
 
+
+.body-wrapper a.toolkit:hover {
+  background-color: #D8D8D8;
+  padding: .5rem;
+  border: solid 1px #666;
+  color: $site-red;
+  a {
+    color: $site-red;
+  }
+  }
+
 a.external, a.tip {
+
   font-weight: 400;
   text-decoration: underline;
 }
