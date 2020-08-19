@@ -12,7 +12,7 @@ For organizations, the main challenge is assessing the fair value of goods and s
 
 [See Templates: _Waived Fee_]({{ site.baseurl }}/en/toolkit/templates){: .toolkit}
 
-For <a href="{{site.baseurl}}/en/toolkit/glossary#registered-charities" target="_blank" title="Charitable organizations, public foundations, or private foundations that are created and resident in Canada. They must use their resources for charitable activities and have charitable purposes that fall into one or more of the following categories: the relief of poverty, the advancement of education, the advancement of religion, other purposes that benefit the community">registered charities</a>, refer to the [section 5]({{ site.baseurl }}/en/guide/5-charitable-donation-receipts/) on Charitable donation receipts and diagrams 2 and 3.
+For <a class="tip" href="{{site.baseurl}}/en/toolkit/glossary#registered-charities" target="_blank" title="Charitable organizations, public foundations, or private foundations that are created and resident in Canada. They must use their resources for charitable activities and have charitable purposes that fall into one or more of the following categories: the relief of poverty, the advancement of education, the advancement of religion, other purposes that benefit the community">registered charities</a>, refer to the [section 5]({{ site.baseurl }}/en/guide/5-charitable-donation-receipts/) on Charitable donation receipts and diagrams 2 and 3.
 
 [see tab: _Diagrams_]({{ site.baseurl }}/en/toolkit/diagrams){: .toolkit}
 
