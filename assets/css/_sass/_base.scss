@@ -128,11 +128,8 @@ a {
   // }
 }
 
-a.external {
+a.external, a.tip {
   font-weight: 400;
-  text-decoration: underline;
-}
-a.tip {
   text-decoration: underline;
 }
 
