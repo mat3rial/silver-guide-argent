@@ -68,6 +68,9 @@ a {
     width: 0;
     height: 0;
   }
+  table {
+    grid-column: 2;
+  }
 }
 
 #fixed-header-wrapper {
