@@ -5,7 +5,7 @@ lang-ref: about
 lang: fr
 
 ---
-[But](#but) | [Contexte](#contexte) | [Défis](#défis) | [Considérations](#considérations)
+### [But](#but) \| [Contexte](#contexte) \| [Défis](#défis) \| [Considérations](#considérations)
 
 ## **But**
 

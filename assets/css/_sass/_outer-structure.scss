@@ -69,8 +69,12 @@ a {
     width: 0;
     height: 0;
   }
-  table {
+  h3 {
     grid-column: 2;
+    line-height: 2;
+    a {
+      hyphens: none;
+    }
   }
 }
 

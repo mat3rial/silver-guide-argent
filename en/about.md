@@ -5,7 +5,7 @@ lang-ref: about
 lang: en
 
 ---
-[Objective](#objective) | [Context](#context) | [Challenges](#challenges) | [Considerations](#considerations)
+### [Objective](#objective) \| [Context](#context) \| [Challenges](#challenges) \| [Considerations](#considerations)
 
 ## **Objective**
 
