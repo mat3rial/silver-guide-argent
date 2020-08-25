@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: static_page
 title: modèles
 lang-ref: templates
 lang: fr

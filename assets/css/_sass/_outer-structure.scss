@@ -61,6 +61,15 @@ a {
   }
 }
 
+.column-one, .column-two {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  &::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+  }
+}
+
 #fixed-header-wrapper {
   position: fixed;
     background-color: white;
@@ -111,10 +120,12 @@ a {
         // grid-template-columns: 23.33% auto;
         display: flex;
         flex-direction: column;
+        min-height: calc(100vh - 246px);
         .column-two {
           display:grid;
           grid-template-columns: auto auto;
           padding-top: 0;
+          margin-bottom: 40px;
           h1, h2 {
             padding: 0;
             margin-top: 15px;
@@ -127,9 +138,14 @@ a {
     }
     &.post {
       .body-wrapper {
+        height: calc(100vh - 145px);
         border-bottom: 1px solid black;
+        .column-one {
+          overflow-y: /* scroll */auto;
+        }
         .column-two {
           padding-top: 20px;
+          overflow-y: /* scroll */auto;
           .page-title {
             margin-left: 0;
             padding-left: 0;
@@ -140,7 +156,7 @@ a {
     .body-wrapper {
       width: 100%;
       // height: calc(100% - 53px);
-      height: calc(100vh - 145px);
+
       // min-height: calc(100vh - 230px);
       display: grid;
       grid-template-columns: 33.33% auto;
@@ -152,7 +168,7 @@ a {
 
       .column-one {
         padding: 20px;
-        overflow: /* scroll */auto;
+
         // .home-subtitle {
         //   font-family: "Geometric";
         // }
@@ -163,7 +179,6 @@ a {
       .column-two {
         border-left: 1px solid black;
         padding-top: 15%;
-        overflow: /* scroll */auto;
         // padding-bottom: 15%;
         .short-line {
           margin-left: 20px;
@@ -375,6 +390,11 @@ a {
           .column-two {
             padding-right: 0;
           }
+        }
+      }
+      &.static_page {
+        .body-wrapper {
+          min-height: calc(100vh - 363px);
         }
       }
       .body-wrapper {

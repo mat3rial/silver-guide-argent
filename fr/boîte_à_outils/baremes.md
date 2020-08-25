@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: static_page
 title: barèmes
 lang-ref: scales
 lang: fr
@@ -15,4 +15,3 @@ des ressources humaines pour les centres canadiens en arts
 médiatiques indépendants"/>[RAPPORT FINAL - Recommandation de normes d’emploi et d’outils de gestion
 des ressources humaines pour les centres canadiens en arts
 médiatiques indépendants]({{ site.baseurl }}/assets/barèmes/AAMI_ES_report_FR.pdf) (.pdf)
-

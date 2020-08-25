@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: static_page
 title: pay rates
 lang-ref: scales
 lang: en
