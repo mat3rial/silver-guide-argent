@@ -26,3 +26,4 @@ The following resources were consulted for the development of this document.
 **GST/HST Information for Non-Profit Organizations: Sponsorships**
 
 > <a href="https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081/gst-hst-information-non-profit-organizations.html#P352_34663" class="external" target="_blank" title="GST/HST Information for Non-Profit Organizations: Sponsorships">https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081/gst-hst-information-non-profit-organizations.html#P352_34663</a>
+
