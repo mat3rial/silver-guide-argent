@@ -39,7 +39,7 @@ $(document).ready(function() {
   var side_nav = $('.guide-nav-wrapper');
   var path = window.location.pathname;
   if (path.includes('guide')) {
-    var section = path.split('/')[4].split('-')[0];
+    var section = path.split('/')[3].split('-')[0];
     var section_splits = section.split("_").map(function(x) {
       return parseInt(x, 10)
     })
