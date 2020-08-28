@@ -7,7 +7,7 @@ title:               ARCA
 tagline:             '(not) just about the money'
 
 url:                 'https://mat3rial.github.io/'
-baseurl:             '/notjustaboutthemoney-pasjusteunequestiondargent'
+baseurl:             ''
 # Build settings
 markdown:            kramdown
 highlighter:         rouge
