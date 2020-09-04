@@ -9,7 +9,7 @@ lang: en
 
 ## **Objective**
 
-The (_Not) Just About the Money_ guide is a reference tool developed by the Artist-Run Centres and Collectives Conference (ARCA), in partnership with the Independent Media Arts Alliance (IMAA), for people working in non-profit cultural organizations such as artist-run centres. Its purpose is to provide tools to help identify, quantify, and document non-monetary transactions and contributions received in the form of goods and services by a non-profit organization (NPO) and, consequently, to recognize (account for) such transactions and contributions in the organization’s financial statements.
+_The Silver Guide to Non-Monetary Transactions_ guide is a reference tool developed by the Artist-Run Centres and Collectives Conference (ARCA), in partnership with the Independent Media Arts Alliance (IMAA), for people working in non-profit cultural organizations such as artist-run centres. Its purpose is to provide tools to help identify, quantify, and document non-monetary transactions and contributions received in the form of goods and services by a non-profit organization (NPO) and, consequently, to recognize (account for) such transactions and contributions in the organization’s financial statements.
 
 ## **Context**
 
