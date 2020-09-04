@@ -1,5 +1,5 @@
 ---
-title: "(not) just about the money"
+title: "The Silver Guide to Non-Monetary Transactions"
 layout: home
 subtitle: Guide on accounting for donations and exchanges of goods and services
 line1: Looking to diversify your income?
