@@ -17,8 +17,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-en_title: (not) just about the money
-fr_title: (pas) juste une question d'argent
+en_title: the silver guide to non-monetary transactions
+fr_title: le guide argent des opérations non-monétaires
 
 sass:
   sass_dir: assets/css
