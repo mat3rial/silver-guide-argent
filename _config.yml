@@ -4,7 +4,7 @@
 # paginate:            5
 
 title:               ARCA
-tagline:             '(not) just about the money'
+tagline:             'the silver guide to non-monetary transactions'
 
 url:                 'https://mat3rial.github.io/'
 baseurl:             ''
@@ -18,7 +18,7 @@ plugins:
   - jekyll-seo-tag
 
 en_title: the silver guide to non-monetary transactions
-fr_title: le guide argent des opérations non-monétaires
+fr_title: le guide argent des opérations non monétaires
 
 sass:
   sass_dir: assets/css
