@@ -114,6 +114,7 @@ a {
       .body-wrapper {
         padding-top: 55px;
         height: calc(100vh - 195px);
+        min-height: 460px;
         .column-two {
           h2 {
             padding: 20px;
