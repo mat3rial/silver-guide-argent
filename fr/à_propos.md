@@ -5,7 +5,7 @@ lang-ref: about
 lang: fr
 
 ---
-### [But](#but) \| [Contexte](#contexte) \| [Défis](#défis) \| [Considérations](#considérations)
+### [But](#but) | [Contexte](#contexte) | [Défis](#défis) | [Considérations](#considérations)
 
 ## **But**
 
@@ -28,7 +28,7 @@ Pour quantité d’OBNL, les contributions qui prennent la forme de biens donné
 * Hormis certaines exceptions applicables en vertu de la <a class="external" href="https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/news93/nouvelles-accise-tps-tvh-no-93.html" target="_blank" alt="Loi sur la taxe d’accise">Loi sur la taxe d’accise</a> (voir section sur la commandite) le commerce de services peut être assujetti à la TPS, à la TVP et/ou à la TVH, par exemple, si le paiement effectué par un organisme vise principalement (à plus de 50 %) l'obtention de publicité à la télévision ou à la radio, ou dans un journal, une revue ou un autre type de périodique publié. (Voir exemples à la section 4.2).
 * Ce document ne peut en aucun cas remplacer les publications gouvernementales concernant la taxe de vente ou l’avis d’un professionnel.
 
-Bref, à la fois guide et trousse à outils, _(Pas) juste une question d’argent_ a été conçu pour orienter les gestionnaires et les administrateurs responsables de la santé et de la croissance économiques des petits organismes. Nous avons veillé de près à l’exactitude de l’information. Bien que rédigé et révisé par des comptables professionnels, il est possible que ce document n’apporte pas toutes les réponses quant aux lois régissant les taxes à la consommation. Choisir d’inclure les opérations non monétaires dans les états financiers de votre organisme, c’est une décision que vous gagnerez à aborder et à débattre avec votre auditeur ou votre auditrice. C’est lui ou elle, au bout du compte, qui assure votre conformité à une liste de normes comptables qui ne cesse de s’allonger. Les modèles de lettres, de contrats et de formulaires que vous trouverez dans le guide ont été partagés généreusement par le personnel administratif de quelques centres d’artistes autogérés. Il n’en tient qu’à vous de les adapter aux besoins et aux contextes divers et changeants de votre centre, au gré de vos activités et de votre programmation.
+Bref, à la fois guide et trousse à outils, _Le_ _Guide argent des opérations non monétaires_ a été conçu pour orienter les gestionnaires et les administrateurs responsables de la santé et de la croissance économiques des petits organismes. Nous avons veillé de près à l’exactitude de l’information. Bien que rédigé et révisé par des comptables professionnels, il est possible que ce document n’apporte pas toutes les réponses quant aux lois régissant les taxes à la consommation. Choisir d’inclure les opérations non monétaires dans les états financiers de votre organisme, c’est une décision que vous gagnerez à aborder et à débattre avec votre auditeur ou votre auditrice. C’est lui ou elle, au bout du compte, qui assure votre conformité à une liste de normes comptables qui ne cesse de s’allonger. Les modèles de lettres, de contrats et de formulaires que vous trouverez dans le guide ont été partagés généreusement par le personnel administratif de quelques centres d’artistes autogérés. Il n’en tient qu’à vous de les adapter aux besoins et aux contextes divers et changeants de votre centre, au gré de vos activités et de votre programmation.
 
 Si vous relevez une erreur dans ce document, nous vous prions de nous en aviser, afin que nous apportions les correctifs nécessaires.
 
