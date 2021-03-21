@@ -25,4 +25,4 @@ Dans le cas des reçus de **dons faits en espèces (argent comptant)**, la chose
 
 [Voir onglet _Modèles_ : Reçu de dons]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
-{% include next_step_button.html link="5_2-don-de-biens" %}
+{% include next_step_button.html nextText="prochaine étape" link="5_2-don-de-biens/" %}
