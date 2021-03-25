@@ -43,9 +43,11 @@ permalink: "/en/guide/table-of-contents/"
 
   <li>5.2. <a href="{{ site.baseurl }}/en/guide/5_2-donation-of-goods/" title="Donation of goods">Donation of goods</a></li>
 
-  <li>5.3. <a href="{{ site.baseurl }}/en/guide/5_3-donation-purchased-work/" title="Donation of purchased work">Donation of purchased work</a></li>
+    <li>5.2.1. <a href="{{ site.baseurl }}/en/guide/5_2_1-donation-by-artist/" title="Donation of purchased work">Donation of Artwork by the Artist</a></li>
+  
+  <li>5.2.2. <a href="{{ site.baseurl }}/en/guide/5_2_2-donation-purchased-work/" title="Donation of purchased work">Donation of purchased work</a></li>
 
-  <li>5.4. <a href="{{ site.baseurl }}/en/guide/5_4-donation-inherited-work/" title="Donation of inherited work">Donation of inherited work</a></li>
+  <li>5.2.3. <a href="{{ site.baseurl }}/en/guide/5_2_3-donation-inherited-work/" title="Donation of inherited work">Donation of inherited work</a></li>
 
-  <li>5.5. <a href="{{ site.baseurl }}/en/guide/5_5-donation-of-services/" title="Donation of services">Donation of services</a></li>
+  <li>5.3. <a href="{{ site.baseurl }}/en/guide/5_3-donation-of-services/" title="Donation of services">Donation of services</a></li>
 </ul>
