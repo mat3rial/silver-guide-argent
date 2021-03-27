@@ -1,6 +1,6 @@
 ---
 layout: static_page
-title: pay rates
+title: pay scales
 lang-ref: scales
 lang: en
 permalink: "/en/toolkit/scales/"
