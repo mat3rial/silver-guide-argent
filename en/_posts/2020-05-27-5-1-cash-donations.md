@@ -8,7 +8,7 @@ order: 1
 section: 5
 
 ---
-For the issuance of **cash donation receipts**, the procedure is simple. A receipt will be issued for the amount of cash received by the organization. The following information must appear on the receipt (see _Models_: link to Receipt_donation)
+For the issuance of **cash donation receipts**, the procedure is simple. A receipt will be issued for the amount of cash received by the organization. The following information must appear on the receipt: 
 
 * A statement that the receipt is an official receipt for income tax purposes;
 * The name and address of the charity as registered with the Canada Revenue Agency for income tax purposes;
