@@ -21,6 +21,6 @@ lang: en
 
 **Advisory committee:** Linda Gorrie, Business Manager, grunt and Operations Controller, VIFF, Vancouver; Emma Hendrix, Executive Director, VideoPool, and artist, Winnipeg; Dana Kletke, Co-Executive Director, Mentoring Artists by Women Artists (MAWA) Winnipeg; Debbie Keeper, Administrative Assistant, Urban Shaman, Winnipeg; Tam-Ca Vo-Van, Director, Saw Gallery, Ottawa; Yuraś Mourog, Administrative Director, OBORO, Montreal; Emmanuel Madan, National Director, Independent Media Arts Alliance (IMAA).
 
-**Special thanks** to project partner Emmanuel Madan of IMAA, to Dana Kletke of MAWA and Claudine Roger of VOX for the generous donation of documents, and to Chantale Beaudoin, of the Association de parents de l’enfance en difficulté for her input on developing procedures.
+**Special thanks** to project partner Emmanuel Madan of IMAA, Julie Picard, artist/accountant for her input at the outset of the project, to Dana Kletke of MAWA and Claudine Roger of VOX for the generous donation of documents, and to Chantale Beaudoin, of the Association de parents de l’enfance en difficulté for her input on developing procedures.
 
 This project has been made possible in part by the Government of Canada.
