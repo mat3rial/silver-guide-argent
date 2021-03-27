@@ -37,7 +37,7 @@ example_text="Volunteers devote approximately 500 hours (750 in 20X0) per year t
 
 If an organisation determines that it does meet the third condition (that it should have otherwise purchased these services), the basis for this evaluation should be provided. For example, by obtaining an estimate of the hourly rate for similar services, or by using an existing wage policy or pay scale.
 
-[See tab _Scales_]({{ site.baseurl }}/en/toolkit/scales/){: .toolkit}
+[See tab _pay scales_]({{ site.baseurl }}/en/toolkit/scales/){: .toolkit}
 
 To disclose this information in its financial statements—whether in the organization’s revenues or in the notes—the organization must implement a system to collect the information. An example of such a system could be a register in which the volunteer records their name, the date they volunteered, and the event or activity for which they volunteered.
 
