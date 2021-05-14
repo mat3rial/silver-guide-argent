@@ -5,7 +5,6 @@ lang: fr
 lang-ref: 2-1-1
 permalink: "/fr/guide/2_1_1-dons-de-biens/"
 section: 2
-# omit: 'yes'
 order: 2
 
 ---
@@ -13,7 +12,7 @@ order: 2
 
 Si le donateur est un commerçant, lui demander une facture indiquant le prix de détail du bien. Sinon, trouver le prix de vente des ordinateurs sur les sites Web de détaillants qui vendent ces mêmes ordinateurs.
 
-### Dons de nourriture et de boissons:
+### Dons de nourriture et de boissons :
 
 Souvent, le fournisseur qui donne à titre gracieux ou consent un rabais important est en mesure de fournir une facture à l’organisme en y indiquant le prix de vente habituel des articles. Il s’agit alors simplement de demander une pièce justificative au fournisseur.
 
