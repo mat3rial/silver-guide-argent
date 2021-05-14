@@ -30,7 +30,7 @@ permalink: "/fr/boîte_à_outils/modèles/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REÇUS OFFICIELS DE DONS"/>[REÇUS OFFICIELS DE DONS]({{ site.baseurl }}/assets/modèle-fr/reçu_dons.doc) (.doc)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REGISTRE BÉNÉVOLES"/>[REGISTRE BÉNÉVOLES]({{ site.baseurl }}/assets/mod&#232;le-fr/registre_b&#233;;n&#233;voles.xls) (.xls)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REGISTRE BÉNÉVOLES"/>[REGISTRE BÉNÉVOLES]({{ site.baseurl }}/assets/mod&#232;le-fr/registre_b&#233;n&#233;voles.xls) (.xls)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FACTURE DE DON 1"/>[FACTURE DE DON 1]({{ site.baseurl }}/assets/modèle-fr/facture_don_1.pdf) (.pdf)
 
