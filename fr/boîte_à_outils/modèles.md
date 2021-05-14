@@ -20,7 +20,7 @@ permalink: "/fr/boîte_à_outils/modèles/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FORMULAIRE DU DONATEUR"/>[FORMULAIRE DU DONATEUR]({{ site.baseurl }}/assets/modèle-fr/formulaire_dons.doc) (.doc)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTRE COMMANDITAIRE NOURRITURE"/>[LETTRE COMMANDITAIRE NOURRITURE]({{ site.baseurl }}/assets/mod&egrave;le-fr/lettre_commanditaire_nourriture.doc) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTRE COMMANDITAIRE NOURRITURE"/>[LETTRE COMMANDITAIRE NOURRITURE]({{ site.baseurl }}/assets/modèle-fr/lettre_commanditaire_nourriture.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTRE DEMANDE COMMANDITAIRE"/>[LETTRE DEMANDE COMMANDITAIRE]({{ site.baseurl }}/assets/modèle-fr/Lettre_demande_commanditaire.doc) (.doc)
 
@@ -30,7 +30,7 @@ permalink: "/fr/boîte_à_outils/modèles/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REÇUS OFFICIELS DE DONS"/>[REÇUS OFFICIELS DE DONS]({{ site.baseurl }}/assets/modèle-fr/reçu_dons.doc) (.doc)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REGISTRE BÉNÉVOLES"/>[REGISTRE BÉNÉVOLES]({{ site.baseurl }}/assets/modèle-fr/registre_bénévoles.xls) (.xls)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REGISTRE BÉNÉVOLES"/>[REGISTRE BÉNÉVOLES]({{ site.baseurl }}/assets/mod&#232le-fr/registre_b&#233n&#233voles.xls) (.xls)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FACTURE DE DON 1"/>[FACTURE DE DON 1]({{ site.baseurl }}/assets/modèle-fr/facture_don_1.pdf) (.pdf)
 
