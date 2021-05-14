@@ -30,10 +30,7 @@ Généralement, le bénévolat n’est pas constaté dans les revenus et dépens
 
 Cependant, cette information peut être inscrite par voie de notes aux états financiers.
 
-{% include accordion_example.html
-title="Exemple 1 - services bénévoles non comptabilisés"
-example_text="Les bénévoles consacrent environ 500 heures (750 en 20X0) par année à aider l’organisme ABC à assurer la prestation de ses services. En raison de la difficulté de déterminer la juste valeur des apports reçus sous_forme de services, ceux-ci <em>ne sont pas constatés</em> dans ls états financiers."
-%}
+{% include accordion_example.html title="Exemple 1 - services bénévoles non comptabilisés" example_text="Les bénévoles consacrent environ 500 heures (750 en 20X0) par année à aider l’organisme ABC à assurer la prestation de ses services. En raison de la difficulté de déterminer la juste valeur des apports reçus sous_forme de services, ceux-ci <strong>ne sont pas constatés</strong> dans les états financiers." %}
 
 Dans le cas où l’organisme conclurait qu’il respecte également le critère voulant qu’il ait dû acheter ces services, il y aurait lieu de documenter la base d’évaluation choisie. Par exemple, en obtenant d’un fournisseur de services une estimation d’un taux horaire pour des services similaires, ou encore, en utilisant une politique salariale existante ou barème de salaires.
 
