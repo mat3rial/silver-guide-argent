@@ -29,7 +29,7 @@ title="Exemple 2 - dons d’œuvres"
 example_text="On compte XX œuvres d’art parmi les dons faits à la collection de la galerie au cours de l’année. Les œuvres données ont été évaluées indépendamment, et leur juste valeur marchande est de XX $. Ces éléments sont déclarés à titre de revenus provenant de dons selon leur juste valeur marchande, les coûts de programmation et d’acquisition étant portés aux dépenses, et sont reconnus une fois l’acte de donation signé et l’évaluation terminée."
 %}
 
-**Exemples notes afférentes aux états financiers pour dons de services bénévole :**
+**Exemples de notes afférentes aux états financiers pour dons de services bénévole :**
 
 <div class="outer-accordion-wrapper"> <div class="example-text-wrapper"> <h4 class="include-title"><strong>Exemple 3 - Services bénévoles comptabilisés</strong></h4> <div class="close">+</div> <div class="open">-</div> </div> <div class="example-wrapper"> Dans le cadre de son fonctionnement courant, l’organisme a recours aux services de nombreux bénévoles. Ces services sont constatés dans les produits de l’organisme. Les heures consacrées par les bénévoles sont compilées et constatées selon un taux horaire équivalent au taux moyen sur le marché pour des services similaires.<br/><br/>
 
