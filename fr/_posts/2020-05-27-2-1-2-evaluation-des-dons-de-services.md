@@ -14,7 +14,7 @@ Demander au donateur un document indiquant la valeur marchande des biens donnés
 
 [Voir onglet _Modèles_ : Entente contribution]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
-### Service de transport, de placement médias, ou autres fournisseurs de services:
+### Service de transport, de placement médias, ou autres fournisseurs de services :
 
 Que le donateur soit un commerçant ou un OBNL, demander une facture indiquant le prix de détail et le montant du don (ou rabais).
 
