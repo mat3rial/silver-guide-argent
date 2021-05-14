@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5.2.1. Don d’une oeuvre par l’artiste
+title: 5.2.1. Don d’une œuvre par l’artiste
 lang: fr
 lang-ref: 5-2-1
 permalink: "/fr/guide/5_2_1-don-par-artiste/"
@@ -8,7 +8,7 @@ order: 3
 section: 5
 
 ---
-Si un artiste fait don d’une de ses oeuvres, un reçu de don de charité peut être délivré, indiquant le montant de la juste valeur marchande (JVM) réputée de l’oeuvre. Lorsque la JVM du bien est inférieure à 1 000 $, la détermination de la JVM peut être faite par un membre de l’organisme de bienfaisance ou une personne ayant des connaissances suffisantes du bien (par ex. le/la commissaire ou direction artistique de l’organisme). La valeur du don sera la juste valeur marchande de l’oeuvre, moins la part de vente à l’encan qui revient à l’artiste, et ce, selon l’entente convenue entre l’artiste et l’organisme.
+Si un artiste fait don d’une de ses œuvres, un reçu de don de charité peut être délivré, indiquant le montant de la juste valeur marchande (JVM) réputée de l’oeuvre. Lorsque la JVM du bien est inférieure à 1 000 $, la détermination de la JVM peut être faite par un membre de l’organisme de bienfaisance ou une personne ayant des connaissances suffisantes du bien (par ex. le/la commissaire ou direction artistique de l’organisme). La valeur du don sera la juste valeur marchande de l’oeuvre, moins la part de vente à l’encan qui revient à l’artiste, et ce, selon l’entente convenue entre l’artiste et l’organisme.
 
 [Voir modèles : contrat d'artiste - don]({{site.baseurl}}/fr/boîte_à_outils/modèles/){: .toolkit}
 
