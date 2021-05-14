@@ -18,8 +18,7 @@ Le contrat ou la lettre d’entente devrait contenir les éléments suivants :
 
 <li>b) Valeur du service rendu ou du bien donné de part et d’autre;</li>
 
-<li>c) Numéros de TPS/TVH et des taxes provinciales applicables, le cas échéant de chacun des organismes. (<a href="{{ site.baseurl }}/fr/guide/4_incidence-taxe/" title="Voir section 4. Incidence de la taxe de vente"><strong>Voir section 4. Incidence de la taxe de vente</strong></a>)</li>
-</ul>
+<li>c) Numéros de TPS/TVH et des taxes provinciales applicables, le cas échéant de chacun des organismes. (<a href="{{ site.baseurl }}/fr/guide/4_incidence-taxe/" title="Voir section 4. Incidence de la taxe de vente"><strong>Voir la section 4 sur l’incidence de l’application des taxes</strong>.</a>)</li> </ul>
 
 Dans le cas **des échanges de services qui font partie d’un partenariat**, des dispositions peuvent être prises directement dans le contrat pour que le partenaire soit tenu de fournir une lettre détaillant la valeur et la nature de la contribution (par ex., les frais de transport, les droits versés aux artistes, les coûts de déplacement et de perdiem, l’aide technique) en échange de l’engagement du partenaire à fournir des équipements et services pour la présentation des œuvres.
 
