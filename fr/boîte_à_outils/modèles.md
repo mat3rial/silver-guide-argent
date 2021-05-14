@@ -20,7 +20,7 @@ permalink: "/fr/boîte_à_outils/modèles/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FORMULAIRE DU DONATEUR"/>[FORMULAIRE DU DONATEUR]({{ site.baseurl }}/assets/modèle-fr/formulaire_dons.doc) (.doc)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTRE COMMANDITAIRE NOURRITURE"/>[LETTRE COMMANDITAIRE NOURRITURE]({{ site.baseurl }}/assets/modèle-fr/lettre_commanditaire_nourriture.doc) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTRE COMMANDITAIRE NOURRITURE"/>[LETTRE COMMANDITAIRE NOURRITURE]({{ site.baseurl }}/assets/mod&egrave;le-fr/lettre_commanditaire_nourriture.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTRE DEMANDE COMMANDITAIRE"/>[LETTRE DEMANDE COMMANDITAIRE]({{ site.baseurl }}/assets/modèle-fr/Lettre_demande_commanditaire.doc) (.doc)
 
