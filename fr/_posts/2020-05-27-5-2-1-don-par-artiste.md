@@ -19,6 +19,6 @@ example_text="L’artiste donne à un organisme de bienfaisance une oeuvre éval
 
 **Remarque**
 
-Si le montant de l’avantage dépasse 80 % de la [juste valeur marchande]({{site.baseurl}}/fr/boîte_à_outils/lexique/) du don, un reçu officiel de don ne peut pas être remis. Pour en savoir plus sur les reçus pour dons pour une partie de la valeur, reportez-vous au site de l’ARC (voir le lien « [Folio de l’impôt sur le revenu S7-F1-C1](https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/organismes-bienfaisance/exploitation-organisme-bienfaisance-enregistre/remise-recus/recus-dons-partie-valeur.html) » dans la boîte à outils).
+Si le montant de l’avantage dépasse 80 % de la [juste valeur marchande]({{site.baseurl}}/fr/boîte_à_outils/lexique/) du don, un reçu officiel de don ne peut pas être remis. Pour en savoir plus sur les reçus pour dons pour une partie de la valeur, reportez-vous au site de l’ARC (voir le lien « [Folio de l’impôt sur le revenu S7-F1-C1](https://www.canada.ca/fr/agence-revenu/services/organismes-bienfaisance-dons/organismes-bienfaisance/exploitation-organisme-bienfaisance-enregistre/remise-recus/recus-dons-partie-valeur.html) »).
 
 {% include next_step_button.html nextText="prochaine" link="5_2_2-don-œuvre-acquise/" %}
