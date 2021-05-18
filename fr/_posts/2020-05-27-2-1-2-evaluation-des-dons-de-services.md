@@ -10,15 +10,15 @@ order: 3
 ---
 ### Travail de bureau ou de gestion exécuté gratuitement par un professionnel :
 
-Demander au donateur un document indiquant la valeur marchande des biens donnés ou des services rendus à titre gracieux, soit le prix qu’il facture habituellement pour ces biens ou services. (Les dons de services ne se qualifient pas à titre de dons aux fins de la délivrance de reçus officiels de dons. (voir la section 5.5 - et le SCHÉMA 3 - procédure à suivre pour l’émission de reçus de dons de services)
+Demander au donateur un document indiquant la valeur marchande des biens donnés ou des services rendus à titre gracieux, soit le prix qu’il facture habituellement pour ces biens ou services. (Les dons de services ne se qualifient pas à titre de dons aux fins de la délivrance de reçus officiels de dons. (Voir la section 5.5. Voir aussi le schéma 3, « Procédure à suivre pour l’émission de reçus de dons de services », et le modèle « Entente contribution »)
 
-[Voir onglet _Modèles_ : Entente contribution]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
+[Voir le modèle « Entente contribution » dans la boîte à outils ]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
 ### Service de transport, de placement médias, ou autres fournisseurs de services :
 
 Que le donateur soit un commerçant ou un OBNL, demander une facture indiquant le prix de détail et le montant du don (ou rabais).
 
-[Voir onglet _Modèles_ : Facture du don 1, Facture du don2]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
+[Voir les modèles « Facture du don 1 », « Facture du don2 » dans la boîte à outils ]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
 ### Service de bénévoles :
 
@@ -34,11 +34,11 @@ Cependant, cette information peut être inscrite par voie de notes aux états fi
 
 Dans le cas où l’organisme conclurait qu’il respecte également le critère voulant qu’il ait dû acheter ces services, il y aurait lieu de documenter la base d’évaluation choisie. Par exemple, en obtenant d’un fournisseur de services une estimation d’un taux horaire pour des services similaires, ou encore, en utilisant une politique salariale existante ou barème de salaires.
 
-[Voir onglet _Barèmes_]({{ site.baseurl }}/fr/boîte_à_outils/barèmes/){: .toolkit}
+[Voir l'onglet Barèmes dans la boîte à outils ]({{ site.baseurl }}/fr/boîte_à_outils/barèmes/){: .toolkit}
 
 Pour pouvoir divulguer ces informations aux états financiers, qu’ils soient constatés dans les produits de l’organisme ou par voie de notes, il faut que l’organisme mette sur pied un système lui permettant de collecter l’information. Par exemple, créer un registre dans lequel il est inscrit le nom du bénévole, la date à laquelle il a fait des heures de bénévolat et l’événement pour lequel il a fait du bénévolat.
 
-[Voir onglet _Modèles_ : registre_bénévole_]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
+[Voir le modèle « Registre_bénévole » dans la boîte à outils]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
 {% include nav_yes_no.html
 question="La juste valeur établie du don est-elle suffisamment fiable ?"
