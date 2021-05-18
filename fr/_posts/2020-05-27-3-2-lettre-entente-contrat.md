@@ -10,7 +10,7 @@ section: 3
 ---
 Un organisme qui fait le choix de constater ses opérations non monétaires doit s’assurer de garder les documents pertinents pour justifier la comptabilisation de ces opérations dans ses registres comptables. Pour chaque échange de services, les différentes parties devraient préparer un contrat ou une lettre d’entente.
 
-[Voir onglet _Modèles_ : Entente échange de service, de partenariat ou de visibilité]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
+[Voir les modèles « Entente de visibilité », « Entente d’échange partenariat » et « Entente d’échange service » dans la boîte à outils ]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
 Le contrat ou la lettre d’entente devrait contenir les éléments suivants :
 <ul class="textlist">
