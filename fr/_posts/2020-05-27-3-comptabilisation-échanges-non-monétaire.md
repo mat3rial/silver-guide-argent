@@ -9,7 +9,7 @@ section: 3
 order: 
 
 ---
-[Voir Schéma 1]({{ site.baseurl }}/fr/boîte_à_outils/schémas/){: .toolkit}
+[Voir « Schéma 1 » dans la boîte à outils ]({{ site.baseurl }}/fr/boîte_à_outils/schémas/){: .toolkit}
 
 Dans cette section, nous nous attarderons plutôt aux <a class="tip" href="{{site.baseurl}}/fr/boîte_à_outils/lexique#échanges-non-monétaires" target="_blank" title="Aussi appelé 'échange de service', l’échanges d’actifs, (très rarement de passifs) ou de services non monétaires contre d’autres actifs, passifs ou services non monétaires, sans contrepartie financière ou moyennant une contrepartie financière négligeable; l’échange est une pratique courante des partenariats et co-productions dans lesquels chaque partie contribue des biens et des services de valeurs plus ou moins égales.">échanges de biens ou de services</a>. Encore une fois, l’enjeu majeur de la comptabilisation de ces opérations porte sur l’évaluation adéquate de celles-ci.
 
