@@ -9,7 +9,7 @@ section: 5
 order: 
 
 ---
-[Voir Schéma 2]({{ site.baseurl }}/fr/boîte_à_outils/schémas/){: .toolkit}
+[Voir « Schéma 2 » dans la boîte à outils]({{ site.baseurl }}/fr/boîte_à_outils/schémas/){: .toolkit}
 
 Les organismes se qualifiant à titre d’organismes de bienfaisance peuvent délivrer des reçus de dons de charité. Cependant, il est primordial pour l’organisme de se conformer aux règles sur la délivrance des reçus de dons de charité.
 
