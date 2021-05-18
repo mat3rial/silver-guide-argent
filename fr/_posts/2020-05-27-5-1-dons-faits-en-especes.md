@@ -23,6 +23,6 @@ Dans le cas des reçus de **dons faits en espèces (argent comptant)**, la chose
 * La signature par la personne autorisée au sein de l’organisme;
 * Le nom et l’adresse du site Web de l’Agence du revenu du Canada.
 
-[Voir onglet _Modèles_ : Reçu de dons]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
+[Voir le modèle « Reçu de dons » dans la boîte à outils]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
 {% include next_step_button.html nextText="prochaine" link="5_2-don-de-biens/" %}
