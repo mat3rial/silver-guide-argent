@@ -34,7 +34,7 @@ Cependant, cette information peut être inscrite par voie de notes aux états fi
 
 Dans le cas où l’organisme conclurait qu’il respecte également le critère voulant qu’il ait dû acheter ces services, il y aurait lieu de documenter la base d’évaluation choisie. Par exemple, en obtenant d’un fournisseur de services une estimation d’un taux horaire pour des services similaires, ou encore, en utilisant une politique salariale existante ou barème de salaires.
 
-[Voir l'onglet Barèmes dans la boîte à outils ]({{ site.baseurl }}/fr/boîte_à_outils/barèmes/){: .toolkit}
+[Voir l'onglet _Barèmes_ dans la boîte à outils ]({{ site.baseurl }}/fr/boîte_à_outils/barèmes/){: .toolkit}
 
 Pour pouvoir divulguer ces informations aux états financiers, qu’ils soient constatés dans les produits de l’organisme ou par voie de notes, il faut que l’organisme mette sur pied un système lui permettant de collecter l’information. Par exemple, créer un registre dans lequel il est inscrit le nom du bénévole, la date à laquelle il a fait des heures de bénévolat et l’événement pour lequel il a fait du bénévolat.
 
