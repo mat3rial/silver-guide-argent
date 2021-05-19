@@ -16,6 +16,6 @@ For <a class="tip" href="{{site.baseurl}}/en/toolkit/glossary#registered-chariti
 
 [See _Diagram 2_ and _Diagram 3_ in the Toolkit]({{ site.baseurl }}/en/toolkit/diagrams){: .toolkit}
 
-Go to next step for more concrete examples of how to reasonably estimate fair value.
+See the next section for some concrete examples of how to reasonably estimate fair value.
 
 {% include next_step_button.html link="2_1_1-donations-of-goods/" %}
