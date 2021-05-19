@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2.1.2. Evaluation of contributions received in the form of services
+title: 2.1.2. Evaluating contributions received in the form of services
 lang: en
 lang-ref: 2-1-2
 permalink: "/en/guide/2_1_2-donation-of-services/"
