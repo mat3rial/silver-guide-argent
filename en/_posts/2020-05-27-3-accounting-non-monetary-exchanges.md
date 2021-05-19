@@ -1,12 +1,12 @@
 ---
 layout: post
-title: '3. Accounting for non-monetary exchanges (bartered exchanges) '
+title: '3. Accounting for non-monetary exchanges (barter exchanges) '
 short_title: 3. Accounting for Exchanges
 lang: en
 lang-ref: "3"
 permalink: "/en/guide/3-accounting-non-monetary-exchanges/"
 section: 3
-order:
+order: 
 
 ---
 [See Diagram 1]({{ site.baseurl }}/en/toolkit/diagrams/){: .toolkit}
