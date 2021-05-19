@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5.2. Donation of goods
+title: 5.2. Donations of goods
 lang: en
 lang-ref: 5-2
 permalink: "/en/guide/5_2-donation-of-goods/"
