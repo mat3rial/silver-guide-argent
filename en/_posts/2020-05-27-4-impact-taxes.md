@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 4. Impact of applying the Goods and Services Tax (GST) and Harmonized Sales
-  Tax (HST) and Provincial Sales Tax (PST) where applicable
+title: 4. Impact of applying the Goods and Services Tax (GST), Harmonized Sales Tax
+  (HST), Provincial Sales Tax (PST) where applicable
 short_title: 4. Impact of Applying Taxes
 lang: en
 lang-ref: "4"
