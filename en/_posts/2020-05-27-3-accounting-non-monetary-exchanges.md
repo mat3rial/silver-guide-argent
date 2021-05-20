@@ -9,7 +9,7 @@ section: 3
 order: 
 
 ---
-[See Diagram 1]({{ site.baseurl }}/en/toolkit/diagrams/){: .toolkit}
+[See _Diagram 1_ in the Toolkit]({{ site.baseurl }}/en/toolkit/diagrams/){: .toolkit}
 
 In this section, we will focus on exchanges of goods and services. Once again, the main issue in recognizing these transactions lies in their proper valuation.
 
