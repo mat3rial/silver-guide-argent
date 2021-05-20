@@ -19,7 +19,7 @@ The following information should be provided by the auditor and disclosed as not
 
   <li>c) Related gains and losses, if any.</li>
 </ul>
-In the notes regarding its principle accounting policies, an organization must disclose its revenue recognition method. When different methods are applied to different types of transactions generating revenues, including non-monetary exchanges (barter), the organization must indicate which method was used for each major type of product or service.
+In the notes regarding its principle accounting policies, an organization must disclose its revenue recognition method. When different methods are applied to different types of revenue-generating transactions, including non-monetary exchanges (barter), the organization must indicate which method was used for each major type of product or service.
 
 **Examples of financial statement notes:**
 
