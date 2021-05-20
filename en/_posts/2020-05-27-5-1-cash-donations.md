@@ -6,6 +6,7 @@ lang-ref: 5-1
 permalink: "/en/guide/5_1-cash-donations/"
 order: 1
 section: 5
+short_title: ''
 
 ---
 For the issuance of **cash donation receipts**, the procedure is simple. A receipt will be issued for the amount of cash received by the organization. The following information must appear on the receipt: 
@@ -23,6 +24,6 @@ For the issuance of **cash donation receipts**, the procedure is simple. A recei
 * The signature of the recipient organization’s authorized signor;
 * The name and website address of the Canada Revenue Agency.
 
-[See tab _Templates_ : Donation Receipt]({{site.baseurl}}/en/toolkit/templates/){: .toolkit}
+[See the template _Donation Receipt_ in the Toolkit]({{site.baseurl}}/en/toolkit/templates/){: .toolkit}
 
 {% include next_step_button.html nextText="next" link="5_2-donation-of-goods/" %}
