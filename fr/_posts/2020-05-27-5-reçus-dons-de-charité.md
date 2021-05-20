@@ -1,12 +1,12 @@
 ---
 layout: post
 title: '5. Organismes de bienfaisance : Reçus de dons de charité'
-short_title: '5. Organismes de bienfaisance : Reçus de dons de charité'
+short_title: '5. Organisme de bienfaisance: Reçus'
 lang: fr
 lang-ref: "5"
 permalink: "/fr/guide/5-reçus-dons-de-charité/"
 section: 5
-order:
+order: 
 
 ---
 [Voir « Schéma 2 » dans la boîte à outils]({{ site.baseurl }}/fr/boîte_à_outils/schémas/){: .toolkit}
