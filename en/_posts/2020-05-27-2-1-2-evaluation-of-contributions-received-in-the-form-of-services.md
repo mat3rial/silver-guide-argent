@@ -32,7 +32,7 @@ However, such information can be included in the notes to the financial statemen
 
 {% include accordion_example.html
 title="Example 1 - volunteer labour not accounted in financial statements"
-example_text="Volunteers devote approximately 500 hours (750 in 2020) per year to help organization ABC provide its services. Due to the difficulty in determining the fair value of contributions received in the form of services, these contributions are not recognized in their financial statements."
+example_text="Volunteers devote approximately 500 hours (750 in 20XX) per year to help organization ABC provide its services. Due to the difficulty in determining the fair value of contributions received in the form of services, these contributions are not recognized in their financial statements."
 %}
 
 If an organization determines that it does meet the third condition (i.e., that it would have otherwise purchased these services), the basis for this evaluation should be provided — for example, by obtaining an estimate of the hourly rate for similar services, or by using an existing wage policy. 
