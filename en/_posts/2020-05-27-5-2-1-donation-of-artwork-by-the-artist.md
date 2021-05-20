@@ -21,6 +21,6 @@ example_text="An artist gives a charity an artwork valued at $1,000. The charity
 
 **Note**
 
-If the amount of the advantage is more than 80% of the fair market value of the gift, an official donation receipt cannot be issued. For more information, go to [Split receipting (CRA website)](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/issuing-receipts/split-receipting.html){: .external}.
+If the amount of the advantage is more than 80% of the fair market value of the gift, an official donation receipt cannot be issued. For more information, see [Split receipting (CRA website)](https://www.canada.ca/en/revenue-agency/services/charities-giving/charities/operating-a-registered-charity/issuing-receipts/split-receipting.html){: .external}.
 
 {% include next_step_button.html nextText="next" link="5_2_2-donation-purchased-work/" %}
