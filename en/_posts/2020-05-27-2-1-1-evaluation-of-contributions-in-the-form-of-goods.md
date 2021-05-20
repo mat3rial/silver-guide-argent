@@ -16,10 +16,10 @@ If the donor is a business, ask for a receipt indicating the retail price of the
 
 Usually, a supplier offering a free or significantly discounted item can provide a supporting document indicating the item’s normal sale price. Be sure to ask for one.
 
-<a href="{{ site.baseurl }}/en/toolkit/templates/" class="toolkit">see Tab _Templates_: letters</a>
+<a href="{{ site.baseurl }}/en/toolkit/templates/" class="toolkit">See the letter templates in the Toolkit</a>
 
 ## Work or exhibition spaces offered free of charge:
 
-Ask the landlord how much rent they would normally charge (monthly or periodically) if the premises were not being lent for free.
+Ask the landlord how much rent they would normally charge (monthly or periodically) if the premises are not being loaned for free.
 
 {% include next_step_button.html link="2_1_2-donation-of-services/" %}
