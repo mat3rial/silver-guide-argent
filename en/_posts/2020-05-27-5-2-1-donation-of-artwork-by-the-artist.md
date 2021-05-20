@@ -6,13 +6,14 @@ lang-ref: 5-2-1
 permalink: "/en/guide/5_2_1-donation-by-artist/"
 order: 3
 section: 5
+short_title: ''
 
 ---
 If an artist donates an artwork, the charitable organization can issue a receipt in the amount deemed as fair market value (FMV) for that artwork.  When the FMV is less than $1,000, the assessment can be made by a member of the charity or someone with sufficient knowledge of the goods in question (i.e. the curator or artistic director in an artist-run centre).
 
 The value of the donation will be the fair market value of the artwork, less the artist’s share of the sale at auction, as per the agreement between the artist and the organization.
 
-[see Templates: Artwork Donation]({{site.baseurl}}/en/toolkit/templates/){: .toolkit}
+[see the template _Artwork Donation_ in the Toolkit]({{site.baseurl}}/en/toolkit/templates/){: .toolkit}
 
 {% include accordion_example.html
 example_text="An artist gives a charity an artwork valued at $1,000. The charity sells the work at auction for $400 and  gives the artist $200 in return, 50% of the sale price as per their agreement. The amount of the advantage ($200) must be subtracted from the amount of the gift (the $1,000 value of the artwork). So, the eligible amount of the gift is $800."
