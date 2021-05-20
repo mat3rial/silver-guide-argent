@@ -21,7 +21,7 @@ The contribution received in the form of goods and services must be evaluated at
 
 {% include accordion_example.html
 title="Example 1 - Contribution of goods and services"
-example_text="Contribution of goods and services: Donated materials and services are recorded only if the fair value can be reasonably estimated at the date of donation (e.g., "In 20XX, donated materials and services in the amount of $XXX.XX have been recorded as revenue.")."
+example_text="Contribution of goods and services: Donated materials and services are recorded only if the fair value can be reasonably estimated at the date of donation (e.g., \"In 20XX, donated materials and services in the amount of $XXX.XX have been recorded as revenue.\")."
 %}
 
 {% include accordion_example.html
