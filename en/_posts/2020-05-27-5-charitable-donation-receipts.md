@@ -6,10 +6,10 @@ lang: en
 lang-ref: "5"
 permalink: "/en/guide/5-charitable-donation-receipts/"
 section: 5
-order:
+order: 
 
 ---
-[See Diagram 2]({{ site.baseurl }}/en/toolkit/diagrams/){: .toolkit}
+[See _Diagram 2_ in the Toolkit]({{ site.baseurl }}/en/toolkit/diagrams/){: .toolkit}
 
 Organizations with charitable status can issue charitable donation receipts. However, they must comply with the rules for issuing these receipts.
 
