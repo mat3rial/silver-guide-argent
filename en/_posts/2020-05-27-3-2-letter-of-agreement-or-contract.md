@@ -11,7 +11,7 @@ short_title: ''
 ---
 If an organization chooses to record these non-monetary transactions, it must keep any relevant documentation that supports the recognition of the transactions in its accounting records. For each exchange of services, a contract or letter of agreement should be drafted between parties.
 
-[See the templates _Agreement service exchange_, _Agreement partnership_ or _Agreement_visibility_ in the Toolkit]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
+[See the templates _Agreement service exchange, partnership or visibility_ in the Toolkit]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
 
 The following points should be included in such a contract or letter of agreement:
 <ul class="textlist">
