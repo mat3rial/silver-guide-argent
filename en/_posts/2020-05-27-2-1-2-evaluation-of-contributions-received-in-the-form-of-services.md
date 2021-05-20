@@ -10,15 +10,15 @@ order: 3
 ---
 ## Office or management work performed free of charge by a professional:
 
-Ask the donor for a document indicating the market value of the services provided free of charge (i.e., the price they would usually charge for these goods or services). A donation of services is not eligible for a charitable tax receipt (ref. section 5.5, and DIAGRAM 3 - procedure for issuing receipts for service donations.)
+Ask the donor for a document indicating the market value of the services provided free of charge (i.e., the price they would usually charge for these goods or services). A donation of services is not eligible for a charitable tax receipt (see Section 5.5, and Diagram 3 in the Toolkit)
 
-[See Tab _Templates_: Agreement Contribution]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
+[See the template _Agreement Contribution_ in the Toolkit]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
 
 ## Media placement, transportation, or other service providers:
 
 If the donor is a merchant, ask for an invoice indicating the retail price and the amount of the donation (or discount).
 
-[See Tab _Templates_: Invoice for donation 1, Invoice for donation 2]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
+[See the templates _Invoice for donation 1_ and _Invoice for donation 2_ in the Toolkit]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
 
 ## Volunteer labour:
 
@@ -32,16 +32,16 @@ However, such information can be included in the notes to the financial statemen
 
 {% include accordion_example.html
 title="Example 1 - volunteer labour not accounted in financial statements"
-example_text="Volunteers devote approximately 500 hours (750 in 20X0) per year to help ABC organization provide its services. Due to the difficulty in determining the fair value of contributions received in the form of services, these contributions are not recognized in their financial statements."
+example_text="Volunteers devote approximately 500 hours (750 in 2020) per year to help organization ABC provide its services. Due to the difficulty in determining the fair value of contributions received in the form of services, these contributions are not recognized in their financial statements."
 %}
 
-If an organisation determines that it does meet the third condition (that it should have otherwise purchased these services), the basis for this evaluation should be provided. For example, by obtaining an estimate of the hourly rate for similar services, or by using an existing wage policy or pay scale.
+If an organization determines that it does meet the third condition (i.e., that it would have otherwise purchased these services), the basis for this evaluation should be provided — for example, by obtaining an estimate of the hourly rate for similar services, or by using an existing wage policy. 
 
-[See tab _pay scales_]({{ site.baseurl }}/en/toolkit/scales/){: .toolkit}
+[See _Pay scales_ in the Toolkit]({{ site.baseurl }}/en/toolkit/scales/){: .toolkit}
 
 To disclose this information in its financial statements—whether in the organization’s revenues or in the notes—the organization must implement a system to collect the information. An example of such a system could be a register in which the volunteer records their name, the date they volunteered, and the event or activity for which they volunteered.
 
-[see tab _Templates_ : Volunteer registry]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
+[see the template _Volunteer registry_ in the Toolkit]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
 
 {% include nav_yes_no.html
 question="Can the fair value of the donation be reasonably assessed?"
