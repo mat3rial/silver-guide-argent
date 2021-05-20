@@ -6,9 +6,10 @@ lang-ref: 5-2-2
 permalink: "/en/guide/5_2_2-donation-purchased-work/"
 order: 4
 section: 5
+short_title: ''
 
 ---
-If a donor donates an artwork within three years of purchasing it, the charitable organization must issue a receipt for an amount that corresponds to the lesser market value amount of the donation and its cost to the donor immediately before the donation was made.
+If a donor donates an artwork within three years of purchasing it, the charitable organization must issue a receipt for an amount that corresponds to the market value amount of the donation or its cost to the donor immediately before the donation was made, whichever is the lesser of the two.
 
 {% include accordion_example.html
 example_text="A donor buys a work of art valued at $300 and, six months later, donates it to a registered charity. Before donating the artwork, the donor has it appraised at a value of $1,000. In this case, the amount indicated on the receipt should be $300."
