@@ -6,9 +6,10 @@ lang-ref: 3-4
 permalink: "/en/guide/3_4-presentation-financial-statements/"
 order: 4
 section: 3
+short_title: ''
 
 ---
-_(CPA Canada Handbook, Chap. 3831.17)_
+_(CPA Canada Handbook, ch. 3831.17)_
 
 The following information should be provided by the auditor and disclosed as notes in the financial statements:
 <ul class="textlist">
