@@ -6,11 +6,12 @@ lang-ref: 2-1-2
 permalink: "/en/guide/2_1_2-donation-of-services/"
 section: 2
 order: 3
+short_title: ''
 
 ---
 ## Office or management work performed free of charge by a professional:
 
-Ask the donor for a document indicating the market value of the services provided free of charge (i.e., the price they would usually charge for these goods or services). A donation of services is not eligible for a charitable tax receipt (see Section 5.5, and Diagram 3 in the Toolkit)
+Ask the donor for a document indicating the market value of the services provided free of charge (i.e., the price they would usually charge for these goods or services). A donation of services is not eligible for a charitable tax receipt (see Section 5.3, and Diagram 3 in the Toolkit)
 
 [See the template _Agreement Contribution_ in the Toolkit]({{ site.baseurl }}/en/toolkit/templates/){: .toolkit}
 
@@ -35,7 +36,7 @@ title="Example 1 - volunteer labour not accounted in financial statements"
 example_text="Volunteers devote approximately 500 hours (750 in 20XX) per year to help organization ABC provide its services. Due to the difficulty in determining the fair value of contributions received in the form of services, these contributions are not recognized in their financial statements."
 %}
 
-If an organization determines that it does meet the third condition (i.e., that it would have otherwise purchased these services), the basis for this evaluation should be provided — for example, by obtaining an estimate of the hourly rate for similar services, or by using an existing wage policy. 
+If an organization determines that it does meet the third condition (i.e., that it would have otherwise purchased these services), the basis for this evaluation should be provided — for example, by obtaining an estimate of the hourly rate for similar services, or by using an existing wage policy.
 
 [See _Pay scales_ in the Toolkit]({{ site.baseurl }}/en/toolkit/scales/){: .toolkit}
 
