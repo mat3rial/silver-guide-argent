@@ -6,6 +6,7 @@ lang-ref: 2-1-1
 permalink: "/fr/guide/2_1_1-dons-de-biens/"
 section: 2
 order: 2
+short_title: ''
 
 ---
 ### Dons de biens, en l’occurrence des ordinateurs :
@@ -16,7 +17,7 @@ Si le donateur est un commerçant, lui demander une facture indiquant le prix de
 
 Souvent, le fournisseur qui donne à titre gracieux ou consent un rabais important est en mesure de fournir une facture à l’organisme en y indiquant le prix de vente habituel des articles. Il s’agit alors simplement de demander une pièce justificative au fournisseur.
 
-<a href="{{ site.baseurl }}/fr/boîte_à_outils/modèles/" class="toolkit">Voir le modèle de lettre dans la boîte à outils </a>
+<a href="{{ site.baseurl }}/fr/boîte_à_outils/modèles/" class="toolkit">Voir les modèles de lettres dans la boîte à outils </a>
 
 ### Espaces de travail ou d’exposition offerts gratuitement :
 
