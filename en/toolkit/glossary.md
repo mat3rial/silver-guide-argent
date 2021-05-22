@@ -45,7 +45,7 @@ A non-profit organization or prescribed government organization whose percentage
 
 ## Registered charities
 
-Charitable organizations, public foundations, or private foundations that are created and resident in Canada. They must use their resources for charitable activities and have charitable purposes that fall into one or more of the following categories:
+Charitable organizations, public foundations, or private foundations that are created and resident in Canada must use their resources for charitable activities and have charitable purposes that fall into one or more of the following categories:
 
 * the relief of poverty
 * the advancement of education
