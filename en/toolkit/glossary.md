@@ -62,8 +62,8 @@ Service means anything other than:
 
 ## Sponsorship
 
-A sponsorship is an exchange of goods between a sponsor and another party through which the sponsor commits to donating money, goods or services in exchange for access to the commercial potential of an activity. Sponsorship fees are not donations and the organization cannot deliver a charitable receipt for sponsorships because the sponsor typically receives the benefit of visibility in exchange. Sponsorships can be given in the form of cash, goods or services.
+A sponsorship is an exchange of goods between a sponsor and another party through which the sponsor commits to donating money, goods or services in exchange for access to the commercial potential of an activity. Sponsorship fees are not donations and the recipient organization cannot issue a charitable receipt for sponsorships because the sponsor typically receives the benefit of visibility in exchange. Sponsorships can be given in the form of cash, goods or services.
 
 ## Supply
 
-The provision of property or a service in any way, including sale, transfer, barter, exchange, licence, rental, lease, gift, and disposition.
+The provision of property or a service in any form, including sale, transfer, barter, exchange, licence, rental, lease, gift, and disposition.
