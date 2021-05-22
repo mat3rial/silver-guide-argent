@@ -7,11 +7,11 @@ lang: en
 ---
 **Project direction:** Anne Bertrand
 
-**Project management:** Anne Bertrand, Pierre Beaudoin
-
 **Guide development:** Sophie Houle, CPA
 
 **Consultation for the English version of the guide:** Julia Gaunt-Rannala, CPA (Young Associates)
+
+**Project management:** Anne Bertrand, Pierre Beaudoin
 
 **Digital platform development:** Corina MacDonald, Antonia Hernandez, Evan Savage - MAT3RIAL
 
