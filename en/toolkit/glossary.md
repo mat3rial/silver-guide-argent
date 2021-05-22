@@ -16,9 +16,9 @@ A payment amount agreed upon by willing parties in the normal course of business
 
 ## GST/HST Rebate
 
-Also called Public Service Bodies Rebate, is a refund for qualifying non-profit organization of taxes paid on purchases, including those that were also acquired through bartered exchange.
+A refund for qualifying non-profit organizations of taxes paid on purchases, including those that were also acquired through barter exchange.  Also called "Public Service Bodies Rebate."
 
-## In Kind Donation: see Contribution
+## In Kind Donation: see Contributions
 
 ## Input tax credit (ITC)
 
@@ -26,14 +26,14 @@ A credit that GST/HST registrants can generally claim to recover the GST/HST pai
 
 ## Non-monetary exchanges
 
-Also referred to as "bartered exchanges" or "exchanges of goods and services", exchanges of assets, liabilities, or non-monetary services against other assets, liabilities, or non-monetary services, with no or negligible monetary consideration such as in partnerships and co-productions where each partner contributes in kind goods and services of more or less equal value, commonly known as barter.
+Also referred to as “barter exchanges” or “exchanges of goods and services”, exchanges of assets, liabilities, or non-monetary services against other assets, liabilities, or non-monetary services, with no or negligible monetary consideration such as in partnerships and co-productions where each partner contributes in-kind goods and services of more or less equal value, commonly known as “barter.”
 
 ## Non-profit organization
 
 A person (other than an individual, estate, trust, charity, public institution, municipality, or government) that meets the following conditions:
 
-* It is organized and operated solely for non-profit purposes.
-* It does not distribute or make available any of its income for the personal benefit of any proprietor, member, or shareholder, unless the proprietor, member, or shareholder is a club, a society, or an association that has, as its primary purpose and function, the promotion of amateur athletics in Canada.
+* Organized and operated solely for non-profit purposes.
+* Does not distribute or make available any of its income for the personal benefit of any proprietor, member, or shareholder, unless the proprietor, member, or shareholder is a club, a society, or an association that has, as its primary purpose and function, the promotion of amateur athletics in Canada.
 
 ## Public service body
 
