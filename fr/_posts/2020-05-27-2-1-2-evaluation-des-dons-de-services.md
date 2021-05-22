@@ -6,11 +6,12 @@ lang-ref: 2-1-2
 permalink: "/fr/guide/2_1_2-dons-de-services/"
 section: 2
 order: 3
+short_title: ''
 
 ---
 ### Travail de bureau ou de gestion exécuté gratuitement par un professionnel :
 
-Demander au donateur un document indiquant la valeur marchande des biens donnés ou des services rendus à titre gracieux, soit le prix qu’il facture habituellement pour ces biens ou services. (Les dons de services ne se qualifient pas à titre de dons aux fins de la délivrance de reçus officiels de dons. (Voir la section 5.5. Voir aussi le schéma 3, « Procédure à suivre pour l’émission de reçus de dons de services », et le modèle « Entente contribution »)
+Demander au donateur un document indiquant la valeur marchande des biens donnés ou des services rendus à titre gracieux, soit le prix qu’il facture habituellement pour ces biens ou services. (Les dons de services ne se qualifient pas à titre de dons aux fins de la délivrance de reçus officiels de dons. (Voir la section 5.3. Voir aussi le schéma 3, « Procédure à suivre pour l’émission de reçus de dons de services », et le modèle « Entente contribution »)
 
 [Voir le modèle « Entente contribution » dans la boîte à outils ]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
