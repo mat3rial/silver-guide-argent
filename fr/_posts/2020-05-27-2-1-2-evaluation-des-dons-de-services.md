@@ -21,7 +21,7 @@ Que le donateur soit un commerçant ou un OBNL, demander une facture indiquant l
 
 [Voir les modèles « Facture du don 1 », « Facture du don2 » dans la boîte à outils ]({{ site.baseurl }}/fr/boîte_à_outils/modèles/){: .toolkit}
 
-### Service de bénévoles :
+### Services bénévoles :
 
 Généralement, le bénévolat n’est pas constaté dans les revenus et dépenses de l’organisme pour deux raisons :
 <ul class="textlist">
