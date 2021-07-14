@@ -5,7 +5,7 @@ lang-ref: about
 lang: fr
 
 ---
-### [But](#but) | [Contexte](#contexte) | [Défis](#défis) | [Considérations](#considérations)
+### [But](#but) | [Contexte](#contexte) | [Défis](#défis) | [Considérations](#considérations) | [Contact](#contact)
 
 ## **But**
 
@@ -31,6 +31,10 @@ Pour quantité d’OBNL, les contributions qui prennent la forme de biens donné
 Bref, à la fois guide et trousse à outils, _Le_ _Guide argent des opérations non monétaires_ a été conçu pour orienter les gestionnaires et les administrateurs responsables de la santé et de la croissance économiques des petits organismes. Nous avons veillé de près à l’exactitude de l’information. Bien que rédigé et révisé par des comptables professionnels, il est possible que ce document n’apporte pas toutes les réponses quant aux lois régissant les taxes à la consommation. Choisir d’inclure les opérations non monétaires dans les états financiers de votre organisme, c’est une décision que vous gagnerez à aborder et à débattre avec votre auditeur ou votre auditrice. C’est lui ou elle, au bout du compte, qui assure votre conformité à une liste de normes comptables qui ne cesse de s’allonger. Les modèles de lettres, de contrats et de formulaires que vous trouverez dans le guide ont été partagés généreusement par le personnel administratif de quelques centres d’artistes autogérés. Il n’en tient qu’à vous de les adapter aux besoins et aux contextes divers et changeants de votre centre, au gré de vos activités et de votre programmation.
 
 Si vous relevez une erreur dans ce document, nous vous prions de nous en aviser, afin que nous apportions les correctifs nécessaires.
+
+## **Contact**
+
+Pour toute question, conseil, renseignement, ou feedback, veuillez svp nous écrire à guideargent @ arca.art
 
 ***
 
