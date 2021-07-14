@@ -5,7 +5,7 @@ lang-ref: about
 lang: en
 
 ---
-### [Objective](#objective) \| [Context](#context) \| [Challenges](#challenges) \| [Considerations](#considerations)
+### [Objective](#objective) \| [Context](#context) \| [Challenges](#challenges) \| [Considerations](#considerations) \| [Contact](#contact)
 
 ## **Objective**
 
@@ -31,6 +31,10 @@ For many cultural NFPs, contributions in the form of goods and services (donatio
 * In no instance can this document replace government publications related to sales taxes or the advice of a professional accountant or auditor.
 
 This guide and toolkit have been developed to provide guidelines for managers and administrators responsible for the economic health and growth of small organizations. Great care has been taken to provide accurate information, along with a series of helpful document templates and procedures. Although written and reviewed by professional accountants, this document may not provide all the answers to the laws governing consumer taxes. Any decision to account for non-monetary operations in your organization’s financial statements should first be discussed and negotiated with your auditor, who is ultimately responsible for ensuring compliance with a growing list of accounting norms. The letter, contract, and form templates found in this resource, generously shared by various ARC administrative staff, can readily be adapted to suit the various and changing circumstances encountered at your centre as it carries out its business and programming.
+
+## **Contact**
+
+For questions, insights, information, or feedback, please write to silverguide @ arca.art
 
 ***
 
