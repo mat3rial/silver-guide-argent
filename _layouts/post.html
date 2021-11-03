@@ -16,3 +16,7 @@ layout: default
     {% endif %}
   </div>
 </div>
+<!-- Feedback button -->
+{% if page.permalink contains 'guide' %}
+  {% include feedback_form.html %}
+{% endif %}
