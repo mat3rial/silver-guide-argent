@@ -19,16 +19,23 @@
 }
 
 .feedback-form-wrapper {
-  display: none;
+  // display: none;
   position: fixed;
   z-index: 4000;
-  right: 0;
+  right: -400px;
   height: 100vh;
   top: 0;
   // max-width: 400px;
   width: 400px;
   background-color: white;
   border-left: 1px solid black;
+  overflow: scroll;
+
+  @media (max-width: 600px) {
+    width: 300px;
+    right: -300px;
+  }
+
   h2 {
     margin-top: 0;
     padding: 34px 20px 10px;

@@ -18,13 +18,31 @@ $('#myBtn').on('click', function() {
     $(this).parent().animate({
       right: '-36px'
     }, 400);
+    if (window.innerWidth >= 600) {
+      $('.feedback-form-wrapper').animate({
+        right: '-400px'
+      }, 400)
+    } else {
+      $('.feedback-form-wrapper').animate({
+        right: '-300px'
+      }, 400)
+    }
 
   } else {
-    $(this).parent().animate({
-      right: '364px'
-    }, 400);
+    if (window.innerWidth >= 600) {
+      $(this).parent().animate({
+        right: '364px'
+      }, 400);
+    } else {
+      $(this).parent().animate({
+        right: '264px'
+      }, 400);
+    }
+    $('.feedback-form-wrapper').animate({
+      right: '0px'
+    }, 400)
   }
-  $('.feedback-form-wrapper').toggle('slide');
+  // $('.feedback-form-wrapper').toggle('slide');
   toggleFeedback += 1;
   toggleFeedback %= 2;
 })
