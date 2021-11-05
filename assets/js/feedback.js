@@ -13,7 +13,26 @@ var span = document.getElementsByClassName("close")[0];
 // }
 var toggleFeedback = 0;
 
-$('#myBtn').on('click', function() {
+$(window).on('click', function() {
+  if (toggleFeedback) {
+    $('.feedback-button-wrapper').animate({
+      right: '-36px'
+    }, 400);
+    if (window.innerWidth >= 600) {
+      $('.feedback-form-wrapper').animate({
+        right: '-400px'
+      }, 400)
+    } else {
+      $('.feedback-form-wrapper').animate({
+        right: '-300px'
+      }, 400)
+    }
+    toggleFeedback = 0;
+  }
+})
+
+$('#myBtn').on('click', function(e) {
+  e.stopPropagation();
   if (toggleFeedback) {
     $(this).parent().animate({
       right: '-36px'
