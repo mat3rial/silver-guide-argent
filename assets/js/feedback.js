@@ -12,24 +12,67 @@ var span = document.getElementsByClassName("close")[0];
 //   modal.style.display = "block";
 // }
 var toggleFeedback = 0;
+var mouse_is_inside = false;
 
-$(window).on('click', function() {
-  if (toggleFeedback) {
-    $('.feedback-button-wrapper').animate({
-      right: '-36px'
-    }, 400);
-    if (window.innerWidth >= 600) {
-      $('.feedback-form-wrapper').animate({
-        right: '-400px'
-      }, 400)
-    } else {
-      $('.feedback-form-wrapper').animate({
-        right: '-300px'
-      }, 400)
-    }
-    toggleFeedback = 0;
-  }
+$(document).ready(function() {
+  $('.feedback-form-wrapper, .feedback-button-wrapper').hover(function(){
+        mouse_is_inside=true;
+        console.log('mouse inside');
+    }, function(){
+        mouse_is_inside=false;
+        console.log('mouse not inside');
+    });
+    $("body").mouseup(function(e){
+        if(!mouse_is_inside) {
+          console.log('mouse not inside');
+          console.log(toggleFeedback);
+          if (toggleFeedback) {
+            $('.feedback-button-wrapper').animate({
+              right: '-36px'
+            }, 400);
+            if (window.innerWidth >= 600) {
+              $('.feedback-form-wrapper').animate({
+                right: '-400px'
+              }, 400)
+            } else {
+              $('.feedback-form-wrapper').animate({
+                right: '-300px'
+              }, 400)
+            }
+            toggleFeedback = 0;
+          }
+        }
+    });
 })
+
+// $(document).mouseup(function(e)
+// {
+//     var container = $(".feedback-button-wrapper");
+//
+//     // if the target of the click isn't the container nor a descendant of the container
+//     if (!container.is(e.target) && container.has(e.target).length === 0) {
+//       if (toggleFeedback) {
+//         $('.feedback-button-wrapper').animate({
+//           right: '-36px'
+//         }, 400);
+//         if (window.innerWidth >= 600) {
+//           $('.feedback-form-wrapper').animate({
+//             right: '-400px'
+//           }, 400)
+//         } else {
+//           $('.feedback-form-wrapper').animate({
+//             right: '-300px'
+//           }, 400)
+//         }
+//         toggleFeedback = 0;
+//       }
+//     }
+// });
+
+// $(window).on('click', function(e) {
+//   console.log(e.target);
+//
+// })
 
 $('#myBtn').on('click', function(e) {
   e.stopPropagation();
