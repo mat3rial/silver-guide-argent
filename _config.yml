@@ -20,6 +20,7 @@ plugins:
 en_title: the silver guide to non-monetary transactions
 fr_title: le guide argent des opérations non monétaires
 
+google_analytics:   UA-107286798-1 
 sass:
   sass_dir: assets/css
   style: :nested
