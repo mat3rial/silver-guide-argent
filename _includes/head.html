@@ -37,7 +37,9 @@
     {% endif %}
   {% endif %}
   <!-- Google Analytics -->
-  {% include analytics.html %} 
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include analytics.html %}
+  {% endif %}
   
   
   <script type="application/ld+json">
