@@ -6,16 +6,14 @@ lang: en
 
 ---
 <a href="#1">Why the “Silver Guide”?</a>
-
-
-### [Why account for non-monetary transactions?](#Why-account-for-non-monetary-transactions?)
-### [How to determine the fair market value of non-monetary transactions?](#How-to-determine-the-fair-market-value-of-non-monetary-transactions?) 
+<a href="#2">Why account for non-monetary transactions?</a>
+<a href="#3">How to determine the fair market value of non-monetary transactions?</a>
 
 <a name="1"><strong>Why the “Silver Guide”?</strong></a>
 
 We have selected the shortened title Silver Guide to evoke the notion of money without having to give the full title (The Silver Guide to Non-Monetary Transactions). The title also aims at situating this work within the wider suite of resources produced by ARCA, such as The Grey Guide to Artist-Run Publications and Circulation, as well as those produced by the RCAAQ in its series of red, blue, orange, and green “Petits Guides.”
 
-## **Why account for non-monetary transactions?**
+<a name="2"><strong>Why account for non-monetary transactions?</strong></a>
 
 In most financial arrangements, an organization that requests public funding must report its own contribution to the overall financing of its activities. Typically, funding agencies will finance only part of the organization’s programming and thus usually require that a percentage be obtained via other sources. For example, in the case of an internship or employment program, expenses related to fixed costs (rent, insurance, etc.), supervision, and workstation may be covered under the organization’s core funding. But when, in applying for core funding, an organization is required to demonstrate that a percentage of its overall support comes from other sources, it is assumed that it has access to other levels of public funding, to reduce its dependence on a single agency.
 
@@ -23,7 +21,7 @@ Looking at the funding provided by arts councils at the provincial level, howeve
 
 To bridge such great disparities in provincial (and municipal) funding, some organizations must take advantage of all the opportunities available through their partnerships. Converting non-monetary contributions received into book value can help them reach the percentage required to qualify for funding.
 
-## **How to determine the fair market value of non-monetary transactions?**
+**How to determine the fair market value of non-monetary transactions?**
 
 The fair market value (FMV) of **donated** goods or services is based on the normal sale price established by the donor organization at the time when the goods/services are given.
 
