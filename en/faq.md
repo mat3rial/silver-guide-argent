@@ -11,6 +11,7 @@ lang: en
 <a href="#4">How to record non-monetary transactions in your accounting system?</a><br/>
 <a href="#5">What is the difference between donation and barter of goods and services?</a><br/>
 <a href="#6">What is the difference between a sponsorship and an exchange of services (barter)?</a><br/>
+<a href="#7">How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?</a><br/>
 
 
 
@@ -143,7 +144,21 @@ For more information on accounting for gifts received in the form of goods or se
 
 For each case of volunteer work carried out, it would be wise to check that the type of work performed is covered by your organization’s civil liability insurance or protected by the CNESST (in Quebec) or under another province’s labour standards and workplace health and safety agency.
 
-Please note: only registered charities may issue charitable donation receipts. A donation received by a registered charity must meet certain criteria for such a receipt to be issued. Unfortunately, volunteer support and donations of services do not meet these criteria, unless such a contribution happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. See **section 5.3 of the Silver Guide**.
+Please note: only registered charities may issue charitable donation receipts. A donation received by a <a name="7" style="font-weight:normal;">registered</a> charity must meet certain criteria for such a receipt to be issued. Unfortunately, volunteer support and donations of services do not meet these criteria, unless such a contribution happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. See **section 5.3 of the Silver Guide**.
+
+### How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?
+
+In the case of an event or a program, it is common to negotiate exchanges of services with various partners in return for visibility. This is a sponsorship. It is necessary to offer fair visibility to these sponsoring partners.
+
+It is recommended that the organization establish a visibility plan that functions in progressive stages or packages. Such a plan will permit account recognition of the visibility offered in the context of non-monetary transactions with multiple sponsors. The **visibility plan template** found in the Silver Guide toolbox offers some helpful ideas in this regard.
+
+Consider the fictitious example of an organization that receives free rental of a digital projector for a ten-day event. The fair market value is set at $450. A second sponsor donates a free buffet for the launch, valued at $675. In exchange, both organizations are offered visibility. A visibility plan is established for the event, to be available in packages according to the market value of the contribution: package A, for contributions valued $250–$499; package B, for $500–$999; package C, for $1,000–$1,500, and so on.
+
+According to the proposed plan, the first sponsor will be offered package A, as per the example provided in the visibility plan template.
+
+Remember that FMV valuation is not an exact science and that there are no universal scales. Several methods may be used to establish FMV: the comparison method, the cost method, or valuation by an expert. On this subject, please refer to the above FAQ item <a href="#3">How to determine the fair market value of non-monetary transactions</a>.
+
+
 
 
 
