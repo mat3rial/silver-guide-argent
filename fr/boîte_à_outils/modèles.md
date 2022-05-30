@@ -34,6 +34,8 @@ permalink: "/fr/boîte_à_outils/modèles/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTRE DONATEUR"/>[LETTRE DONATEUR]({{ site.baseurl }}/assets/modèle-fr/lettre_donateur.doc) (.doc)
 
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="PLAN DE VISIBILITÉ"/>[PLAN DE VISIBILITÉ]({{ site.baseurl }}/assets/modèle-fr/PLAN_VISIBILITE_f.docx) (.docx)
+
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REÇUS OFFICIELS DE DONS"/>[REÇUS OFFICIELS DE DONS]({{ site.baseurl }}/assets/modèle-fr/reçu_dons.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REGISTRE BÉNÉVOLES"/>[REGISTRE BÉNÉVOLES]({{ site.baseurl }}/assets/mod&#232;le-fr/registre_b&#233;n&#233;voles.xls) (.xls)
