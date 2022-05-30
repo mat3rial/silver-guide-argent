@@ -12,6 +12,8 @@ lang: en
 <a href="#5">What is the difference between <a name="1">donation</a> and barter of goods and services?</a><br/>
 <a href="#6">What is the difference between a sponsorship and an exchange of services (barter)?</a><br/>
 <a href="#7">How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?</a><br/>
+<a href="#8">Is it necessary to produce documentary evidence of a non-monetary transaction?</a><br/>
+
 
 
 
@@ -156,7 +158,23 @@ Consider the fictitious example of an organization that receives free rental of 
 
 According to the proposed plan, the first sponsor will be offered package A, as per the example provided in the visibility plan template.
 
-Remember that FMV valuation is not an exact science and that there are no universal scales. Several methods may be used to establish FMV: the comparison method, the cost method, or valuation by an expert. On this subject, please refer to the above FAQ item <a href="#3">How to determine the fair market value of non-monetary transactions</a>.
+<a name="8" style="font-weight:normal;">Remember</a> that FMV valuation is not an exact science and that there are no universal scales. Several methods may be used to establish FMV: the comparison method, the cost method, or valuation by an expert. On this subject, please refer to the above FAQ item <a href="#3">How to determine the fair market value of non-monetary transactions</a>.
+
+### Is it necessary to produce documentary evidence of a non-monetary transaction?
+
+For purposes of reporting, accounting, and tax audits, documentation is required to certify any non-monetary transaction recorded in the financial statements.
+
+Usually, the FMV of a good or service received is determined by the party making the donation, based on the sale price normally paid by their customers and partners. See **section 3.1** of the Silver Guide: “Evaluation of the exchange.”
+
+It is important to note that persons or organizations that offer donations of goods or services do so to contribute to a project or cause. Demanding an invoice or contract may create additional work for the donor, and could even discourage the donation.
+
+In order to avoid creating problematic situations, it is advised that the organization receiving the donation offer to assume responsibility for documenting the non-monetary transaction, and complete the paperwork on the donor’s behalf.
+
+In addition to doing your donor a favour, you also ensure that you have the documents required for your accounting—a practice worth adopting!
+
+For further reading, see **section 3.2** of the Silver Guide: “Letter of agreement or contract.”
+A **template donation receipt** (as distinguished from a charitable donation receipt) may also be found in the Silver Guide toolbox.
+
 
 
 
