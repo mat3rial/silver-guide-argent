@@ -16,8 +16,6 @@ lang: en
 <a href="#9">How can we calculate the value of the services provided by an organization to its members?</a><br/>
 <a href="#10">What about the FMV of an artwork donated for auction?</a><br/>
 
-
-
 ### Why the “Silver Guide”?
 
 <a name="2" style="font-weight:normal;">We</a> have selected the shortened title Silver Guide to evoke the notion of money without having to give the full title (The Silver Guide to Non-Monetary Transactions). The title also aims at situating this work within the wider suite of resources produced by ARCA, such as The Grey Guide to Artist-Run Publications and Circulation, as well as those produced by the RCAAQ in its series of red, blue, orange, and green “Petits Guides.”
@@ -48,14 +46,14 @@ Parties engaged in a non-monetary transaction must be able to justify their valu
 
 Below are three methods that can guide you in this process.
 
-***Comparison Method***
+**_Comparison Method_**
 This method is based on transactions of comparable goods or services. To be considered as comparable, transactions must be carried out in a similar sector of activity, under similar socio-geographical conditions, and at a relatively recent date.
 
 For example, the price of a donated good or service may be compared against prices in requested quotations, against earlier purchases, or by comparing with prices offered by competitors in the same sector of activity. The method of comparison must also be contextualized, as this may vary even within the same sector.
 
 In this regard, factors that may influence FMV may include notoriety in the case of an exchange with a highly visible event with extensive media coverage and documented attendance statistics, or scarcity such as an artwork or other collectible item.
 
-***Cost Method***
+**_Cost Method_**
 This method is based on the cost of a good or service (i.e., the cost of its manufacture).
 
 In the case of goods, this method involves determining the replacement cost as of the current date, under the assumption that the actual cost reflects the market cost (i.e., the FMV). This method is similar to those used by insurance companies to determine the replacement cost of goods.
@@ -64,7 +62,7 @@ In the case of services, all indirect expenses incurred in the provision of the 
 
 It may be the case that the estimated cost ends up being higher than the market price. For example, if the cost of renting a gallery space was $5,000 per month, even as an equivalent space was available on the market for $2,000, the FMV may be reasonably justified by what is or is not included (e.g., technicians, bar service, caretaker, <a name="4" style="font-weight:normal;">insurance</a>, furniture, equipment, etc.).
 
-***Expert Evaluation***
+**_Expert Evaluation_**
 In cases of extraordinary or luxury assets (e.g., land, buildings, collectibles, works of art), it may be appropriate to call upon an independent professional third party. You can also set up a committee of experts or peers who can establish evaluation criteria.
 
 ### How to record non-monetary transactions in your accounting system?
@@ -85,26 +83,26 @@ In order to represent financial information accurately in the financial statemen
 As for **expenses**, these may be presented separately or incorporated into the existing statement of accounts, depending on your organization’s practices. Your CPA can help you with such accounting operations.
 
 Using the example of the ink cartridge gift, the account post would look like this:
-*Expenses: In-kind or office supplies* – Debit (DT) $175
-*Revenues: Sponsorship and service exchange* – Credit (CT) $175
+_Expenses: In-kind or office supplies_ – Debit (DT) $175
+_Revenues: Sponsorship and service exchange_ – Credit (CT) $175
 
 The principle is the same for bartered services. An amount corresponding to the FMV must be posted in a revenue line and, symmetrically, in an expense line.
 
 For example, a partner lends you a digital projector free of charge for a ten-day event—a service worth $450. In exchange, this partner will be offered visibility of an equivalent market value.
 
 For this sponsorship, the accounting entry would look like this:
-*Expenses: Marketing sponsorship and exchange* – DT $450
-*Revenues: Sponsorship and service exchange* – CT $450
+_Expenses: Marketing sponsorship and exchange_ – DT $450
+_Revenues: Sponsorship and service exchange_ – CT $450
 
 Another example: let’s say you rent a space for an event, agreeing to a discount in exchange for visibility. The market value of the rental is $700, but you are offered a discount of $300 in exchange for visibility on your social networks.
 
 Here’s how the accounting entry for this rebate would look:
-*Expenses: Space rental* – DT $700
-*Revenues: sponsorship and service exchange* – <a name="5" style="font-weight:normal;">CT $300</a>
+_Expenses: Space rental_ – DT $700
+_Revenues: sponsorship and service exchange_ – <a name="5" style="font-weight:normal;">CT $300</a>
 
 Accordingly, the cost to your organization would be $400.
 
-### What is the difference between donation and barter of goods and services? 
+### What is the difference between donation and barter of goods and services?
 
 Bartered goods or services are commercial transactions between two parties and are therefore subject to taxes (if the organization is registered for taxes). Fiscally speaking, however, donations are not a taxable supply and are therefore not subject to taxes.
 
@@ -129,13 +127,13 @@ Commercial transactions can also take the form of a discount in return for visib
 Many people volunteer with non-profit organizations. Can we account for volunteering as a donation? Before you do anything else, please consult <a href="{{site.baseurl}}/en/guide/2-rules-to-follow/">section 2 of the Silver Guide: “Accounting for contributions received in the form of goods or services.”</a>
 
 In accordance with accounting standards for non-profit organizations, if an organization accounts for volunteer contributions in its financial statements, it must ensure that three criteria are met:
-\1. The fair market value (see the <a href="{{site.baseurl}}/en/toolkit/glossary/">Silver Guide glossary</a>) of these contributions can be reasonably estimated;
-\2. The goods and services received are used for operational purposes;
-\3. The goods and services received are of a kind that the organization would have otherwise purchased.
+\\1. The fair market value (see the <a href="{{site.baseurl}}/en/toolkit/glossary/">Silver Guide glossary</a>) of these contributions can be reasonably estimated;
+\\2. The goods and services received are used for operational purposes;
+\\3. The goods and services received are of a kind that the organization would have otherwise purchased.
 
 In general, volunteer labour is not recorded in an organization’s revenues and expenses, for two reasons:
-\1. Evaluating its fair value is too difficult;
-\2. The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.
+\\1. Evaluating its fair value is too difficult;
+\\2. The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.
 
 However, such information can be included in the notes to the financial statements.
 
@@ -153,7 +151,7 @@ Please note: only registered charities may issue charitable donation receipts. A
 
 In the case of an event or a program, it is common to negotiate exchanges of services with various partners in return for visibility. This is a sponsorship. It is necessary to offer fair visibility to these sponsoring partners.
 
-It is recommended that the organization establish a visibility plan that functions in progressive stages or packages. Such a plan will permit account recognition of the visibility offered in the context of non-monetary transactions with multiple sponsors. The **visibility plan template** found in the Silver Guide toolbox offers some helpful ideas in this regard.
+It is recommended that the organization establish a visibility plan that functions in progressive stages or packages. Such a plan will permit account recognition of the visibility offered in the context of non-monetary transactions with multiple sponsors. The \[visibility plan template({{ site.baseurl }}/assets/template-en/PLAN_VISIBILITY_e.docx) found in the Silver Guide toolbox offers some helpful ideas in this regard.
 
 Consider the fictitious example of an organization that receives free rental of a digital projector for a ten-day event. The fair market value is set at $450. A second sponsor donates a free buffet for the launch, valued at $675. In exchange, both organizations are offered visibility. A visibility plan is established for the event, to be available in packages according to the market value of the contribution: package A, for contributions valued $250–$499; package B, for $500–$999; package C, for $1,000–$1,500, and so on.
 
