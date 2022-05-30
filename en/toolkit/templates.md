@@ -34,6 +34,8 @@ permalink: "/en/toolkit/templates/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="SPONSORSHIP LETTER"/>[SPONSORSHIP LETTER]({{ site.baseurl }}/assets/template-en/sponsorship_letter.doc) (.doc)
 
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="VISIBILITY PLAN"/>[VISIBILITY PLAN]({{ site.baseurl }}/assets/template-en/PLAN_VISIBILITY_e.docx) (.docx)
+
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="VOLUNTEER REGISTRY"/>[VOLUNTEER REGISTRY]({{ site.baseurl }}/assets/template-en/registry_volunteer.xls) (.xls)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="WAIVED FEE"/>[WAIVED FEE]({{ site.baseurl }}/assets/template-en/waived_Fee.doc) (.doc)
