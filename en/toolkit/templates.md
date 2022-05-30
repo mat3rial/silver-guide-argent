@@ -16,7 +16,7 @@ permalink: "/en/toolkit/templates/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="ARTIST CONTRACT DONATION"/>[ARTIST CONTRACT DONATION]({{ site.baseurl }}/assets/template-en/contract_artist_donations.doc) (.doc)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="DONATION RECEIPT"/>[DONATION RECEIPT]({{ site.baseurl }}/assets/template-en/MODEL_RECEIPT_DONATION_e.dox) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="DONATION RECEIPT"/>[DONATION RECEIPT]({{ site.baseurl }}/assets/template-en/MODEL_RECEIPT_DONATION_e.docx) (.docx)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FAQ FOR ART DONORS"/>[FAQ FOR ART DONORS]({{ site.baseurl }}/assets/template-en/FAQ_art_donors.doc) (.doc)
 
