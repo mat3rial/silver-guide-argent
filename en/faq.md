@@ -69,7 +69,7 @@ In cases of extraordinary or luxury assets (e.g., land, buildings, collectibles,
 
 ### How to record non-monetary transactions in your accounting system?
 
-Please consult **section 3 of the Silver Guide** to determine in advance whether the value of non-monetary transactions relating to goods or services can be recorded in your financial statements. If it can, please continue reading.
+Please consult <a href="{{site.baseurl}}/en/guide/3-accounting-non-monetary-exchanges/">section 3 of the Silver Guide</a> to determine in advance whether the value of non-monetary transactions relating to goods or services can be recorded in your financial statements. If it can, please continue reading.
 
 For all organizations and businesses, revenues and expenses for the fiscal year must appear in the financial statements, in the “statement of operations” document. Subtracting the expenses from the revenues will yield either a deficit or a surplus (also called a profit).
 
