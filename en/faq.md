@@ -9,6 +9,8 @@ lang: en
 <a href="#2">Why account for non-monetary transactions?</a><br/>
 <a href="#3">How to determine the fair market value of non-monetary transactions?</a><br/>
 <a href="#4">How to record non-monetary transactions in your accounting system?</a><br/>
+<a href="#5">What is the difference between donation and barter of goods and services?</a><br/>
+
 
 **Why the “Silver Guide”?**
 
@@ -61,18 +63,51 @@ In cases of extraordinary or luxury assets (e.g., land, buildings, collectibles,
 
 **How to record non-monetary transactions in your accounting system?**
 
-Please consult section 3 of the Silver Guide to determine in advance whether the value of non-monetary transactions relating to goods or services can be recorded in your financial statements. If it can, please continue reading.
+Please consult **section 3 of the Silver Guide** to determine in advance whether the value of non-monetary transactions relating to goods or services can be recorded in your financial statements. If it can, please continue reading.
 
 For all organizations and businesses, revenues and expenses for the fiscal year must appear in the financial statements, in the “statement of operations” document. Subtracting the expenses from the revenues will yield either a deficit or a surplus (also called a profit).
 
-In cases of non-monetary transactions of goods or services received as gifts or via barter, it is important to properly record these in the financial statements so as not to generate a false profit or a false deficit.
+In cases of non-monetary transactions of goods or services received as gifts or via barter, it is important to properly record these in the financial statements so as not to generate a **false profit** or a **false deficit**.
 
 For example, suppose your organization receives a printer ink cartridge for free, with a market value of $175. The FMV of such a good or service received constitutes a revenue.
 When recording this non-monetary transaction in the accounting system, the $175 should therefore be recorded in a revenue line item. The organization does not hold the $175 in cash: it is simply the market value of the ink cartridge. Further, by the fiscal year-end, the ink cartridge has been used and is empty.
 
-It is important to remember that the third requirement when accounting for a gift is that it be something that the organization would otherwise have had to purchase (see section 2 of the Silver Guide). It is therefore an office supply expense that is covered, in this example, by receipt of the free cartridge. For this reason, it is important also to enter the market value of the ink cartridge in an expense line item, in return for the donation received. Thus, through the symmetry of the accounting system, the false profit effect is cancelled out.
+It is important to remember that the third requirement when accounting for a gift is that it be something that the organization would otherwise have had to purchase (**see section 2 of the Silver Guide**). It is therefore an office supply expense that is covered, in this example, by receipt of the free cartridge. For this reason, it is important also to enter the market value of the ink cartridge in an expense line item, in return for the donation received. Thus, through the symmetry of the accounting system, the false profit effect is cancelled out.
 
-In order to represent financial information accurately in the financial statements, and to follow accounting standards, revenue items must be presented separately under appropriate categories, such as sponsorships and bartered services, non-monetary transactions, or in-kind contributions.
+In order to represent financial information accurately in the financial statements, and to follow accounting standards, revenue items must be presented separately under appropriate categories, such as **sponsorships and bartered services, non-monetary transactions**, or **in-kind contributions**.
 
-As for expenses, these may be presented separately or incorporated into the existing statement of accounts, depending on your organization’s practices. Your CPA can help you with such accounting operations.
+As for **expenses**, these may be presented separately or incorporated into the existing statement of accounts, depending on your organization’s practices. Your CPA can help you with such accounting operations.
+
+Using the example of the ink cartridge gift, the account post would look like this:
+*Expenses: In-kind or office supplies* – Debit (DT) $175
+*Revenues: Sponsorship and service exchange* – Credit (CT) $175
+
+The principle is the same for bartered services. An amount corresponding to the FMV must be posted in a revenue line and, symmetrically, in an expense line.
+
+For example, a partner lends you a digital projector free of charge for a ten-day event—a service worth $450. In exchange, this partner will be offered visibility of an equivalent market value.
+
+For this sponsorship, the accounting entry would look like this:
+*Expenses: Marketing sponsorship and exchange* – DT $450
+*Revenues: Sponsorship and service exchange* – CT $450
+
+Another example: let’s say you rent a space for an event, agreeing to a discount in exchange for visibility. The market value of the rental is $700, but you are offered a discount of $300 in exchange for visibility on your social <a name="5" style="font-weight:normal;">networks</a>.
+
+Here’s how the accounting entry for this rebate would look:
+*Expenses: Space rental* – DT $700
+*Revenues: sponsorship and service exchange* – CT $300
+
+Accordingly, the cost to your organization would be $400.
+
+**What is the difference between donation and barter of goods and services?**
+
+Bartered goods or services are commercial transactions between two parties and are therefore subject to taxes (if the organization is registered for taxes). Fiscally speaking, however, donations are not a taxable supply and are therefore not subject to taxes.
+
+To learn more about donations, see section 2 of the Silver Guide.
+
+Only a registered charity may issue a charitable donation receipt for cash donations, donations of property, or donations of artwork. A donation of services does not qualify for such a receipt unless the donation happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. On this matter, see section 5.3 of the Silver Guide.
+
+Non-profit organizations that are not registered charities may still receive donations of cash or of goods or services, but they are not allowed to issue charitable donation receipts. To learn more about charities, see section 5 of the Silver Guide.
+
+
+
 
