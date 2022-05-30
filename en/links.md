@@ -30,3 +30,4 @@ The following resources were consulted for the development of this document.
 **Statistics Canada. Table 14-10-0206-01 Average hourly earnings for employees paid by the hour, by industry, annual**
 
 > <a href="https://doi.org/10.25318/1410020601-eng" class="external" target="_blank" title="Statistics Canada. Table 14-10-0206-01 Average hourly earnings for employees paid by the hour, by industry, annual">https://doi.org/10.25318/1410020601-eng</a>
+
