@@ -18,7 +18,7 @@ lang: en
 
 <a name="2" style="font-weight:normal;">We</a> have selected the shortened title Silver Guide to evoke the notion of money without having to give the full title (The Silver Guide to Non-Monetary Transactions). The title also aims at situating this work within the wider suite of resources produced by ARCA, such as The Grey Guide to Artist-Run Publications and Circulation, as well as those produced by the RCAAQ in its series of red, blue, orange, and green “Petits Guides.”
 
-**Why account for non-monetary transactions?**
+### Why account for non-monetary transactions?
 
 In most financial arrangements, an organization that requests public funding must report its own contribution to the overall financing of its activities. Typically, funding agencies will finance only part of the organization’s programming and thus usually require that a percentage be obtained via other sources. For example, in the case of an internship or employment program, expenses related to fixed costs (rent, insurance, etc.), supervision, and workstation may be covered under the organization’s core funding. But when, in applying for core funding, an organization is required to demonstrate that a percentage of its overall support comes from other sources, it is assumed that it has access to other levels of public funding, to reduce its dependence on a single agency.
 
@@ -26,7 +26,7 @@ Looking at the funding provided by arts councils at the provincial level, howeve
 
 To bridge such great disparities in provincial (and municipal) funding, some organizations must take advantage of all the opportunities available through their partnerships. Converting non-monetary contributions received into book value can help them reach the percentage required to qualify for funding.
 
-**How to determine the fair market value of non-monetary transactions?**
+### How to determine the fair market value of non-monetary transactions?
 
 The fair market value (FMV) of **donated** goods or services is based on the normal sale price established by the donor organization at the time when the goods/services are given.
 
@@ -63,7 +63,7 @@ It may be the case that the estimated cost ends up being higher than the market 
 ***Expert Evaluation***
 In cases of extraordinary or luxury assets (e.g., land, buildings, collectibles, works of art), it may be appropriate to call upon an independent professional third party. You can also set up a committee of experts or peers who can establish evaluation criteria.
 
-**How to record non-monetary transactions in your accounting system?**
+### How to record non-monetary transactions in your accounting system?
 
 Please consult **section 3 of the Silver Guide** to determine in advance whether the value of non-monetary transactions relating to goods or services can be recorded in your financial statements. If it can, please continue reading.
 
@@ -119,6 +119,32 @@ A sponsorship is a donation of money, goods, or services in exchange for promoti
 The exchange of services is a commercial transaction between two parties. Technically, the transaction is counted as a reciprocal sale, but instead of exchanging money, it can be an exchange of goods or services of equivalent value. In terms of consumer tax, the exchange of services is a taxable supply and taxes apply for parties registered for taxes. For more information, see **section 4 of the Silver Guide**.
 
 Commercial transactions can also take the form of a discount in return for visibility, or even an invoice discount in exchange for services. In these cases, it is important to determine if consumer taxes apply, depending on whether or not your organization is registered for taxes. For more information, see **section 4.1 of the Silver Guide**.
+
+**What is the difference between a donation and a volunteer contribution?**
+
+Many people volunteer with non-profit organizations. Can we account for volunteering as a donation? Before you do anything else, please consult **section 2 of the Silver Guide**: “Accounting for contributions received in the form of goods or services.”
+
+In accordance with accounting standards for non-profit organizations, if an organization accounts for volunteer contributions in its financial statements, it must ensure that three criteria are met:
+\1. The fair market value (see the **Silver Guide glossary**) of these contributions can be reasonably estimated;
+\2. The goods and services received are used for operational purposes;
+\3. The goods and services received are of a kind that the organization would have otherwise purchased.
+
+In general, volunteer labour is not recorded in an organization’s revenues and expenses, for two reasons:
+\1. Evaluating its fair value is too difficult;
+\2. The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.
+
+However, such information can be included in the notes to the financial statements.
+
+For an example of a note to the financial statements, see **section 2.2 of the Silver Guide**. For a sample volunteer tracking tool, see the **volunteer registry template** in the Silver Guide toolkit.
+
+Otherwise, if the organization receives donations or services—for example, office work performed free of charge by a professional—and if, had it not been for this donation, the organization would nonetheless have purchased these services, it may be accounted for as a donation received in the form of services.
+
+For more information on accounting for gifts received in the form of goods or services, see **section 2.1.2 of the Silver Guide**.
+
+For each case of volunteer work carried out, it would be wise to check that the type of work performed is covered by your organization’s civil liability insurance or protected by the CNESST (in Quebec) or under another province’s labour standards and workplace health and safety agency.
+
+Please note: only registered charities may issue charitable donation receipts. A donation received by a registered charity must meet certain criteria for such a receipt to be issued. Unfortunately, volunteer support and donations of services do not meet these criteria, unless such a contribution happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. See **section 5.3 of the Silver Guide**.
+
 
 
 
