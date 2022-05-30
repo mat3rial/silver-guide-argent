@@ -23,6 +23,8 @@ lang: en
 
 **Advisory committee:** Linda Gorrie, Business Manager, grunt, and Operations Controller, VIFF, Vancouver; Emma Hendrix, Executive Director, VideoPool, and artist, Winnipeg; Dana Kletke, Co-Executive Director, Mentoring Artists for Women's Art (MAWA), Winnipeg; Debbie Keeper, Administrative Assistant, Urban Shaman, Winnipeg; Tam-Ca Vo-Van, Director, SAW Gallery, Ottawa; Yuraś Mourog, Administrative Director, OBORO, Montreal; Emmanuel Madan, National Director, Independent Media Arts Alliance (IMAA).
 
+**Contributed to the FAQ:** Lawrence Hagg, Administrative Coordinator, Verticale centre d'artistes, Laval; Sylvette Babin, Editor, Esse arts + opinions, Montreal; Michelle Lacombe, Director, Viva! Action Art, Montreal; Annie France Noël, Artistic and Administrative Director, Galerie Sans Nom, Moncton; Christine Comeau, Director, Atelier Imago, Moncton; Boris Dumesnil-Poulin, Executive Director, Le Centre de production en art actuel TOUTTOUT, Chicoutimi. 
+
 **Special thanks** to project partner Emmanuel Madan of IMAA; Julie Picard, artist/accountant for her input at the outset of the project; Dana Kletke of MAWA and Claudine Roger of VOX for their generous donation of documents; and  Chantale Beaudoin, of the Association de parents de l’enfance en difficulté, for her input on developing procedures.
 
 This project has been made possible in part by the Government of Canada.
