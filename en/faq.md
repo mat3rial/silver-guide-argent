@@ -5,11 +5,11 @@ lang-ref: faq
 lang: en
 
 ---
-<strong>Why the “Silver Guide”?</strong><br/>
+<a href="#1">Why the “Silver Guide”?</a><br/>
 <a href="#2">Why account for non-monetary transactions?</a><br/>
 <a href="#3">How to determine the fair market value of non-monetary transactions?</a><br/>
 <a href="#4">How to record non-monetary transactions in your accounting system?</a><br/>
-<a href="#5">What is the difference between donation and barter of goods and services?</a><br/>
+<a href="#5">What is the difference between <a name="1" style="font-weight:normal;">donation</a> and barter of goods and services?</a><br/>
 <a href="#6">What is the difference between a sponsorship and an exchange of services (barter)?</a><br/>
 <a href="#7">How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?</a><br/>
 
