@@ -8,6 +8,7 @@ lang: en
 <strong>Why the “Silver Guide”?</strong><br/>
 <a href="#2">Why account for non-monetary transactions?</a><br/>
 <a href="#3">How to determine the fair market value of non-monetary transactions?</a><br/>
+<a href="#4">How to record non-monetary transactions in your accounting system?</a><br/>
 
 **Why the “Silver Guide”?**
 
@@ -53,7 +54,25 @@ In the case of goods, this method involves determining the replacement cost as o
 
 In the case of services, all indirect expenses incurred in the provision of the service must be taken into consideration (e.g., management costs, salaries or fees, telecom or utility costs, insurance, etc.). Evaluation of these indirect expenses makes it possible to estimate the true cost of the service and to evaluate that cost against market rates.
 
-It may be the case that the estimated cost ends up being higher than the market price. For example, if the cost of renting a gallery space was $5,000 per month, even as an equivalent space was available on the market for $2,000, the FMV may be reasonably justified by what is or is not included (e.g., technicians, bar service, caretaker, insurance, furniture, equipment, etc.).
+It may be the case that the estimated cost ends up being higher than the market price. For example, if the cost of renting a gallery space was $5,000 per month, even as an equivalent space was available on the market for $2,000, the FMV may be reasonably justified by what is or is not included (e.g., technicians, bar service, caretaker, <a name="4" style="font-weight:normal;">insurance</a>, furniture, equipment, etc.).
 
 ***Expert Evaluation***
 In cases of extraordinary or luxury assets (e.g., land, buildings, collectibles, works of art), it may be appropriate to call upon an independent professional third party. You can also set up a committee of experts or peers who can establish evaluation criteria.
+
+**How to record non-monetary transactions in your accounting system?**
+
+Please consult section 3 of the Silver Guide to determine in advance whether the value of non-monetary transactions relating to goods or services can be recorded in your financial statements. If it can, please continue reading.
+
+For all organizations and businesses, revenues and expenses for the fiscal year must appear in the financial statements, in the “statement of operations” document. Subtracting the expenses from the revenues will yield either a deficit or a surplus (also called a profit).
+
+In cases of non-monetary transactions of goods or services received as gifts or via barter, it is important to properly record these in the financial statements so as not to generate a false profit or a false deficit.
+
+For example, suppose your organization receives a printer ink cartridge for free, with a market value of $175. The FMV of such a good or service received constitutes a revenue.
+When recording this non-monetary transaction in the accounting system, the $175 should therefore be recorded in a revenue line item. The organization does not hold the $175 in cash: it is simply the market value of the ink cartridge. Further, by the fiscal year-end, the ink cartridge has been used and is empty.
+
+It is important to remember that the third requirement when accounting for a gift is that it be something that the organization would otherwise have had to purchase (see section 2 of the Silver Guide). It is therefore an office supply expense that is covered, in this example, by receipt of the free cartridge. For this reason, it is important also to enter the market value of the ink cartridge in an expense line item, in return for the donation received. Thus, through the symmetry of the accounting system, the false profit effect is cancelled out.
+
+In order to represent financial information accurately in the financial statements, and to follow accounting standards, revenue items must be presented separately under appropriate categories, such as sponsorships and bartered services, non-monetary transactions, or in-kind contributions.
+
+As for expenses, these may be presented separately or incorporated into the existing statement of accounts, depending on your organization’s practices. Your CPA can help you with such accounting operations.
+
