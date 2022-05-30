@@ -108,7 +108,7 @@ Accordingly, the cost to your organization would be $400.
 
 Bartered goods or services are commercial transactions between two parties and are therefore subject to taxes (if the organization is registered for taxes). Fiscally speaking, however, donations are not a taxable supply and are therefore not subject to taxes.
 
-To learn more about donations, see **section 2 of the Silver Guide**.
+To learn more about donations, see <a href="{{site.baseurl}}/en/guide/2-rules-to-follow/">section 2 of the Silver Guide</a>.
 
 Only a registered charity may issue a charitable donation receipt for cash donations, donations of property, or donations of artwork. A donation of services does not qualify for such a receipt unless the donation happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. On this matter, see <a href="{{site.baseurl}}/en/guide/5_3-donation-of-services/">section 5.3 of the Silver Guide</a>.
 
