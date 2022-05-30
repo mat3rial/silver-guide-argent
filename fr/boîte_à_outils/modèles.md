@@ -36,6 +36,8 @@ permalink: "/fr/boîte_à_outils/modèles/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="PLAN DE VISIBILITÉ"/>[PLAN DE VISIBILITÉ]({{ site.baseurl }}/assets/modèle-fr/PLAN_VISIBILITE_f.docx) (.docx)
 
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REÇUS OFFICIELS DE DONS"/>[REÇUS OFFICIELS DE DONS]({{ site.baseurl }}/assets/modèle-fr/reçu_dons.doc) (.doc)
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REÇU DE DON"/>[REÇU DE DON]({{ site.baseurl }}/assets/modèle-fr/MODELE_RECU_DON_f.docx) (.docx)
+
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REÇU OFFICIEL DE DON"/>[REÇU OFFICIEL DE DON]({{ site.baseurl }}/assets/modèle-fr/reçu_dons.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="REGISTRE BÉNÉVOLES"/>[REGISTRE BÉNÉVOLES]({{ site.baseurl }}/assets/mod&#232;le-fr/registre_b&#233;n&#233;voles.xls) (.xls)
