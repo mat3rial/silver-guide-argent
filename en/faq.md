@@ -137,7 +137,7 @@ In general, volunteer labour is not recorded in an organization’s revenues and
 
 However, such information can be included in the notes to the financial statements.
 
-For an example of a note to the financial statements, see <a href="{{site.baseurl}}/en/guide/2_2-presentation-financial-statements/">section 2.2 of the Silver Guide</a>. For a sample volunteer tracking tool, see the **volunteer registry template** in the Silver Guide toolkit.
+For an example of a note to the financial statements, see <a href="{{site.baseurl}}/en/guide/2_2-presentation-financial-statements/">section 2.2 of the Silver Guide</a>. For a sample volunteer tracking tool, see the [volunteer registry template]({{ site.baseurl }}/assets/template-en/registry_volunteer.xls)  in the Silver Guide toolkit.
 
 Otherwise, if the organization receives donations or services—for example, office work performed free of charge by a professional—and if, had it not been for this donation, the organization would nonetheless have purchased these services, it may be accounted for as a donation received in the form of services.
 
