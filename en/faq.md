@@ -13,6 +13,7 @@ lang: en
 <a href="#6">What is the difference between a sponsorship and an exchange of services (barter)?</a><br/>
 <a href="#7">How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?</a><br/>
 <a href="#8">Is it necessary to produce documentary evidence of a non-monetary transaction?</a><br/>
+<a href="#9">How can we calculate the value of the services provided by an organization to its members?</a><br/>
 
 
 ### Why the “Silver Guide”?
@@ -170,9 +171,16 @@ In order to avoid creating problematic situations, it is advised that the organi
 
 In addition to doing your donor a favour, you also ensure that you have the documents required for your accounting—a practice worth adopting!
 
-For further reading, see **section 3.2** of the Silver Guide: “Letter of agreement or contract.”
+<a name="9" style="font-weight:normal;">For</a> further reading, see **section 3.2** of the Silver Guide: “Letter of agreement or contract.”
 A **template donation receipt** (as distinguished from a charitable donation receipt) may also be found in the Silver Guide toolbox.
 
+### How can we calculate the value of the services provided by an organization to its members?
+
+Some organizations offer benefits to their members: freebies, discounts, or access to certain services such as a documentation centre or specialized equipment. These are member privileges.
+
+To become a member, a person must pay annual dues according to the organization’s regulations. It is reasonable to assume that in a non-profit organization, the market value of the services and equipment offered is well in excess of these annual dues. As such, the organization expends more money than what it receives from its members. In essence, grants and other earned revenues fund the services offered to members.
+
+For this reason, accounting for the market value of member services against the annual dues in the financial statements is not recommended. This is not a non-monetary transaction per se.
 
 
 
