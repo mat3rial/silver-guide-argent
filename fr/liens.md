@@ -30,3 +30,7 @@ Les ressources suivantes ont été consultées dans le cadre de la rédaction de
 **Marylie Loiselle (2011) avec mise à jour (janvier 2014): APSV comptables professionnels agréés inc., Taxe à la consommation au Québec : règles générales applicables aux organismes sans but lucratif du milieu des arts et de la culture, HEC Montréal, 2014**
 
 > <a class="external" href="{{site.baseurl}}/assets/Q_Taxes_consommation-Organismes_but_non_lucratif-mise-a-jour-janvier-2014-par-APSV.pdf" target="_blank">Taxe à la consommation au Québec : règles générales applicables aux organismes sans but lucratif du milieu des arts et de la culture</a>
+
+**Statistique Canada. Tableau 14-10-0206-01 Rémunération horaire moyenne des salariés rémunérés à l'heure, selon l'industrie, données annuelles**
+
+> <a href="https://doi.org/10.25318/1410020601-fra" title ="Statistique Canada. Tableau 14-10-0206-01 Rémunération horaire moyenne des salariés rémunérés à l'heure, selon l'industrie, données annuelles" target="_blank">https://doi.org/10.25318/1410020601-fra</a>
