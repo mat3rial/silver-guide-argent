@@ -33,4 +33,4 @@ Les ressources suivantes ont été consultées dans le cadre de la rédaction de
 
 **Statistique Canada. Tableau 14-10-0206-01 Rémunération horaire moyenne des salariés rémunérés à l'heure, selon l'industrie, données annuelles**
 
-> <a href="https://doi.org/10.25318/1410020601-fra" title ="Statistique Canada. Tableau 14-10-0206-01 Rémunération horaire moyenne des salariés rémunérés à l'heure, selon l'industrie, données annuelles" target="_blank">https://doi.org/10.25318/1410020601-fra</a>
+> <a href="https://doi.org/10.25318/1410020601-fra" class="external" target="_blank" title="Statistique Canada. Tableau 14-10-0206-01 Rémunération horaire moyenne des salariés rémunérés à l'heure, selon l'industrie, données annuelles">https://doi.org/10.25318/1410020601-fra</a>
