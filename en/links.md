@@ -27,3 +27,6 @@ The following resources were consulted for the development of this document.
 
 > <a href="https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081/gst-hst-information-non-profit-organizations.html#P352_34663" class="external" target="_blank" title="GST/HST Information for Non-Profit Organizations: Sponsorships">https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4081/gst-hst-information-non-profit-organizations.html#P352_34663</a>
 
+**Statistics Canada. Table 14-10-0206-01 Average hourly earnings for employees paid by the hour, by industry, annual**
+
+> <a href="https://doi.org/10.25318/1410020601-eng" class="external" target="_blank" title="GST/HST Information for Non-Profit Organizations: Sponsorships">https://doi.org/10.25318/1410020601-eng</a>
