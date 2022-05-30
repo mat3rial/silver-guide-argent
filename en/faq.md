@@ -36,7 +36,6 @@ Parties engaged in a non-monetary transaction must be able to justify their valu
 Below are three methods that can guide you in this process.
 
 ***Comparison Method***
-
 This method is based on transactions of comparable goods or services. To be considered as comparable, transactions must be carried out in a similar sector of activity, under similar socio-geographical conditions, and at a relatively recent date.
 
 For example, the price of a donated good or service may be compared against prices in requested quotations, against earlier purchases, or by comparing with prices offered by competitors in the same sector of activity. The method of comparison must also be contextualized, as this may vary even within the same sector.
@@ -44,7 +43,6 @@ For example, the price of a donated good or service may be compared against pric
 In this regard, factors that may influence FMV may include notoriety in the case of an exchange with a highly visible event with extensive media coverage and documented attendance statistics, or scarcity such as an artwork or other collectible item.
 
 ***Cost Method***
-
 This method is based on the cost of a good or service (i.e., the cost of its manufacture).
 
 In the case of goods, this method involves determining the replacement cost as of the current date, under the assumption that the actual cost reflects the market cost (i.e., the FMV). This method is similar to those used by insurance companies to determine the replacement cost of goods.
@@ -54,6 +52,5 @@ In the case of services, all indirect expenses incurred in the provision of the 
 It may be the case that the estimated cost ends up being higher than the market price. For example, if the cost of renting a gallery space was $5,000 per month, even as an equivalent space was available on the market for $2,000, the FMV may be reasonably justified by what is or is not included (e.g., technicians, bar service, caretaker, insurance, furniture, equipment, etc.).
 
 ***Expert Evaluation***
-
 In cases of extraordinary or luxury assets (e.g., land, buildings, collectibles, works of art), it may be appropriate to call upon an independent professional third party. You can also set up a committee of experts or peers who can establish evaluation criteria.
 
