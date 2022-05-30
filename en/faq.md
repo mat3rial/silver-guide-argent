@@ -172,7 +172,7 @@ In order to avoid creating problematic situations, it is advised that the organi
 In addition to doing your donor a favour, you also ensure that you have the documents required for your accounting—a practice worth adopting!
 
 <a name="9" style="font-weight:normal;">For</a> further reading, see <a href="{{site.baseurl}}/en/guide/3_2-letter-agreement-contract/">section 3.2 of the Silver Guide: “Letter of agreement or contract.”</a>
-A **template donation receipt** (as distinguished from a charitable donation receipt) may also be found in the Silver Guide toolbox.
+A [template donation receipt]({{ site.baseurl }}/assets/template-en/MODEL_RECEIPT_DONATION_e.docx) (as distinguished from a charitable donation receipt) may also be found in the Silver Guide toolbox.
 
 ### How can we calculate the value of the services provided by an organization to its members?
 
