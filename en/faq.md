@@ -19,9 +19,9 @@ In most financial arrangements, an organization that requests public funding mus
 
 Looking at the funding provided by arts councils at the provincial level, however, not all provinces are equal: in 2019–20, average funding for artist-run centres by the Ontario Arts Council was just $32,611, compared to those supported by the Conseil des arts et des lettres du Québec, which averaged $142,705.
 
-To bridge such great disparities in provincial (and municipal) funding, some organizations must take advantage of all the opportunities available through their partnerships. Converting non-monetary contributions received into book value can help them reach the percentage required to qualify for funding.
+<a name="3">To</a> bridge such great disparities in provincial (and municipal) funding, some organizations must take advantage of all the opportunities available through their partnerships. Converting non-monetary contributions received into book value can help them reach the percentage required to qualify for funding.
 
-<a name="3"><strong>How to determine the fair market value of non-monetary transactions?</strong></a>
+**>How to determine the fair market value of non-monetary transactions?**
 
 The fair market value (FMV) of **donated** goods or services is based on the normal sale price established by the donor organization at the time when the goods/services are given.
 
