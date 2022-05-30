@@ -11,11 +11,13 @@ lang: en
 
 **Consultation for the English version of the guide:** Julia Gaunt-Rannala, CPA (Young Associates)
 
+**Development of the FAQ:** Julie Picard and Anne Bertrand
+
 **Project management:** Anne Bertrand, Pierre Beaudoin
 
 **Digital platform development:** Corina MacDonald, Antonia Hernandez, Evan Savage - MAT3RIAL
 
-**Copyediting:** Edwin Janzen
+**Copyediting:** Edwin Janzen, Camille Desrochers, Joanie Demers
 
 **Translation:** Jo-Anne Balcaen, Isabelle Lamarre
 
