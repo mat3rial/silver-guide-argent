@@ -78,7 +78,7 @@ In cases of non-monetary transactions of goods or services received as gifts or 
 For example, suppose your organization receives a printer ink cartridge for free, with a market value of $175. The FMV of such a good or service received constitutes a revenue.
 When recording this non-monetary transaction in the accounting system, the $175 should therefore be recorded in a revenue line item. The organization does not hold the $175 in cash: it is simply the market value of the ink cartridge. Further, by the fiscal year-end, the ink cartridge has been used and is empty.
 
-It is important to remember that the third requirement when accounting for a gift is that it be something that the organization would otherwise have had to purchase (**see section 2 of the Silver Guide**). It is therefore an office supply expense that is covered, in this example, by receipt of the free cartridge. For this reason, it is important also to enter the market value of the ink cartridge in an expense line item, in return for the donation received. Thus, through the symmetry of the accounting system, the false profit effect is cancelled out.
+It is important to remember that the third requirement when accounting for a gift is that it be something that the organization would otherwise have had to purchase (<a href="{{site.baseurl}}/en/guide/2-rules-to-follow/">see section 2 of the Silver Guide</a>). It is therefore an office supply expense that is covered, in this example, by receipt of the free cartridge. For this reason, it is important also to enter the market value of the ink cartridge in an expense line item, in return for the donation received. Thus, through the symmetry of the accounting system, the false profit effect is cancelled out.
 
 In order to represent financial information accurately in the financial statements, and to follow accounting standards, revenue items must be presented separately under appropriate categories, such as **sponsorships and bartered services, non-monetary transactions**, or **in-kind contributions**.
 
@@ -110,26 +110,26 @@ Bartered goods or services are commercial transactions between two parties and a
 
 To learn more about donations, see **section 2 of the Silver Guide**.
 
-Only a registered charity may issue a charitable donation receipt for cash donations, donations of property, or donations of artwork. A donation of services does not qualify for such a receipt unless the donation happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. On this matter, see **section 5.3 of the Silver Guide**.
+Only a registered charity may issue a charitable donation receipt for cash donations, donations of property, or donations of artwork. A donation of services does not qualify for such a receipt unless the donation happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. On this matter, see <a href="{{site.baseurl}}/en/guide/5_3-donation-of-services/">section 5.3 of the Silver Guide</a>.
 
-<a name="6" style="font-weight:normal;">Non-profit</a> organizations that are not registered charities may still receive donations of cash or of goods or services, but they are not allowed to issue charitable donation receipts. To learn more about charities, see **section 5 of the Silver Guide**.
+<a name="6" style="font-weight:normal;">Non-profit</a> organizations that are not registered charities may still receive donations of cash or of goods or services, but they are not allowed to issue charitable donation receipts. To learn more about charities, see <a href="{{site.baseurl}}/en/guide/5-charitable-donation-receipts/">section 5 of the Silver Guide</a>.
 
 ### What is the difference between a sponsorship and an exchange of services (barter)?
 
 Unlike donations received (either goods or services), sponsorships and exchanges of services involve an equivalent transaction between two parties.
 
-A sponsorship is a donation of money, goods, or services in exchange for promotional visibility. For consumer tax purposes, sponsorship is not a taxable supply and, unless otherwise specified, is not subject to tax. For applicable exceptions, see **section 4.2 of the Silver Guide**.
+A sponsorship is a donation of money, goods, or services in exchange for promotional visibility. For consumer tax purposes, sponsorship is not a taxable supply and, unless otherwise specified, is not subject to tax. For applicable exceptions, see <a href="{{site.baseurl}}/en/guide/4_2-sponsorship/">section 4.2 of the Silver Guide</a>.
 
-The exchange of services is a commercial transaction between two parties. Technically, the transaction is counted as a reciprocal sale, but instead of exchanging money, it can be an exchange of goods or services of equivalent value. In terms of consumer tax, the exchange of services is a taxable supply and taxes apply for parties registered for taxes. For more information, see **section 4 of the Silver Guide**.
+The exchange of services is a commercial transaction between two parties. Technically, the transaction is counted as a reciprocal sale, but instead of exchanging money, it can be an exchange of goods or services of equivalent value. In terms of consumer tax, the exchange of services is a taxable supply and taxes apply for parties registered for taxes. For more information, see <a href="{{site.baseurl}}/en/guide/4-impact-taxes/">section 4 of the Silver Guide</a>.
 
-Commercial transactions can also take the form of a discount in return for visibility, or even an invoice discount in exchange for services. In these cases, it is important to determine if consumer taxes apply, depending on whether or not your organization is registered for taxes. For more information, see **section 4.1 of the Silver Guide**.
+Commercial transactions can also take the form of a discount in return for visibility, or even an invoice discount in exchange for services. In these cases, it is important to determine if consumer taxes apply, depending on whether or not your organization is registered for taxes. For more information, see <a href="{{site.baseurl}}/en/guide/4_1-exhange-of-services-of-equal-value/">section 4.1 of the Silver Guide<a>.
 
 **What is the difference between a donation and a volunteer contribution?**
 
-Many people volunteer with non-profit organizations. Can we account for volunteering as a donation? Before you do anything else, please consult **section 2 of the Silver Guide**: “Accounting for contributions received in the form of goods or services.”
+Many people volunteer with non-profit organizations. Can we account for volunteering as a donation? Before you do anything else, please consult <a href="{{site.baseurl}}/en/guide/2-rules-to-follow/">section 2 of the Silver Guide: “Accounting for contributions received in the form of goods or services.”</a>
 
 In accordance with accounting standards for non-profit organizations, if an organization accounts for volunteer contributions in its financial statements, it must ensure that three criteria are met:
-\1. The fair market value (see the **Silver Guide glossary**) of these contributions can be reasonably estimated;
+\1. The fair market value (see the <a href="{{site.baseurl}}/en/toolkit/glossary/">Silver Guide glossary</a>) of these contributions can be reasonably estimated;
 \2. The goods and services received are used for operational purposes;
 \3. The goods and services received are of a kind that the organization would have otherwise purchased.
 
@@ -139,15 +139,15 @@ In general, volunteer labour is not recorded in an organization’s revenues and
 
 However, such information can be included in the notes to the financial statements.
 
-For an example of a note to the financial statements, see **section 2.2 of the Silver Guide**. For a sample volunteer tracking tool, see the **volunteer registry template** in the Silver Guide toolkit.
+For an example of a note to the financial statements, see <a href="{{site.baseurl}}/en/guide/2_2-presentation-financial-statements/">section 2.2 of the Silver Guide</a>. For a sample volunteer tracking tool, see the **volunteer registry template** in the Silver Guide toolkit.
 
 Otherwise, if the organization receives donations or services—for example, office work performed free of charge by a professional—and if, had it not been for this donation, the organization would nonetheless have purchased these services, it may be accounted for as a donation received in the form of services.
 
-For more information on accounting for gifts received in the form of goods or services, see **section 2.1.2 of the Silver Guide**.
+For more information on accounting for gifts received in the form of goods or services, see <a href="{{site.baseurl}}/en/guide/2_1_2-donation-of-services/">section 2.1.2 of the Silver Guide</a>.
 
 For each case of volunteer work carried out, it would be wise to check that the type of work performed is covered by your organization’s civil liability insurance or protected by the CNESST (in Quebec) or under another province’s labour standards and workplace health and safety agency.
 
-Please note: only registered charities may issue charitable donation receipts. A donation received by a <a name="7" style="font-weight:normal;">registered</a> charity must meet certain criteria for such a receipt to be issued. Unfortunately, volunteer support and donations of services do not meet these criteria, unless such a contribution happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. See **section 5.3 of the Silver Guide**.
+Please note: only registered charities may issue charitable donation receipts. A donation received by a <a name="7" style="font-weight:normal;">registered</a> charity must meet certain criteria for such a receipt to be issued. Unfortunately, volunteer support and donations of services do not meet these criteria, unless such a contribution happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. See <a href="{{site.baseurl}}/en/guide/5_3-donation-of-services/">section 5.3 of the Silver Guide</a>.
 
 ### How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?
 
@@ -192,6 +192,6 @@ To establish the FMV of an artwork, we use the third method provided above: eval
 
 In cases of exceptional or high-end assets (land, buildings, collectibles, works of art by renowned artists), it may be appropriate to call upon an independent professional third party.
 
-On the issuance of charitable donation receipts by charitable organizations in return for artworks, see sections **5.2.1, 5.2.2, and 5.2.3** of the Silver Guide.
+On the issuance of charitable donation receipts by charitable organizations in return for artworks, see sections <a href="{{site.baseurl}}/en/guide/5_2_1-donation-by-artist/">5.2.1</a>, <a href="{{site.baseurl}}/en/guide/5_2_2-donation-purchased-work/">5.2.2</a>, and <a href="{{site.baseurl}}/en/guide/5_2_3-donation-inherited-work/">5.2.3</a> of the Silver Guide.
 
 Various tax and accounting considerations must also be addressed, including tax calculation both for organizations as well as for registered artists, which kinds of artworks constitute assets for the recipient organization, and amortization of artworks. Your CPA can help you with these accounting operations.
