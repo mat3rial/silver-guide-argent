@@ -90,11 +90,11 @@ For this sponsorship, the accounting entry would look like this:
 *Expenses: Marketing sponsorship and exchange* – DT $450
 *Revenues: Sponsorship and service exchange* – CT $450
 
-Another example: let’s say you rent a space for an event, agreeing to a discount in exchange for visibility. The market value of the rental is $700, but you are offered a discount of $300 in exchange for visibility on your social <a name="5" style="font-weight:normal;">networks</a>.
+Another example: let’s say you rent a space for an event, agreeing to a discount in exchange for visibility. The market value of the rental is $700, but you are offered a discount of $300 in exchange for visibility on your social networks.
 
 Here’s how the accounting entry for this rebate would look:
 *Expenses: Space rental* – DT $700
-*Revenues: sponsorship and service exchange* – CT $300
+*Revenues: sponsorship and service exchange* – <a name="5" style="font-weight:normal;">CT $300</a>
 
 Accordingly, the cost to your organization would be $400.
 
