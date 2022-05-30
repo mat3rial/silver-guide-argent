@@ -21,7 +21,7 @@ Looking at the funding provided by arts councils at the provincial level, howeve
 
 To bridge such great disparities in provincial (and municipal) funding, some organizations must take advantage of all the opportunities available through their partnerships. Converting non-monetary contributions received into book value can help them reach the percentage required to qualify for funding.
 
-**How to determine the fair market value of non-monetary transactions?**
+<a name="3"><strong>How to determine the fair market value of non-monetary transactions?</strong></a>
 
 The fair market value (FMV) of **donated** goods or services is based on the normal sale price established by the donor organization at the time when the goods/services are given.
 
