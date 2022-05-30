@@ -10,6 +10,8 @@ lang: en
 <a href="#3">How to determine the fair market value of non-monetary transactions?</a><br/>
 <a href="#4">How to record non-monetary transactions in your accounting system?</a><br/>
 <a href="#5">What is the difference between donation and barter of goods and services?</a><br/>
+<a href="#6">What is the difference between a sponsorship and an exchange of services (barter)?</a><br/>
+
 
 
 ### Why the “Silver Guide”?
@@ -102,11 +104,22 @@ Accordingly, the cost to your organization would be $400.
 
 Bartered goods or services are commercial transactions between two parties and are therefore subject to taxes (if the organization is registered for taxes). Fiscally speaking, however, donations are not a taxable supply and are therefore not subject to taxes.
 
-To learn more about donations, see section 2 of the Silver Guide.
+To learn more about donations, see **section 2 of the Silver Guide**.
 
-Only a registered charity may issue a charitable donation receipt for cash donations, donations of property, or donations of artwork. A donation of services does not qualify for such a receipt unless the donation happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. On this matter, see section 5.3 of the Silver Guide.
+Only a registered charity may issue a charitable donation receipt for cash donations, donations of property, or donations of artwork. A donation of services does not qualify for such a receipt unless the donation happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. On this matter, see **section 5.3 of the Silver Guide**.
 
-Non-profit organizations that are not registered charities may still receive donations of cash or of goods or services, but they are not allowed to issue charitable donation receipts. To learn more about charities, see section 5 of the Silver Guide.
+<a name="6" style="font-weight:normal;">Non-profit</a> organizations that are not registered charities may still receive donations of cash or of goods or services, but they are not allowed to issue charitable donation receipts. To learn more about charities, see **section 5 of the Silver Guide**.
+
+### What is the difference between a sponsorship and an exchange of services (barter)?
+
+Unlike donations received (either goods or services), sponsorships and exchanges of services involve an equivalent transaction between two parties.
+
+A sponsorship is a donation of money, goods, or services in exchange for promotional visibility. For consumer tax purposes, sponsorship is not a taxable supply and, unless otherwise specified, is not subject to tax. For applicable exceptions, see **section 4.2 of the Silver Guide**.
+
+The exchange of services is a commercial transaction between two parties. Technically, the transaction is counted as a reciprocal sale, but instead of exchanging money, it can be an exchange of goods or services of equivalent value. In terms of consumer tax, the exchange of services is a taxable supply and taxes apply for parties registered for taxes. For more information, see **section 4 of the Silver Guide**.
+
+Commercial transactions can also take the form of a discount in return for visibility, or even an invoice discount in exchange for services. In these cases, it is important to determine if consumer taxes apply, depending on whether or not your organization is registered for taxes. For more information, see **section 4.1 of the Silver Guide**.
+
 
 
 
