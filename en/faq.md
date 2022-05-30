@@ -14,6 +14,8 @@ lang: en
 <a href="#7">How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?</a><br/>
 <a href="#8">Is it necessary to produce documentary evidence of a non-monetary transaction?</a><br/>
 <a href="#9">How can we calculate the value of the services provided by an organization to its members?</a><br/>
+<a href="#10">What about the FMV of an artwork donated for auction?</a><br/>
+
 
 
 ### Why the “Silver Guide”?
@@ -178,14 +180,19 @@ A **template donation receipt** (as distinguished from a charitable donation rec
 
 Some organizations offer benefits to their members: freebies, discounts, or access to certain services such as a documentation centre or specialized equipment. These are member privileges.
 
-To become a member, a person must pay annual dues according to the organization’s regulations. It is reasonable to assume that in a non-profit organization, the market value of the services and equipment offered is well in excess of these annual dues. As such, the organization expends more money than what it receives from its members. In essence, grants and other earned revenues fund the services offered to members.
+To become a member, a person must pay annual dues according to the organization’s regulations. It is reasonable to assume that in a non-profit organization, the market value of the services and equipment offered is well in excess of these annual dues. As such, the organization expends more money than what it receives from its members. In essence, grants and other earned revenues fund the services offered to <a name="10" style="font-weight:normal;">members</a>.
 
 For this reason, accounting for the market value of member services against the annual dues in the financial statements is not recommended. This is not a non-monetary transaction per se.
 
+### What about the FMV of an artwork donated for auction?
 
+In cases of donations of works of art, it is important to define intent and context. For example, is the donation intended as a fundraising contribution or to build a collection within the organization? May the work be resold, or not?
 
+To establish the FMV of an artwork, we use the third method provided above: evaluation by an expert or a committee of experts or peers. A document attesting to the work’s value is produced once the evaluation criteria have been established.
 
+In cases of exceptional or high-end assets (land, buildings, collectibles, works of art by renowned artists), it may be appropriate to call upon an independent professional third party.
 
+On the issuance of charitable donation receipts by charitable organizations in return for artworks, see sections **5.2.1, 5.2.2, and 5.2.3** of the Silver Guide.
 
-
+Various tax and accounting considerations must also be addressed, including tax calculation both for organizations as well as for registered artists, which kinds of artworks constitute assets for the recipient organization, and amortization of artworks. Your CPA can help you with these accounting operations.
 
