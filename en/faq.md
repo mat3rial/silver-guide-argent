@@ -5,9 +5,9 @@ lang-ref: faq
 lang: en
 
 ---
-### [Why the “Silver Guide”?](#Why the “Silver Guide”?) 
-### [Why account for non-monetary transactions?](#Why account for non-monetary transactions?)
-### [How to determine the fair market value of non-monetary transactions?](#How to determine the fair market value of non-monetary transactions?) 
+### [Why the “Silver Guide”?](#Why-the-“Silver-Guide”?) 
+### [Why account for non-monetary transactions?](#Why-account-for-non-monetary-transactions?)
+### [How to determine the fair market value of non-monetary transactions?](#How-to-determine-the-fair-market-value-of-non-monetary-transactions?) 
 
 ## **Why the “Silver Guide”?**
 
