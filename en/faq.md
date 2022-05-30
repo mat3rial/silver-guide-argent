@@ -5,13 +5,13 @@ lang-ref: faq
 lang: en
 
 ---
-### [Objective](#objective) ***
+### [Why the “Silver Guide”?](#Why the “Silver Guide”?) ***
 [Context](#context) 
 [Challenges](#challenges)
 [Considerations](#considerations)
 [Contact](#contact)
 
-**Why the “Silver Guide”?**
+## **Why the “Silver Guide”?**
 
 We have selected the shortened title Silver Guide to evoke the notion of money without having to give the full title (The Silver Guide to Non-Monetary Transactions). The title also aims at situating this work within the wider suite of resources produced by ARCA, such as The Grey Guide to Artist-Run Publications and Circulation, as well as those produced by the RCAAQ in its series of red, blue, orange, and green “Petits Guides.”
 
