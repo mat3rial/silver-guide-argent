@@ -9,7 +9,7 @@ lang: en
 <a href="#2">Why account for non-monetary transactions?</a><br/>
 <a href="#3">How to determine the fair market value of non-monetary transactions?</a><br/>
 <a href="#4">How to record non-monetary transactions in your accounting system?</a><br/>
-<a href="#5">What is the difference between <a name="1">donation</a> and barter of goods and services?</a><br/>
+<a href="#5">What is the difference between <a name="1">donation and barter of goods and services?</a><br/>
 <a href="#6">What is the difference between a sponsorship and an exchange of services (barter)?</a><br/>
 <a href="#7">How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?</a><br/>
 <a href="#8">Is it necessary to produce documentary evidence of a non-monetary transaction?</a><br/>
@@ -195,4 +195,3 @@ In cases of exceptional or high-end assets (land, buildings, collectibles, works
 On the issuance of charitable donation receipts by charitable organizations in return for artworks, see sections **5.2.1, 5.2.2, and 5.2.3** of the Silver Guide.
 
 Various tax and accounting considerations must also be addressed, including tax calculation both for organizations as well as for registered artists, which kinds of artworks constitute assets for the recipient organization, and amortization of artworks. Your CPA can help you with these accounting operations.
-
