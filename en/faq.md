@@ -10,7 +10,7 @@ lang: en
   <li><a href="#2">Why account for non-monetary transactions?</a></li>
   <li><a href="#3">How to determine the fair market value of non-monetary transactions?</a></li>
   <li><a href="#4">How to record non-monetary transactions in your accounting system?</a></li>
-  <li><a href="#5">What is the difference between <a name="1">donation</a> and barter of goods and services?</a></li>
+  <li><a href="#5">What is the difference between <a name="1">donation and barter of goods and services?</a></a></li>
 <li><a href="#6">What is the difference between a sponsorship and an exchange of services (barter)?</a></li>
 <li><a href="#7">How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?</a></li>
 <li><a href="#8">Is it necessary to produce documentary evidence of a non-monetary transaction?</a></li>
