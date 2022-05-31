@@ -67,7 +67,7 @@ It may be the case that the estimated cost ends up being higher than the market 
 
 **_Expert Evaluation_**
 In cases of extraordinary or luxury assets (e.g., land, buildings, collectibles, works of art), it may be appropriate to call upon an independent professional third party. You can also set up a committee of experts or peers who can establish evaluation criteria.
-#### <a href="#top" title="back to top">^ top</a>
+#### <a href="#1" title="back to top">^ top</a>
 
 ### How to record non-monetary transactions in your accounting system?
 
@@ -105,7 +105,7 @@ _Expenses: Space rental_ – DT $700
 _Revenues: sponsorship and service exchange_ – <a name="5" style="font-weight:normal;">CT $300</a>
 
 Accordingly, the cost to your organization would be $400.
-#### <a href="#top" title="back to top">^ top</a>
+#### <a href="#1" title="back to top">^ top</a>
 
 ### What is the difference between donation and barter of goods and services?
 
@@ -116,7 +116,7 @@ To learn more about donations, see <a href="{{site.baseurl}}/en/guide/2-rules-to
 Only a registered charity may issue a charitable donation receipt for cash donations, donations of property, or donations of artwork. A donation of services does not qualify for such a receipt unless the donation happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. On this matter, see <a href="{{site.baseurl}}/en/guide/5_3-donation-of-services/">section 5.3 of the Silver Guide</a>.
 
 <a name="6" style="font-weight:normal;">Non-profit</a> organizations that are not registered charities may still receive donations of cash or of goods or services, but they are not allowed to issue charitable donation receipts. To learn more about charities, see <a href="{{site.baseurl}}/en/guide/5-charitable-donation-receipts/">section 5 of the Silver Guide</a>.
-#### <a href="#top" title="back to top">^ top</a>
+#### <a href="#1" title="back to top">^ top</a>
 
 ### What is the difference between a sponsorship and an exchange of services (barter)?
 
@@ -152,7 +152,7 @@ For more information on accounting for gifts received in the form of goods or se
 For each case of volunteer work carried out, it would be wise to check that the type of work performed is covered by your organization’s civil liability insurance or protected by the CNESST (in Quebec) or under another province’s labour standards and workplace health and safety agency.
 
 Please note: only registered charities may issue charitable donation receipts. A donation received by a <a name="7" style="font-weight:normal;">registered</a> charity must meet certain criteria for such a receipt to be issued. Unfortunately, volunteer support and donations of services do not meet these criteria, unless such a contribution happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. See <a href="{{site.baseurl}}/en/guide/5_3-donation-of-services/">section 5.3 of the Silver Guide</a>.
- #### <a href="#top" title="back to top">^ top</a>
+#### <a href="#1" title="back to top">^ top</a>
 
 ### How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?
 
@@ -165,7 +165,7 @@ Consider the fictitious example of an organization that receives free rental of 
 According to the proposed plan, the first sponsor will be offered package A, as per the example provided in the visibility plan template.
 
 <a name="8" style="font-weight:normal;">Remember</a> that FMV valuation is not an exact science and that there are no universal scales. Several methods may be used to establish FMV: the comparison method, the cost method, or valuation by an expert. On this subject, please refer to the above FAQ item <a href="#3">How to determine the fair market value of non-monetary transactions</a>.
-#### <a href="#top" title="back to top">^ top</a>
+#### <a href="#1" title="back to top">^ top</a>
   
 ### Is it necessary to produce documentary evidence of a non-monetary transaction?
 
@@ -190,7 +190,7 @@ Some organizations offer benefits to their members: freebies, discounts, or acce
 To become a member, a person must pay annual dues according to the organization’s regulations. It is reasonable to assume that in a non-profit organization, the market value of the services and equipment offered is well in excess of these annual dues. As such, the organization expends more money than what it receives from its members. In essence, grants and other earned revenues fund the services offered to <a name="10" style="font-weight:normal;">members</a>.
 
 For this reason, accounting for the market value of member services against the annual dues in the financial statements is not recommended. This is not a non-monetary transaction per se.
-#### <a href="#top" title="back to top">^ top</a>
+#### <a href="#1" title="back to top">^ top</a>
   
 ### What about the FMV of an artwork donated for auction?
 
