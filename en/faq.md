@@ -151,7 +151,8 @@ For more information on accounting for gifts received in the form of goods or se
 
 For each case of volunteer work carried out, it would be wise to check that the type of work performed is covered by your organization’s civil liability insurance or protected by the CNESST (in Quebec) or under another province’s labour standards and workplace health and safety agency.
 
-Please note: only registered charities may issue charitable donation receipts. A donation received by a <a name="7" style="font-weight:normal;">registered</a> charity must meet certain criteria for such a receipt to be issued. Unfortunately, volunteer support and donations of services do not meet these criteria, unless such a contribution happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. See <a href="{{site.baseurl}}/en/guide/5_3-donation-of-services/">section 5.3 of the Silver Guide</a>.
+Please note: only registered charities may issue charitable donation receipts. A donation received by a <a name="7" style="font-weight:normal;">registered</a> charity must meet certain criteria for such a receipt to be issued. Unfortunately, volunteer support and donations of services do not meet these criteria, unless such a contribution happens as two separate transactions: payment for provision of a service and the receipt of a cash donation. See <a href="{{site.baseurl}}/en/guide/5_3-donation-of-services/">section 5.3 of the Silver Guide.</a>
+  
 #### <a href="#1" title="back to top">^ top</a>
 
 ### How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?
