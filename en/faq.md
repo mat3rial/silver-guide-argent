@@ -5,7 +5,6 @@ lang-ref: faq
 lang: en
 
 ---
-<a name="top">&nbsp;</a>
 <ul>
   <li><a href="#1">Why the “Silver Guide”?</a></li>
   <li><a href="#2">Why account for non-monetary transactions?</a></li>
@@ -21,7 +20,7 @@ lang: en
 ### Why the “Silver Guide”?
 
 <a name="2" style="font-weight:normal;">We</a> have selected the shortened title Silver Guide to evoke the notion of money without having to give the full title (The Silver Guide to Non-Monetary Transactions). The title also aims at situating this work within the wider suite of resources produced by ARCA, such as The Grey Guide to Artist-Run Publications and Circulation, as well as those produced by the RCAAQ in its series of red, blue, orange, and green “Petits Guides.”
-#### <a href="#top" title="back to top">^ top</a>
+#### <a href="#1" title="back to top">^ top</a>
 
 ### Why account for non-monetary transactions?
 
@@ -30,7 +29,7 @@ In most financial arrangements, an organization that requests public funding mus
 Looking at the funding provided by arts councils at the provincial level, however, not all provinces <a name="3" style="font-weight:normal;">are</a> equal: in 2019–20, average funding for artist-run centres by the Ontario Arts Council was just $32,611, compared to those supported by the Conseil des arts et des lettres du Québec, which averaged $142,705.
 
 To bridge such great disparities in provincial (and municipal) funding, some organizations must take advantage of all the opportunities available through their partnerships. Converting non-monetary contributions received into book value can help them reach the percentage required to qualify for funding.
-#### <a href="#top" title="back to top">^ top</a>
+#### <a href="#1" title="back to top">^ top</a>
 
 ### How to determine the fair market value of non-monetary transactions?
 
