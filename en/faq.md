@@ -86,22 +86,22 @@ In order to represent financial information accurately in the financial statemen
 
 As for **expenses**, these may be presented separately or incorporated into the existing statement of accounts, depending on your organization’s practices. Your CPA can help you with such accounting operations.
 
-Using the example of the ink cartridge gift, the account post would look like this:
-_Expenses: In-kind or office supplies_ – Debit (DT) $175
+Using the example of the ink cartridge gift, the account post would look like this:<br/>
+_Expenses: In-kind or office supplies_ – Debit (DT) $175<br/>
 _Revenues: Sponsorship and service exchange_ – Credit (CT) $175
 
 The principle is the same for bartered services. An amount corresponding to the FMV must be posted in a revenue line and, symmetrically, in an expense line.
 
 For example, a partner lends you a digital projector free of charge for a ten-day event—a service worth $450. In exchange, this partner will be offered visibility of an equivalent market value.
 
-For this sponsorship, the accounting entry would look like this:
-_Expenses: Marketing sponsorship and exchange_ – DT $450
+For this sponsorship, the accounting entry would look like this:<br/>
+_Expenses: Marketing sponsorship and exchange_ – DT $450<br/>
 _Revenues: Sponsorship and service exchange_ – CT $450
 
 Another example: let’s say you rent a space for an event, agreeing to a discount in exchange for visibility. The market value of the rental is $700, but you are offered a discount of $300 in exchange for visibility on your social networks.
 
-Here’s how the accounting entry for this rebate would look:
-_Expenses: Space rental_ – DT $700
+Here’s how the accounting entry for this rebate would look:<br/>
+_Expenses: Space rental_ – DT $700<br/>
 _Revenues: sponsorship and service exchange_ – <a name="5" style="font-weight:normal;">CT $300</a>
 
 Accordingly, the cost to your organization would be $400.
