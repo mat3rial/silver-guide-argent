@@ -36,6 +36,7 @@ Cependant, cette information peut être inscrite par voie de notes aux états fi
 Dans le cas où l’organisme conclurait qu’il respecte également le critère voulant qu’il ait dû acheter ces services, il y aurait lieu de documenter la base d’évaluation choisie. Par exemple, en obtenant d’un fournisseur de services une estimation d’un taux horaire pour des services similaires, ou encore, en utilisant une politique salariale existante ou barème de salaires.
 
 [Voir les _Barèmes_ dans la boîte à outils ]({{ site.baseurl }}/fr/boîte_à_outils/barèmes/){: .toolkit}
+ou consulter cette <a href="https://doi.org/10.25318/1410020601-fra" class="external" target="_blank" title="Statistique Canada. Tableau 14-10-0206-01 Rémunération horaire moyenne des salariés rémunérés à l'heure, selon l'industrie, données annuelles">ressource</a> produite par Statistique Canada.
 
 Pour pouvoir divulguer ces informations aux états financiers, qu’ils soient constatés dans les produits de l’organisme ou par voie de notes, il faut que l’organisme mette sur pied un système lui permettant de collecter l’information. Par exemple, créer un registre dans lequel il est inscrit le nom du bénévole, la date à laquelle il a fait des heures de bénévolat et l’événement pour lequel il a fait du bénévolat.
 
