@@ -6,7 +6,7 @@ lang: en
 
 ---
 <ul>
-  <li><a href="#1">Why the “Silver Guide”?</a></li>
+  <li><a href="#1" name="top">Why the “Silver Guide”?</a></li>
   <li><a href="#2">Why account for non-monetary transactions?</a></li>
   <li><a href="#3">How to determine the fair market value of non-monetary transactions?</a></li>
   <li><a href="#4">How to record non-monetary transactions in your accounting system?</a></li>
@@ -20,8 +20,7 @@ lang: en
 ### Why the “Silver Guide”?
 
 <a name="2" style="font-weight:normal;">We</a> have selected the shortened title Silver Guide to evoke the notion of money without having to give the full title (The Silver Guide to Non-Monetary Transactions). The title also aims at situating this work within the wider suite of resources produced by ARCA, such as The Grey Guide to Artist-Run Publications and Circulation, as well as those produced by the RCAAQ in its series of red, blue, orange, and green “Petits Guides.”
-
-### ^
+### <a href="#top"^</a>
 
 ### Why account for non-monetary transactions?
 
