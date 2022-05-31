@@ -5,8 +5,9 @@ lang-ref: faq
 lang: en
 
 ---
+<a name="top">$nbsp;</a>
 <ul>
-  <li><a href="#1" name="top">Why the “Silver Guide”?</a></li>
+  <li><a href="#1">Why the “Silver Guide”?</a></li>
   <li><a href="#2">Why account for non-monetary transactions?</a></li>
   <li><a href="#3">How to determine the fair market value of non-monetary transactions?</a></li>
   <li><a href="#4">How to record non-monetary transactions in your accounting system?</a></li>
