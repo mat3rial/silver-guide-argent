@@ -39,6 +39,7 @@ example_text="Volunteers devote approximately 500 hours (750 in 20XX) per year t
 If an organization determines that it does meet the third condition (i.e., that it would have otherwise purchased these services), the basis for this evaluation should be provided — for example, by obtaining an estimate of the hourly rate for similar services, or by using an existing wage policy.
 
 [See _Pay scales_ in the Toolkit]({{ site.baseurl }}/en/toolkit/scales/){: .toolkit}
+or consult this <a href="https://doi.org/10.25318/1410020601-eng" class="external" target="_blank" title="Statistics Canada. Table 14-10-0206-01 Average hourly earnings for employees paid by the hour, by industry, annual">resource</a> produced by Statistics Canada.
 
 To disclose this information in its financial statements—whether in the organization’s revenues or in the notes—the organization must implement a system to collect the information. An example of such a system could be a register in which the volunteer records their name, the date they volunteered, and the event or activity for which they volunteered.
 
