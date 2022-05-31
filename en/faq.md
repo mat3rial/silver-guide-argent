@@ -5,7 +5,7 @@ lang-ref: faq
 lang: en
 
 ---
-<a name="top">$nbsp;</a>
+<a name="top">&nbsp;</a>
 <ul>
   <li><a href="#1">Why the “Silver Guide”?</a></li>
   <li><a href="#2">Why account for non-monetary transactions?</a></li>
