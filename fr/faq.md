@@ -32,3 +32,21 @@ Dans le cas d’une subvention salariale, les coûts liés aux frais fixes (loye
 
 Pour combler cette grande disparité dans le financement provincial (et municipal), certains organismes doivent saisir toutes les possibilités offertes par leurs partenariats et convertir en valeur comptable les apports non monétaires reçus, qui les aideront à atteindre le pourcentage requis pour se qualifier au financement.
 #### <a href="#1" title="haut de page">^ haut</a>
+
+### Comment déterminer la juste valeur marchande des opérations non monétaires?
+
+La juste valeur du **bien ou du service donné** est basée sur le prix de vente normal établi par l’organisme lorsqu’il réalise ce type de revenus.
+
+La juste valeur du **service ou du bien reçu** est établie par l’autre partie selon ses prix de vente habituels pour ce client ou partenaire.
+
+Étant donné que la transaction effectuée est de nature non monétaire, la juste valeur marchande (JVM) se définit ici comme le montant de la contrepartie dont conviendraient des parties compétentes agissant en toute liberté dans des conditions de pleine concurrence, tel le prix de vente au détail dans un commerce local ou en ligne.
+
+L’évaluation de la JVM n’est cependant pas une science exacte et il n’existe pas de barèmes universels. Une évaluation adéquate, fiable et raisonnable est essentielle pour comptabiliser les dons et échanges de services non monétaires dans les états financiers.
+
+L’évaluation de la JVM peut varier d’un organisme à l’autre en fonction de plusieurs paramètres marchands (reconnaissance, réputation, rentabilité, rareté, durée de l’activité, volume d’un tirage, etc.).
+
+L’évaluation de la JVM peut aussi varier dans le temps, car la JVM est établie au moment de la transaction.
+
+Les parties engagées dans une transaction non monétaire doivent être en mesure de justifier leur méthode d’évaluation auprès des autorités fiscales. Votre comptable professionnel agréé (CPA) peut vous accompagner dans la détermination d’une méthode d’évaluation et vous expliquer les pièces justificatives requises.
+
+Voici trois méthodes qui peuvent vous guider dans cette démarche.
