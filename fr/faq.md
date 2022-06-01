@@ -145,7 +145,7 @@ De manière générale, les organismes ne comptabilisent pas systématiquement t
 <li>L’organisme n’a pas la capacité financière d’acheter ces services, donc la troisième condition voulant que, n’eût été ce don, il ait quand même acheté ces services n’est pas remplie.</li>
  </ol>
 
-Cependant, il est possible d’inscrire une mention de bénévolat aux états financiers sans les inscrire dans les registres comptables. Il s’agit d’ajouter une note afférente aux états financiers. Pour voir un exemple de note afférente aux états financiers, consultez la <a href="{{site.baseurl}}/fr/guide/2_2-présentation-états-financiers/">section 2.2 du Guide argent</a>. Pour voir un modèle d’outil de suivi des bénévoles, consultez le [registre des bénévoles]({{ site.baseurl }}/assets/modèle-fr/registre_bénévoles.xls) dans la boîte à outils.
+Cependant, il est possible d’inscrire une mention de bénévolat aux états financiers sans les inscrire dans les registres comptables. Il s’agit d’ajouter une note afférente aux états financiers. Pour voir un exemple de note afférente aux états financiers, consultez la <a href="{{site.baseurl}}/fr/guide/2_2-présentation-états-financiers/">section 2.2 du Guide argent</a>. Pour voir un modèle d’outil de suivi des bénévoles, consultez le [registre des bénévoles]({{site.baseurl}}/assets/modèle-fr/registre_bénévoles.xls) dans la boîte à outils.
 
 Autrement, si l’organisme reçoit des dons ou des services, par exemple du travail de bureau exécuté gratuitement par un professionnel, et que, n’eût été ce don, l’organisme aurait quand même acheté ces services, il peut s’agir d’un don reçu sous forme de services.
 
@@ -160,7 +160,7 @@ Attention : seuls les organismes de bienfaisance enregistrés peuvent remettre 
 
 Dans le cas d’un événement ou d’une programmation, il est fréquent de négocier des échanges de services avec divers partenaires en contrepartie d’une visibilité. Il s’agit d’une commandite, appelée aussi **parrainage**. Il devient nécessaire d’offrir une visibilité équitable à ces différents partenaires.
 
-Il est recommandé d’établir un plan de visibilité qui fonctionne par paliers progressifs ou par forfaits. Ce plan facilitera l’harmonisation de la visibilité offerte dans le cadre de plusieurs transactions non monétaires avec des partenaires différents. On peut s’inspirer du [modèle de plan de visibilité]({{ site.baseurl }}/assets/modèle-fr/PLAN_VISIBILITE_f.docx) qui se trouve dans la boîte à outils. 
+Il est recommandé d’établir un plan de visibilité qui fonctionne par paliers progressifs ou par forfaits. Ce plan facilitera l’harmonisation de la visibilité offerte dans le cadre de plusieurs transactions non monétaires avec des partenaires différents. On peut s’inspirer du [modèle de plan de visibilité]({{site.baseurl}}/assets/modèle-fr/PLAN_VISIBILITE_f.docx) qui se trouve dans la boîte à outils. 
 
 Pour illustrer cette recommandation, prenons l’exemple fictif d’un organisme qui reçoit la location gratuite d’un projecteur numérique pour un événement de 10 jours. La juste valeur marchande est établie à 450 $. Un second commanditaire offre gratuitement un buffet pour le lancement d’une valeur de 675 $. Ces deux organismes se verront offrir une visibilité en échange. Un plan de visibilité est établi pour cet événement et se décline en forfaits selon la valeur marchande des contributions : le forfait A entre 250 $ et 499 $, le forfait B entre 500 $ et 999 $, le forfait C entre 1 000 $ et 1 500 $ et ainsi de suite.
 
@@ -182,7 +182,7 @@ Afin d’éviter de générer des situations problématiques, il est conseillé 
 En plus de lui rendre service, vous vous assurez d’avoir en main les documents requis pour votre comptabilisation. Voilà une bonne pratique à intégrer!
 
 <a name="9" style="font-weight:normal;">Poursuivez</a> votre lecture au point <a href="{{site.baseurl}}/fr/guide/3_2-lettre-entente-contrat/">3.2, « Lettre d’entente ou contrat ».</a>
-Vous trouverez un [gabarit de reçus de dons]({{ site.baseurl }}/assets/modèle-fr/MODELE_RECU_DON_f.docx) (distinct du reçu de don de charité) dans la boîte à outils du Guide argent.
+Vous trouverez un [gabarit de reçus de dons]({{site.baseurl}}/assets/modèle-fr/MODELE_RECU_DON_f.docx) (distinct du reçu de don de charité) dans la boîte à outils du Guide argent.
 #### <a href="#1" title="haut de page">^ haut</a>
 
 ### Peut-on calculer la valeur des services qu’un organisme offre à ses membres?
