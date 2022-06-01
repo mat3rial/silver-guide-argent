@@ -78,3 +78,29 @@ Dans le cas de la réception de transactions non monétaires sous la forme de do
 Par exemple, votre organisme reçoit gratuitement une cartouche d’encre d’une valeur marchande de 175 $. La juste valeur du service ou du bien reçu constitue un revenu, appelé aussi un produit. Lors de l’inscription de cette transaction non monétaire dans le système comptable, on devrait donc inscrire les 175 $ dans un poste de produits. Mais l’organisme ne possède pas ces 175 $ en argent : il s’agit de la valeur marchande de cette cartouche d’encre. De plus, la cartouche d’encre a été utilisée et à la fin de l’exercice financier, elle est vide.
 
 Il est important de se rappeler que la troisième condition requise pour la comptabilisation d’un don est que **l’organisme aurait autrement dû l’acheter** (voir la <a href="{{site.baseurl}}/fr/guide/2-règles-à-suivre/">section 2 du Guide argent</a>). Il s’agit donc d’une dépense de fourniture de bureau qui a été couverte par la réception d’une cartouche d’encre gratuite. C’est pour cette raison qu’il est important d’inscrire aussi la valeur marchande de la cartouche d’encre dans un poste de charges, en contrepartie du don reçu. Ainsi, par symétrie, l’effet de faux profit s’annule dans le système comptable.
+
+Afin de présenter fidèlement l’information financière aux états financiers et de suivre les normes comptables, il est obligatoire de présenter distinctement les postes de **produits** sous l’appellation **commandites et échanges de services** ou ses synonymes : **transactions non monétaires** ou **contributions en nature**.
+
+Quant aux **charges**, elles peuvent être présentées distinctement ou bien se fondre dans la charte comptable existante, selon les pratiques de votre organisme. Votre CPA peut vous accompagner dans ces opérations comptables.
+
+Pour reprendre l’exemple de la réception d’une cartouche d’encre donnée, l’écriture comptable irait comme suit :<br/>
+_Charges (dépenses) Fournitures de bureau ou en nature_ – DT $175<br/>
+_Produits (revenus) Commandites et Échange de services_ – CT $175
+
+Le principe est le même lors d’un échange de services. Un montant correspondant à la JVM doit se retrouver dans un poste de produits et, par symétrie, dans un poste de charges.
+
+Par exemple, un partenaire vous prête gratuitement un projecteur numérique pour un événement de 10 jours, service d’une valeur de 450 $. Ce partenaire se verra offrir une visibilité d’une valeur marchande équivalente en échange.
+
+Pour cette commandite, l’écriture comptable irait comme suit :<br/>
+_Charges (dépenses) Commandites de marketing et échanges_ – DT $450<br/>
+_Produits (revenus) Commandites et échange de services_ – CT $450
+
+Vous louez une salle de spectacle pour un événement et vous convenez d’un rabais en échange d’une visibilité. La valeur marchande de la location est de 700 $ et un rabais de 300 $ vous est offert en échange de visibilité sur vos réseaux sociaux.
+
+Pour ce rabais, l’écriture comptable irait comme suit :<br/>
+_Charges (dépenses) Location de salle_ – DT $700<br/>
+_Produits (revenus) Commandites et échange de services_ – <a name="5" style="font-weight:normal;">CT $300</a>
+
+Le coût assumé par votre organisme serait donc de 400 $.
+#### <a href="#1" title="haut de page">^ haut</a>
+
