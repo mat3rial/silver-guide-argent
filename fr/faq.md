@@ -55,11 +55,14 @@ Voici trois méthodes qui peuvent vous guider dans cette démarche.
 Cette méthode propose de se baser sur des transactions de biens ou de services comparables. Afin de pouvoir agir à titre de comparables, les transactions doivent s’effectuer dans un secteur d’activité similaire, dans des conditions sociogéographiques analogues et à une date relativement récente. Par exemple, on peut comparer le prix avec ceux des soumissions demandées, avec des achats réels précédents ou encore par l’évaluation de la concurrence dans le même secteur d’activité. La méthode de comparaison doit aussi être contextualisée, car elle peut varier à l’intérieur d’un même secteur d’activité. En effet, la notoriété d’un événement hautement médiatisé, avec des statistiques de fréquentation bien documentées, ou la rareté d’un bien ou d’une œuvre, sont autant de facteurs qui peuvent influencer la JVM.
 
 **_Méthode du coût_**
-This method is based on the cost of a good or service (i.e., the cost of its manufacture).
+Cette méthode est basée sur le coût de revient d’un bien ou d’un service, c’est-à-dire de son coût de fabrication.
 
-In the case of goods, this method involves determining the replacement cost as of the current date, under the assumption that the actual cost reflects the market cost (i.e., the FMV). This method is similar to those used by insurance companies to determine the replacement cost of goods.
+Dans le cas d’un bien, la méthode propose de déterminer le coût d’une remise à neuf en date d’aujourd’hui en suivant l’hypothèse que le coût réel reflète celui du marché, soit la JVM. Cette méthode s’apparente au coût de remplacement à neuf d’un bien utilisé par les compagnies d’assurance.
 
-In the case of services, all indirect expenses incurred in the provision of the service must be taken into consideration (e.g., management costs, salaries or fees, telecom or utility costs, insurance, etc.). Evaluation of these indirect expenses makes it possible to estimate the true cost of the service and to evaluate that cost against market rates.
+Dans le cas d’un service, il faut prendre en considération l’ensemble des dépenses indirectes incluses dans la prestation de ce service (frais de gestion, salaires ou honoraires, télécommunications, services publics, assurances, etc.). L’évaluation de ces dépenses indirectes permet d’estimer le coût de revient du service et d’évaluer ce coût par rapport au marché comparable.
 
-It may be the case that the estimated cost ends up being higher than the market price. For example, if the cost of renting a gallery space was $5,000 per month, even as an equivalent space was available on the market for $2,000, the FMV may be reasonably justified by what is or is not included (e.g., technicians, bar service, caretaker, <a name="4" style="font-weight:normal;">insurance</a>, furniture, equipment, etc.).
+Il peut arriver que l’estimation du coût de revient soit supérieure au prix comparable sur le marché. Par exemple, si louer votre salle d’exposition revenait à 5 000 $ par mois alors qu’un local équivalent sur le marché est disponible pour 2 000 $ par mois, la JVM doit pouvoir se justifier raisonnablement par des inclusions et des exclusions (techniciens, service de bar, gardien, <a name="4" style="font-weight:normal;">assurances</a>, mobilier, équipements, etc.).
 
+**_Évaluation par un expert_**
+Dans le cas de biens exceptionnels ou de valeur importante (terrains, bâtiments, objets de collections et œuvres d’art), il peut être pertinent de faire appel à une tierce partie professionnelle et indépendante. On peut également constituer un comité d’experts ou de pairs qui se dotera de critères d’évaluation.
+#### <a href="#1" title="haut de page">^ haut</a>
