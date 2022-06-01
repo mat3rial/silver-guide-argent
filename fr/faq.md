@@ -104,3 +104,15 @@ _Produits (revenus) Commandites et échange de services_ – <a name="5" style="
 Le coût assumé par votre organisme serait donc de 400 $.
 #### <a href="#1" title="haut de page">^ haut</a>
 
+### Quelle est la différence entre un don et un échange de services?
+
+L’échange de biens ou de services est une transaction commerciale entre deux parties qui correspond à une **fourniture** taxable lorsque l’organisme est inscrit aux taxes. Fiscalement, le don, quant à lui, n’est jamais une fourniture taxable et n’est pas non plus assujetti aux taxes.
+
+Pour en savoir plus au sujet des dons, consultez la <a href="{{site.baseurl}}/fr/guide/2-règles-à-suivre/">section 2 du Guide argent</a>.
+
+Pour en savoir plus au sujet des échanges de services, consultez la <a href="{{site.baseurl}}/fr/guide/3-comptabilisation-échanges-non-monétaire/">section 3 du Guide argent</a>.
+
+Seuls les organismes de bienfaisance enregistrés peuvent délivrer un reçu de don de charité pour les dons en espèces, les dons de biens et les dons d’œuvre d’art. Les dons de services ne se qualifient pas pour l’émission d’un tel reçu à moins de faire l’objet de deux transactions distinctes, soit la prestation d’un service et la réception d’un don. À ce sujet, consultez la <a href="{{site.baseurl}}/fr/guide/5_3-don-de-services/">section 5.3 du Guide argent</a>.
+
+Les organismes à but non lucratif qui ne sont pas des organismes de bienfaisance enregistrés peuvent quand même recevoir des dons en espèces ou des dons de biens ou de services, mais ils n’ont pas le droit de délivrer des reçus de don de charité. Pour en savoir plus au sujet des organismes de bienfaisance, consultez la <a href="{{site.baseurl}}/fr/guide/5-reçus-dons-de-charité/">section 5 du Guide argent</a>.
+
