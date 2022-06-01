@@ -66,3 +66,15 @@ Il peut arriver que l’estimation du coût de revient soit supérieure au prix 
 **_Évaluation par un expert_**<br/>
 Dans le cas de biens exceptionnels ou de valeur importante (terrains, bâtiments, objets de collections et œuvres d’art), il peut être pertinent de faire appel à une tierce partie professionnelle et indépendante. On peut également constituer un comité d’experts ou de pairs qui se dotera de critères d’évaluation.
 #### <a href="#1" title="haut de page">^ haut</a>
+
+### Comment comptabiliser les transactions non monétaires dans votre système comptable?
+
+Veuillez consulter la <a href="{{site.baseurl}}/fr/guide/3-comptabilisation-échanges-non-monétaire/">section 3 du Guide argent</a> afin de déterminer préalablement que la valeur des opérations non monétaires relatives à des biens ou à des services peut être comptabilisée dans vos états financiers. Si c’est le cas, vous pouvez poursuivre la lecture.
+
+Pour tous les organismes ou entreprises, les revenus et les dépenses – ou, pour les OBNL, les produits et les charges – de l’exercice financier doivent apparaître dans le document État des résultats aux états financiers. Lorsqu’on effectue la soustraction produits moins charges, on obtient le résultat, soit un déficit ou un excédent, appelé aussi un profit.
+
+Dans le cas de la réception de transactions non monétaires sous la forme de dons ou d’échanges de biens ou de services, il est important de procéder adéquatement à leur inscription aux états financiers afin de ne pas générer un **faux profit** ou un **faux déficit**!
+
+Par exemple, votre organisme reçoit gratuitement une cartouche d’encre d’une valeur marchande de 175 $. La juste valeur du service ou du bien reçu constitue un revenu, appelé aussi un produit. Lors de l’inscription de cette transaction non monétaire dans le système comptable, on devrait donc inscrire les 175 $ dans un poste de produits. Mais l’organisme ne possède pas ces 175 $ en argent : il s’agit de la valeur marchande de cette cartouche d’encre. De plus, la cartouche d’encre a été utilisée et à la fin de l’exercice financier, elle est vide.
+
+Il est important de se rappeler que la troisième condition requise pour la comptabilisation d’un don est que **l’organisme aurait autrement dû l’acheter** (voir la <a href="{{site.baseurl}}/fr/guide/2-règles-à-suivre/">section 2 du Guide argent</a>). Il s’agit donc d’une dépense de fourniture de bureau qui a été couverte par la réception d’une cartouche d’encre gratuite. C’est pour cette raison qu’il est important d’inscrire aussi la valeur marchande de la cartouche d’encre dans un poste de charges, en contrepartie du don reçu. Ainsi, par symétrie, l’effet de faux profit s’annule dans le système comptable.
