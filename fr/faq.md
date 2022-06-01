@@ -184,3 +184,23 @@ En plus de lui rendre service, vous vous assurez d’avoir en main les documents
 <a name="9" style="font-weight:normal;">Poursuivez</a> votre lecture au point <a href="{{site.baseurl}}/fr/guide/3_2-lettre-entente-contrat/">3.2, « Lettre d’entente ou contrat ».</a>
 Vous trouverez un [gabarit de reçus de dons]({{ site.baseurl }}/assets/modèle-fr/MODELE_RECU_DON_f.docx) (distinct du reçu de don de charité) dans la boîte à outils du Guide argent.
 #### <a href="#1" title="haut de page">^ haut</a>
+
+### Peut-on calculer la valeur des services qu’un organisme offre à ses membres?
+
+Certains organismes offrent à leurs membres des avantages qui se traduisent en gratuités, en rabais ou en accès à certains services, au centre de documentation ou à de l’équipement spécialisé. Il s’agit de privilèges offerts aux membres.
+ 
+Pour devenir membre, une personne doit payer sa cotisation annuelle selon les règlements établis par l’organisme. Il est raisonnable de croire que la valeur marchande des services et de l’équipement offerts dépasse largement la valeur monétaire de la cotisation annuelle dans un OBNL. D’une certaine façon, l’organisme offre plus que ce qu’il reçoit directement en argent de ses membres. En fait, ce sont les subventions et les autres revenus autonomes qui permettent de financer les services offerts aux membres.
+
+Pour cette raison, il n’est pas recommandé de comptabiliser aux états financiers la valeur marchande des services offerts aux membres en contrepartie de la cotisation annuelle. Il ne s’agit pas d’une transaction non monétaire proprement dite.
+
+### Qu’en est-il de la JVM d’une œuvre d’art donnée en vue d’une vente aux enchères?
+
+Il est important de définir l’intention et le contexte du don d’une œuvre d’art. Par exemple, s’agit-il d’une collecte de fonds ou du montage d’une collection au sein de l’organisme? L’œuvre pourra-t-elle être vendue ou non?
+
+Pour établir la JVM d’une œuvre donnée, on retient la méthode d’évaluation par un expert ou un comité d’experts ou de pairs. Un document attestant la valeur de l’œuvre est produit après qu’on a convenu des critères d’évaluation.
+
+Dans le cas de biens exceptionnels ou de valeur importante (terrains, bâtiments, objets de collection et œuvres d’art d’artistes de renommée), il peut être pertinent de faire appel à une tierce partie professionnelle et indépendante.
+
+Pour l’émission, par un organisme de bienfaisance, d’un reçu de don de charité en contrepartie d’une œuvre, consultez les sections <a href="{{site.baseurl}}/fr/guide/5_2_1-don-par-artiste/">5.2.1.</a>, <a href="{{site.baseurl}}/fr/guide/5_2_2-don-œuvre-acquise/">5.2.2.</a> et <a href="{{site.baseurl}}/fr/guide/5_2_3-don-œuvre-reçue/">5.2.3.</a> du Guide argent.
+
+Également, plusieurs considérations fiscales et comptables sont à déterminer, telles que les taxes pour les organismes, les taxes pour les artistes inscrits, les œuvres qui constituent un actif pour l’organisme receveur et l’amortissement des œuvres d’art. Votre CPA peut vous accompagner dans ces opérations comptables.
