@@ -50,3 +50,16 @@ L’évaluation de la JVM peut aussi varier dans le temps, car la JVM est établ
 Les parties engagées dans une transaction non monétaire doivent être en mesure de justifier leur méthode d’évaluation auprès des autorités fiscales. Votre comptable professionnel agréé (CPA) peut vous accompagner dans la détermination d’une méthode d’évaluation et vous expliquer les pièces justificatives requises.
 
 Voici trois méthodes qui peuvent vous guider dans cette démarche.
+
+**_Méthode de comparaison_**
+Cette méthode propose de se baser sur des transactions de biens ou de services comparables. Afin de pouvoir agir à titre de comparables, les transactions doivent s’effectuer dans un secteur d’activité similaire, dans des conditions sociogéographiques analogues et à une date relativement récente. Par exemple, on peut comparer le prix avec ceux des soumissions demandées, avec des achats réels précédents ou encore par l’évaluation de la concurrence dans le même secteur d’activité. La méthode de comparaison doit aussi être contextualisée, car elle peut varier à l’intérieur d’un même secteur d’activité. En effet, la notoriété d’un événement hautement médiatisé, avec des statistiques de fréquentation bien documentées, ou la rareté d’un bien ou d’une œuvre, sont autant de facteurs qui peuvent influencer la JVM.
+
+**_Méthode du coût_**
+This method is based on the cost of a good or service (i.e., the cost of its manufacture).
+
+In the case of goods, this method involves determining the replacement cost as of the current date, under the assumption that the actual cost reflects the market cost (i.e., the FMV). This method is similar to those used by insurance companies to determine the replacement cost of goods.
+
+In the case of services, all indirect expenses incurred in the provision of the service must be taken into consideration (e.g., management costs, salaries or fees, telecom or utility costs, insurance, etc.). Evaluation of these indirect expenses makes it possible to estimate the true cost of the service and to evaluate that cost against market rates.
+
+It may be the case that the estimated cost ends up being higher than the market price. For example, if the cost of renting a gallery space was $5,000 per month, even as an equivalent space was available on the market for $2,000, the FMV may be reasonably justified by what is or is not included (e.g., technicians, bar service, caretaker, <a name="4" style="font-weight:normal;">insurance</a>, furniture, equipment, etc.).
+
