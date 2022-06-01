@@ -135,14 +135,16 @@ Many people volunteer with non-profit organizations. Can we account for voluntee
 
 In accordance with accounting standards for non-profit organizations, if an organization accounts for volunteer contributions in its financial statements, it must ensure that three criteria are met:
 <ul>
-<li>1 The fair market value (see the <a href="{{site.baseurl}}/en/toolkit/glossary/">Silver Guide glossary</a>) of these contributions can be reasonably estimated;</li>
-  <li>2 The goods and services received are used for operational purposes;</li>
-<li>3 The goods and services received are of a kind that the organization would have otherwise purchased.</li>
+<li>1. The fair market value (see the <a href="{{site.baseurl}}/en/toolkit/glossary/">Silver Guide glossary</a>) of these contributions can be reasonably estimated;</li>
+  <li>2. The goods and services received are used for operational purposes;</li>
+<li>3. The goods and services received are of a kind that the organization would have otherwise purchased.</li>
  </ul>
 
-In general, volunteer labour is not recorded in an organization’s revenues and expenses, for two reasons:<ul>
-<li>1 Evaluating its fair value is too difficult;</li>
-<li>2 The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.</li>
+In general, volunteer labour is not recorded in an organization’s revenues and expenses, for two reasons:
+
+<ul>
+<li>1. Evaluating its fair value is too difficult;</li>
+<li>2. The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.</li>
  </ul>
 
 However, such information can be included in the notes to the financial statements.
