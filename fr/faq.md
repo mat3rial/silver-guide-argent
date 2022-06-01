@@ -167,7 +167,7 @@ Selon le plan de visibilité proposé, le premier commanditaire se verra offrir 
 On se <a name="8" style="font-weight:normal;">rappelle</a> que l’évaluation de la JVM n’est pas une science exacte et qu’il n’existe pas de barèmes universels. Il est possible d’utiliser plusieurs méthodes pour établir la JVM, soit la méthode de comparaison, la méthode du coût ou la méthode de l’évaluation par un expert. À ce sujet, nous vous invitons à lire la FAQ <a href="#3">Comment déterminer la juste valeur marchande (JVM) des opérations non monétaires</a>.
 #### <a href="#1" title="haut de page">^ haut</a>
 
-## Est-on obligé de produire un document lorsqu’on effectue une transaction non monétaire?
+### Est-on obligé de produire un document lorsqu’on effectue une transaction non monétaire?
 
 D’un point de vue de reddition de compte et d’audit comptable et fiscal, un document est requis pour attester toute transaction non monétaire comptabilisée aux états financiers.
 
