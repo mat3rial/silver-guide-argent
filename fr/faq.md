@@ -115,4 +115,8 @@ Pour en savoir plus au sujet des échanges de services, consultez la <a href="{{
 Seuls les organismes de bienfaisance enregistrés peuvent délivrer un reçu de don de charité pour les dons en espèces, les dons de biens et les dons d’œuvre d’art. Les dons de services ne se qualifient pas pour l’émission d’un tel reçu à moins de faire l’objet de deux transactions distinctes, soit la prestation d’un service et la réception d’un don. À ce sujet, consultez la <a href="{{site.baseurl}}/fr/guide/5_3-don-de-services/">section 5.3 du Guide argent</a>.
 
 Les organismes à but non lucratif qui ne sont pas des organismes de bienfaisance enregistrés peuvent quand même recevoir des dons en espèces ou des dons de biens ou de services, mais ils n’ont pas le droit de délivrer des reçus de don de charité. Pour en savoir plus au sujet des organismes de bienfaisance, consultez la <a href="{{site.baseurl}}/fr/guide/5-reçus-dons-de-charité/">section 5 du Guide argent</a>.
+#### <a href="#1" title="haut de page">^ haut</a>
+
+### Quelle est la différence entre une commandite et un échange de services?
+
 
