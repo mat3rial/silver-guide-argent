@@ -132,10 +132,12 @@ Des <a name="61" style="font-weight:normal;">transactions</a> commerciales peuve
 
 Plusieurs personnes s’impliquent bénévolement dans les organismes à but non lucratif. Peut-on comptabiliser ce bénévolat sous la forme de dons? Tout d’abord, nous vous invitons à consulter la <a href="{{site.baseurl}}/fr/guide/2-règles-à-suivre/">section 2 du Guide argent, « Comptabilisation des dons reçus sous forme de biens ou de services ».</a>
 
-Conformément aux normes comptables applicables aux organismes sans but lucratif, pour constater ces dons dans ses états financiers, l’organisme doit s’assurer que les trois conditions suivantes sont respectées :<br/>
-1. la juste valeur (consultez <a href="{{site.baseurl}}/fr/boîte_à_outils/lexique/">la lexique du Guide argent</a>)  de ces dons peut faire l’objet d’une estimation fiable;<br/>
-2. les biens et services reçus sont utilisés dans le cadre du fonctionnement courant;<br/>
-3. l’organisme aurait autrement dû les acheter.
+Conformément aux normes comptables applicables aux organismes sans but lucratif, pour constater ces dons dans ses états financiers, l’organisme doit s’assurer que les trois conditions suivantes sont respectées :
+<ul>
+<li>1. la juste valeur (consultez <a href="{{site.baseurl}}/fr/boîte_à_outils/lexique/">la lexique du Guide argent</a>)  de ces dons peut faire l’objet d’une estimation fiable;</li>
+<li>2. les biens et services reçus sont utilisés dans le cadre du fonctionnement courant;</li>
+  <li>3. l’organisme aurait autrement dû les acheter.</li>
+ </ul>
 
 De manière générale, les organismes ne comptabilisent pas systématiquement tout le bénévolat dans leurs états financiers, et ce, pour les deux raisons suivantes :
 
