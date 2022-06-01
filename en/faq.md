@@ -78,8 +78,7 @@ For all organizations and businesses, revenues and expenses for the fiscal year 
 
 In cases of non-monetary transactions of goods or services received as gifts or via barter, it is important to properly record these in the financial statements so as not to generate a **false profit** or a **false deficit**.
 
-For example, suppose your organization receives a printer ink cartridge for free, with a market value of $175. The FMV of such a good or service received constitutes a revenue.
-When recording this non-monetary transaction in the accounting system, the $175 should therefore be recorded in a revenue line item. The organization does not hold the $175 in cash: it is simply the market value of the ink cartridge. Further, by the fiscal year-end, the ink cartridge has been used and is empty.
+For example, suppose your organization receives a printer ink cartridge for free, with a market value of $175. The FMV of such a good or service received constitutes a revenue. When recording this non-monetary transaction in the accounting system, the $175 should therefore be recorded in a revenue line item. The organization does not hold the $175 in cash: it is simply the market value of the ink cartridge. Further, by the fiscal year-end, the ink cartridge has been used and is empty.
 
 It is important to remember that the third requirement when accounting for a gift is that it be something that the organization would otherwise have had to purchase (<a href="{{site.baseurl}}/en/guide/2-rules-to-follow/">see section 2 of the Silver Guide</a>). It is therefore an office supply expense that is covered, in this example, by receipt of the free cartridge. For this reason, it is important also to enter the market value of the ink cartridge in an expense line item, in return for the donation received. Thus, through the symmetry of the accounting system, the false profit effect is cancelled out.
 
