@@ -210,3 +210,4 @@ In cases of exceptional or high-end assets (land, buildings, collectibles, works
 On the issuance of charitable donation receipts by charitable organizations in return for artworks, see sections <a href="{{site.baseurl}}/en/guide/5_2_1-donation-by-artist/">5.2.1</a>, <a href="{{site.baseurl}}/en/guide/5_2_2-donation-purchased-work/">5.2.2</a>, and <a href="{{site.baseurl}}/en/guide/5_2_3-donation-inherited-work/">5.2.3</a> of the Silver Guide.
 
 Various tax and accounting considerations must also be addressed, including tax calculation both for organizations as well as for registered artists, which kinds of artworks constitute assets for the recipient organization, and amortization of artworks. Your CPA can help you with these accounting operations.
+#### <a href="#1" title="back to top">^ top</a>
