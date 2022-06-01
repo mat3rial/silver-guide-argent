@@ -22,5 +22,13 @@ lang: fr
 ### Que signifie le titre « Guide argent »?
 
 <a name="2" style="font-weight:normal;">Le</a> titre du « Guide argent » a été choisi pour évoquer la notion monétaire sans avoir à décliner le titre au complet (_Le Guide argent des opérations non monétaires_). Ce titre visait aussi à inscrire l’ouvrage dans la suite des ressources réalisées par l’ARCA, soit _Le Petit Gris : guide de l’édition en art et de la distribution autogérée_, et même de celles réalisées par le RCAAQ dans sa série de petits guides (rouge, bleu, orange et vert).
+#### <a href="#1" title="haut de page">^ haut</a>
 
+### Pourquoi comptabiliser les opérations non monétaires?
+
+Dans la plupart des montages financiers, l’organisme qui sollicite une aide financière est tenu de représenter sa propre participation, voire contribution au financement global de ses activités. Un bailleur de fonds pourrait ne financer qu’une partie du montage financier et exiger qu’un pourcentage provienne d’autres sources de revenus.
+
+Dans le cas d’une subvention salariale, les coûts liés aux frais fixes (loyer, assurances, etc.), à la supervision et à la fourniture d’un poste de travail seraient couverts par le financement de base de l’organisme. Mais quand l’organisme doit, dans sa <a name="3" style="font-weight:normal;">demande</a> de financement de base, démontrer qu’un pourcentage de son financement global provient d’autres sources, on présume qu’il a accès à d’autres niveaux de financement public pour réduire sa dépendance à un seul bailleur de fonds. Si on prend par exemple le financement offert par les conseils des arts au niveau provincial, toutes les provinces ne sont pas égales : en 2019-2020, la moyenne du financement des centres d’artistes autogérés au Conseil des arts de l’Ontario était de 32 611 $ comparativement à celle des centres soutenus par le Conseil des arts et des lettres du Québec, qui se situait à 142 705 $.
+
+Pour combler cette grande disparité dans le financement provincial (et municipal), certains organismes doivent saisir toutes les possibilités offertes par leurs partenariats et convertir en valeur comptable les apports non monétaires reçus, qui les aideront à atteindre le pourcentage requis pour se qualifier au financement.
 #### <a href="#1" title="haut de page">^ haut</a>
