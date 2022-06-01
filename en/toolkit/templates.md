@@ -18,6 +18,8 @@ permalink: "/en/toolkit/templates/"
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="DONATION RECEIPT"/>[DONATION RECEIPT]({{ site.baseurl }}/assets/template-en/MODEL_RECEIPT_DONATION_e.docx) (.docx)
 
+<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="DONATION RECEIPT OFFICIAL"/>[OFFICIAL DONATION RECEIPT]({{ site.baseurl }}/assets/template-en/receipt_donation.doc) (.doc)
+
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="FAQ FOR ART DONORS"/>[FAQ FOR ART DONORS]({{ site.baseurl }}/assets/template-en/FAQ_art_donors.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="INVOICE FOR DONATION 1"/>[INVOICE FOR DONATION 1]({{ site.baseurl }}/assets/template-en/invoice_donation_1.pdf) (.pdf)
@@ -29,8 +31,6 @@ permalink: "/en/toolkit/templates/"
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER FOR RAFFLE DONOR"/>[LETTER FOR RAFFLE DONOR]({{ site.baseurl }}/assets/template-en/letter_raffle_donor.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="LETTER FOR CASH SPONSOR"/>[LETTER FOR CASH SPONSOR]({{ site.baseurl }}/assets/template-en/letter_request_cash_sponsor.doc) (.doc)
-
-<img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="OFFICIAL DONATION RECEIPT"/>[OFFICIAL DONATION RECEIPT]({{ site.baseurl }}/assets/template-en/receipt_donation.doc) (.doc)
 
 <img class="doc" src="{{ site.baseurl }}/assets/img/archive.svg" alt="RAFFLE DONOR FORM"/>[RAFFLE DONOR FORM]({{ site.baseurl }}/assets/template-en/form_donations_raffle.doc) (.doc)
 
