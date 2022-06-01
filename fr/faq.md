@@ -190,6 +190,7 @@ Certains organismes offrent à leurs membres des avantages qui se traduisent en 
 Pour devenir membre, une personne doit payer sa cotisation annuelle selon les règlements établis par l’organisme. Il est raisonnable de croire que la valeur marchande des services et de l’équipement offerts dépasse largement la valeur monétaire de la cotisation annuelle dans un OBNL. D’une certaine façon, l’organisme offre plus que ce qu’il reçoit directement en argent de ses membres. En fait, ce sont les subventions et les autres revenus autonomes qui permettent de financer les services offerts aux membres.
 
 Pour cette raison, il n’est pas recommandé de comptabiliser aux états financiers la valeur marchande des services offerts aux membres en contrepartie de la cotisation annuelle. Il ne s’agit pas d’une transaction non monétaire proprement dite.
+#### <a href="#1" title="haut de page">^ haut</a>
 
 ### Qu’en est-il de la JVM d’une œuvre d’art donnée en vue d’une vente aux enchères?
 
