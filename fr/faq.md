@@ -195,9 +195,9 @@ Pour cette raison, il n’est pas recommandé de comptabiliser aux états financ
 
 Il est important de définir l’intention et le contexte du don d’une œuvre d’art. Par exemple, s’agit-il d’une collecte de fonds ou du montage d’une collection au sein de l’organisme? L’œuvre pourra-t-elle être vendue ou non?
 
-Pour établir la JVM d’une œuvre donnée, on retient la méthode d’évaluation par un expert ou un comité d’experts ou de pairs. Un document attestant la valeur de l’œuvre est produit après qu’on a convenu des critères d’évaluation.
+Pour établir la JVM d’une œuvre donnée, on retient la méthode d’évaluation par un expert ou un comité d’experts ou de pairs. Un document attestant la valeur de l’&oelig;uvre est produit après qu’on a convenu des critères d’évaluation.
 
-Dans le cas de biens exceptionnels ou de valeur importante (terrains, bâtiments, objets de collection et œuvres d’art d’artistes de renommée), il peut être pertinent de faire appel à une tierce partie professionnelle et indépendante.
+Dans le cas de biens exceptionnels ou de valeur importante (terrains, bâtiments, objets de collection et &oelig;uvres d’art d’artistes de renommée), il peut être pertinent de faire appel à une tierce partie professionnelle et indépendante.
 
 Pour l’émission, par un organisme de bienfaisance, d’un reçu de don de charité en contrepartie d’une œuvre, consultez les sections <a href="{{site.baseurl}}/fr/guide/5_2_1-don-par-artiste/">5.2.1</a>, <a href="{{site.baseurl}}/fr/guide/5_2_2-don-œuvre-acquise/">5.2.2</a> et <a href="{{site.baseurl}}/fr/guide/5_2_3-don-œuvre-reçue/">5.2.3</a> du Guide argent.
 
