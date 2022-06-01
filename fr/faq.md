@@ -18,3 +18,9 @@ lang: fr
 <li><a href="#9">Peut-on calculer la valeur des services qu’un organisme offre à ses membres?</a></li>
  <li><a href="#10">Qu’en est-il de la JVM d’une œuvre d’art donnée en vue d’une vente aux enchères?</a></li>
 </ul>
+
+### Que signifie le titre « Guide argent »?
+
+<a name="2" style="font-weight:normal;">Le</a> titre du « Guide argent » a été choisi pour évoquer la notion monétaire sans avoir à décliner le titre au complet (_Le Guide argent des opérations non monétaires_). Ce titre visait aussi à inscrire l’ouvrage dans la suite des ressources réalisées par l’ARCA, soit _Le Petit Gris : guide de l’édition en art et de la distribution autogérée_, et même de celles réalisées par le RCAAQ dans sa série de petits guides (rouge, bleu, orange et vert).
+
+#### <a href="#1" title="haut de page">^ haut</a>
