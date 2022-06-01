@@ -139,7 +139,9 @@ In accordance with accounting standards for non-profit organizations, if an orga
 2 - The goods and services received are used for operational purposes;<br/>
 3 - The goods and services received are of a kind that the organization would have otherwise purchased.
 
-In general, volunteer labour is not recorded in an organization’s revenues and expenses, for two reasons: <br/>
+In general, volunteer labour is not recorded in an organization’s revenues and expenses, for two reasons:
+<br/>
+
 1 - Evaluating its fair value is too difficult;<br/>
 2 - The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.
 
