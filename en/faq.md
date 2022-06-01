@@ -160,7 +160,7 @@ Please note: only registered charities may issue charitable donation receipts. A
 
 In the case of an event or a program, it is common to negotiate exchanges of services with various partners in return for visibility. This is a sponsorship. It is necessary to offer fair visibility to these sponsoring partners.
 
-It is recommended that the organization establish a visibility plan that functions in progressive stages or packages. Such a plan will permit account recognition of the visibility offered in the context of non-monetary transactions with multiple sponsors. The \[visibility plan template({{ site.baseurl }}/assets/template-en/PLAN_VISIBILITY_e.docx) found in the Silver Guide toolbox offers some helpful ideas in this regard.
+It is recommended that the organization establish a visibility plan that functions in progressive stages or packages. Such a plan will permit account recognition of the visibility offered in the context of non-monetary transactions with multiple sponsors. The [visibility plan template]({{ site.baseurl }}/assets/template-en/PLAN_VISIBILITY_e.docx) found in the Silver Guide toolbox offers some helpful ideas in this regard.
 
 Consider the fictitious example of an organization that receives free rental of a digital projector for a ten-day event. The fair market value is set at $450. A second sponsor donates a free buffet for the launch, valued at $675. In exchange, both organizations are offered visibility. A visibility plan is established for the event, to be available in packages according to the market value of the contribution: package A, for contributions valued $250–$499; package B, for $500–$999; package C, for $1,000–$1,500, and so on.
 
