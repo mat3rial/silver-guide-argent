@@ -114,9 +114,16 @@ Pour en savoir plus au sujet des échanges de services, consultez la <a href="{{
 
 Seuls les organismes de bienfaisance enregistrés peuvent délivrer un reçu de don de charité pour les dons en espèces, les dons de biens et les dons d’œuvre d’art. Les dons de services ne se qualifient pas pour l’émission d’un tel reçu à moins de faire l’objet de deux transactions distinctes, soit la prestation d’un service et la réception d’un don. À ce sujet, consultez la <a href="{{site.baseurl}}/fr/guide/5_3-don-de-services/">section 5.3 du Guide argent</a>.
 
-Les organismes à but non lucratif qui ne sont pas des organismes de bienfaisance enregistrés peuvent quand même recevoir des dons en espèces ou des dons de biens ou de services, mais ils n’ont pas le droit de délivrer des reçus de don de charité. Pour en savoir plus au sujet des organismes de bienfaisance, consultez la <a href="{{site.baseurl}}/fr/guide/5-reçus-dons-de-charité/">section 5 du Guide argent</a>.
+Les <a name="6" style="font-weight:normal;">organismes</a> à but non lucratif qui ne sont pas des organismes de bienfaisance enregistrés peuvent quand même recevoir des dons en espèces ou des dons de biens ou de services, mais ils n’ont pas le droit de délivrer des reçus de don de charité. Pour en savoir plus au sujet des organismes de bienfaisance, consultez la <a href="{{site.baseurl}}/fr/guide/5-reçus-dons-de-charité/">section 5 du Guide argent</a>.
 #### <a href="#1" title="haut de page">^ haut</a>
 
 ### Quelle est la différence entre une commandite et un échange de services?
 
+Contrairement aux dons reçus (biens ou services), la commandite et l’échange de services impliquent une transaction équivalente entre deux parties.
 
+La commandite est un don d’argent, de biens ou de services en échange de visibilité promotionnelle. Fiscalement, la commandite se nomme **parrainage**. Sur le plan du traitement des taxes à la consommation, la commandite n’est pas une fourniture taxable et, à moins d’exception, n’est pas assujettie aux taxes. Pour connaître les exceptions applicables, consultez la <a href="{{site.baseurl}}/en/guide/4_2-parrainage-commandite/">section 4.2 du Guide argent</a>.
+
+L’échange de services est une transaction commerciale entre deux parties. Techniquement, la transaction est comptabilisée comme une vente réciproque, mais au lieu d’échanger de l’argent, il peut s’agir d’un échange de biens ou de services de valeur équivalente. Sur le plan du traitement des taxes à la consommation, l’échange de services est une fourniture taxable et les taxes s’appliquent pour les parties inscrites aux taxes. Pour en savoir plus, consultez la <a href="{{site.baseurl}}/en/guide/4_incidence-taxe/">section 4 du Guide argent</a>.
+
+Des <a name="61" style="font-weight:normal;">transactions</a> commerciales peuvent aussi prendre la forme d’un rabais en contrepartie d’une visibilité, ou encore d’une réduction de la facture en échange de services. Dans ces cas, il est important de déterminer si les taxes à la consommation s’appliquent, selon que votre organisme est inscrit ou non aux taxes. Pour en savoir plus, consultez la <a href="{{site.baseurl}}/en/guide/4_1-échange-valeur-équivalente/">section 4.1 du Guide argent</a>.
+#### <a href="#1" title="haut de page">^ haut</a>
