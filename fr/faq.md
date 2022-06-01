@@ -134,15 +134,15 @@ Plusieurs personnes s’impliquent bénévolement dans les organismes à but non
 
 Conformément aux normes comptables applicables aux organismes sans but lucratif, pour constater ces dons dans ses états financiers, l’organisme doit s’assurer que les trois conditions suivantes sont respectées :
 <ul>
-<li>1. la juste valeur (consultez <a href="{{site.baseurl}}/fr/boîte_à_outils/lexique/">la lexique du Guide argent</a>)  de ces dons peut faire l’objet d’une estimation fiable;</li>
-<li>2. les biens et services reçus sont utilisés dans le cadre du fonctionnement courant;</li>
-  <li>3. l’organisme aurait autrement dû les acheter.</li>
+<li>1 la juste valeur (consultez <a href="{{site.baseurl}}/fr/boîte_à_outils/lexique/">la lexique du Guide argent</a>)  de ces dons peut faire l’objet d’une estimation fiable;</li>
+<li>2 les biens et services reçus sont utilisés dans le cadre du fonctionnement courant;</li>
+  <li>3 l’organisme aurait autrement dû les acheter.</li>
  </ul>
 
 De manière générale, les organismes ne comptabilisent pas systématiquement tout le bénévolat dans leurs états financiers, et ce, pour les deux raisons suivantes :
 <ul>
-  <li>1. L’évaluation de la juste valeur est trop difficile;</li>
-<li>2. L’organisme n’a pas la capacité financière d’acheter ces services, donc la troisième condition voulant que, n’eût été ce don, il ait quand même acheté ces services n’est pas remplie.</li>
+  <li>1 L’évaluation de la juste valeur est trop difficile;</li>
+<li>2 L’organisme n’a pas la capacité financière d’acheter ces services, donc la troisième condition voulant que, n’eût été ce don, il ait quand même acheté ces services n’est pas remplie.</li>
  </ul>
 
 Cependant, il est possible d’inscrire une mention de bénévolat aux états financiers sans les inscrire dans les registres comptables. Il s’agit d’ajouter une note afférente aux états financiers. Pour voir un exemple de note afférente aux états financiers, consultez la <a href="{{site.baseurl}}/fr/guide/2_2-présentation-états-financiers/">section 2.2 du Guide argent</a>. Pour voir un modèle d’outil de suivi des bénévoles, consultez le [registre des bénévoles]({{ site.baseurl }}/assets/modèle-fr/registre_bénévoles.xls) dans la boîte à outils.
