@@ -171,3 +171,16 @@ On se <a name="8" style="font-weight:normal;">rappelle</a> que l’évaluation d
 
 ## Est-on obligé de produire un document lorsqu’on effectue une transaction non monétaire?
 
+D’un point de vue de reddition de compte et d’audit comptable et fiscal, un document est requis pour attester toute transaction non monétaire comptabilisée aux états financiers.
+
+La JVM du service ou du bien reçu est normalement établie par la personne qui fait le don selon le prix de vente habituel que paient ses clients et partenaires. Consultez la <a href="{{site.baseurl}}/fr/guide/3_1-évaluation-échange/">section 3.1, « Évaluation de l’échange », dans le Guide argent</a>.
+
+Une personne ou un organisme qui vous offre un don ou un service le fait aussi pour contribuer à un projet ou à une cause. On peut présumer qu’exiger une facture ou un contrat de la part de cette personne ou de cet organisme est susceptible de lui créer du travail supplémentaire, voire de démotiver le don.
+
+Afin d’éviter de générer des situations problématiques, il est conseillé que l’organisme qui reçoit le don propose de se charger de la production des documents de la transaction non monétaire et de les remplir pour le donateur.
+
+En plus de lui rendre service, vous vous assurez d’avoir en main les documents requis pour votre comptabilisation. Voilà une bonne pratique à intégrer!
+
+<a name="9" style="font-weight:normal;">Poursuivez</a> votre lecture au point <a href="{{site.baseurl}}/fr/guide/3_2-lettre-entente-contrat/">3.2, « Lettre d’entente ou contrat ».</a>
+Vous trouverez un [gabarit de reçus de dons]({{ site.baseurl }}/assets/modèle-fr/MODELE_RECU_DON_f.docx) (distinct du reçu de don de charité) dans la boîte à outils du Guide argent.
+#### <a href="#1" title="haut de page">^ haut</a>

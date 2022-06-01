@@ -188,7 +188,7 @@ In addition to doing your donor a favour, you also ensure that you have the docu
 
 <a name="9" style="font-weight:normal;">For</a> further reading, see <a href="{{site.baseurl}}/en/guide/3_2-letter-agreement-contract/">section 3.2 of the Silver Guide: “Letter of agreement or contract.”</a>
 A [template donation receipt]({{ site.baseurl }}/assets/template-en/MODEL_RECEIPT_DONATION_e.docx) (as distinguished from a charitable donation receipt) may also be found in the Silver Guide toolbox.
-#### <a href="#top" title="back to top">^ top</a>
+#### <a href="#1" title="back to top">^ top</a>
   
 ### How can we calculate the value of the services provided by an organization to its members?
 
