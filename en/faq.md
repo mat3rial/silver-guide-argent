@@ -133,14 +133,17 @@ The exchange of services is a commercial transaction between two parties. Techni
 
 Many people volunteer with non-profit organizations. Can we account for volunteering as a donation? Before you do anything else, please consult <a href="{{site.baseurl}}/en/guide/2-rules-to-follow/">section 2 of the Silver Guide: “Accounting for contributions received in the form of goods or services.”</a>
 
-In accordance with accounting standards for non-profit organizations, if an organization accounts for volunteer contributions in its financial statements, it must ensure that three criteria are met:<br/>
-1. The fair market value (see the <a href="{{site.baseurl}}/en/toolkit/glossary/">Silver Guide glossary</a>) of these contributions can be reasonably estimated;<br/>
-2. The goods and services received are used for operational purposes;<br/>
-3. The goods and services received are of a kind that the organization would have otherwise purchased.
+In accordance with accounting standards for non-profit organizations, if an organization accounts for volunteer contributions in its financial statements, it must ensure that three criteria are met:
+<ul>
+<li>1. The fair market value (see the <a href="{{site.baseurl}}/en/toolkit/glossary/">Silver Guide glossary</a>) of these contributions can be reasonably estimated;</li>
+  <li>2. The goods and services received are used for operational purposes;</li>
+<li>3. The goods and services received are of a kind that the organization would have otherwise purchased.</li>
+ </ul>
 
-In general, volunteer labour is not recorded in an organization’s revenues and expenses, for two reasons:<br/>
-1. Evaluating its fair value is too difficult;<br/>
-2. The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.
+In general, volunteer labour is not recorded in an organization’s revenues and expenses, for two reasons:<ul>
+<li>1. Evaluating its fair value is too difficult;</li>
+<li>2. The organization does not have the financial ability to purchase these services and therefore the third condition for accounting (that the organization would have otherwise purchased the service) cannot be met.</li>
+ </ul>
 
 However, such information can be included in the notes to the financial statements.
 
