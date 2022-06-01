@@ -12,6 +12,7 @@ lang: en
   <li><a href="#4">How to record non-monetary transactions in your accounting system?</a></li>
   <li><a href="#5">What is the difference between <a name="1">donation and barter of goods and services?</a></a></li>
 <li><a href="#6">What is the difference between a sponsorship and an exchange of services (barter)?</a></li>
+ <li><a href="#61">What is the difference between a donation and a volunteer contribution?</a></li>
 <li><a href="#7">How can visibility be accounted for in the context of exchanges of services between the organization and multiple partners?</a></li>
 <li><a href="#8">Is it necessary to produce documentary evidence of a non-monetary transaction?</a></li>
 <li><a href="#9">How can we calculate the value of the services provided by an organization to its members?</a></li>
@@ -126,9 +127,10 @@ A sponsorship is a donation of money, goods, or services in exchange for promoti
 
 The exchange of services is a commercial transaction between two parties. Technically, the transaction is counted as a reciprocal sale, but instead of exchanging money, it can be an exchange of goods or services of equivalent value. In terms of consumer tax, the exchange of services is a taxable supply and taxes apply for parties registered for taxes. For more information, see <a href="{{site.baseurl}}/en/guide/4-impact-taxes/">section 4 of the Silver Guide</a>.
 
-Commercial transactions can also take the form of a discount in return for visibility, or even an invoice discount in exchange for services. In these cases, it is important to determine if consumer taxes apply, depending on whether or not your organization is registered for taxes. For more information, see <a href="{{site.baseurl}}/en/guide/4_1-exhange-of-services-of-equal-value/">section 4.1 of the Silver Guide<a>.
+<a name="61" style="font-weight:normal;">Commercial</a> transactions can also take the form of a discount in return for visibility, or even an invoice discount in exchange for services. In these cases, it is important to determine if consumer taxes apply, depending on whether or not your organization is registered for taxes. For more information, see <a href="{{site.baseurl}}/en/guide/4_1-exhange-of-services-of-equal-value/">section 4.1 of the Silver Guide</a>.
+#### <a href="#1" title="back to top">^ top</a>
 
-**What is the difference between a donation and a volunteer contribution?**
+### What is the difference between a donation and a volunteer contribution?
 
 Many people volunteer with non-profit organizations. Can we account for volunteering as a donation? Before you do anything else, please consult <a href="{{site.baseurl}}/en/guide/2-rules-to-follow/">section 2 of the Silver Guide: “Accounting for contributions received in the form of goods or services.”</a>
 
