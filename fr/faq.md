@@ -204,3 +204,4 @@ Dans le cas de biens exceptionnels ou de valeur importante (terrains, bâtiments
 Pour l’émission, par un organisme de bienfaisance, d’un reçu de don de charité en contrepartie d’une œuvre, consultez les sections <a href="{{site.baseurl}}/fr/guide/5_2_1-don-par-artiste/">5.2.1.</a>, <a href="{{site.baseurl}}/fr/guide/5_2_2-don-œuvre-acquise/">5.2.2.</a> et <a href="{{site.baseurl}}/fr/guide/5_2_3-don-œuvre-reçue/">5.2.3.</a> du Guide argent.
 
 Également, plusieurs considérations fiscales et comptables sont à déterminer, telles que les taxes pour les organismes, les taxes pour les artistes inscrits, les œuvres qui constituent un actif pour l’organisme receveur et l’amortissement des œuvres d’art. Votre CPA peut vous accompagner dans ces opérations comptables.
+#### <a href="#1" title="haut de page">^ haut</a>
