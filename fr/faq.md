@@ -121,9 +121,34 @@ Les <a name="6" style="font-weight:normal;">organismes</a> à but non lucratif q
 
 Contrairement aux dons reçus (biens ou services), la commandite et l’échange de services impliquent une transaction équivalente entre deux parties.
 
-La commandite est un don d’argent, de biens ou de services en échange de visibilité promotionnelle. Fiscalement, la commandite se nomme **parrainage**. Sur le plan du traitement des taxes à la consommation, la commandite n’est pas une fourniture taxable et, à moins d’exception, n’est pas assujettie aux taxes. Pour connaître les exceptions applicables, consultez la <a href="{{site.baseurl}}/en/guide/4_2-parrainage-commandite/">section 4.2 du Guide argent</a>.
+La commandite est un don d’argent, de biens ou de services en échange de visibilité promotionnelle. Fiscalement, la commandite se nomme **parrainage**. Sur le plan du traitement des taxes à la consommation, la commandite n’est pas une fourniture taxable et, à moins d’exception, n’est pas assujettie aux taxes. Pour connaître les exceptions applicables, consultez la <a href="{{site.baseurl}}/fr/guide/4_2-parrainage-commandite/">section 4.2 du Guide argent</a>.
 
-L’échange de services est une transaction commerciale entre deux parties. Techniquement, la transaction est comptabilisée comme une vente réciproque, mais au lieu d’échanger de l’argent, il peut s’agir d’un échange de biens ou de services de valeur équivalente. Sur le plan du traitement des taxes à la consommation, l’échange de services est une fourniture taxable et les taxes s’appliquent pour les parties inscrites aux taxes. Pour en savoir plus, consultez la <a href="{{site.baseurl}}/en/guide/4_incidence-taxe/">section 4 du Guide argent</a>.
+L’échange de services est une transaction commerciale entre deux parties. Techniquement, la transaction est comptabilisée comme une vente réciproque, mais au lieu d’échanger de l’argent, il peut s’agir d’un échange de biens ou de services de valeur équivalente. Sur le plan du traitement des taxes à la consommation, l’échange de services est une fourniture taxable et les taxes s’appliquent pour les parties inscrites aux taxes. Pour en savoir plus, consultez la <a href="{{site.baseurl}}/fr/guide/4_incidence-taxe/">section 4 du Guide argent</a>.
 
-Des <a name="61" style="font-weight:normal;">transactions</a> commerciales peuvent aussi prendre la forme d’un rabais en contrepartie d’une visibilité, ou encore d’une réduction de la facture en échange de services. Dans ces cas, il est important de déterminer si les taxes à la consommation s’appliquent, selon que votre organisme est inscrit ou non aux taxes. Pour en savoir plus, consultez la <a href="{{site.baseurl}}/en/guide/4_1-échange-valeur-équivalente/">section 4.1 du Guide argent</a>.
+Des <a name="61" style="font-weight:normal;">transactions</a> commerciales peuvent aussi prendre la forme d’un rabais en contrepartie d’une visibilité, ou encore d’une réduction de la facture en échange de services. Dans ces cas, il est important de déterminer si les taxes à la consommation s’appliquent, selon que votre organisme est inscrit ou non aux taxes. Pour en savoir plus, consultez la <a href="{{site.baseurl}}/fr/guide/4_1-échange-valeur-équivalente/">section 4.1 du Guide argent</a>.
+#### <a href="#1" title="haut de page">^ haut</a>
+
+### Quelle est la différence entre un don reçu et le travail bénévole?
+
+Plusieurs personnes s’impliquent bénévolement dans les organismes à but non lucratif. Peut-on comptabiliser ce bénévolat sous la forme de dons? Tout d’abord, nous vous invitons à consulter la <a href="{{site.baseurl}}/fr/guide/2-règles-à-suivre/">section 2 du Guide argent, « Comptabilisation des dons reçus sous forme de biens ou de services ».</a>
+
+Conformément aux normes comptables applicables aux organismes sans but lucratif, pour constater ces dons dans ses états financiers, l’organisme doit s’assurer que les trois conditions suivantes sont respectées :<br/>
+\1. la juste valeur (consultez <a href="{{site.baseurl}}/fr/boîte_à_outils/lexique/">la lexique du Guide argent</a>)  de ces dons peut faire l’objet d’une estimation fiable;<br/>
+\2. les biens et services reçus sont utilisés dans le cadre du fonctionnement courant;<br/>
+\3. l’organisme aurait autrement dû les acheter.
+
+De manière générale, les organismes ne comptabilisent pas systématiquement tout le bénévolat dans leurs états financiers, et ce, pour les deux raisons suivantes :
+
+\1. L’évaluation de la juste valeur est trop difficile;
+\2. L’organisme n’a pas la capacité financière d’acheter ces services, donc la troisième condition voulant que, n’eût été ce don, il ait quand même acheté ces services n’est pas remplie.
+
+Cependant, il est possible d’inscrire une mention de bénévolat aux états financiers sans les inscrire dans les registres comptables. Il s’agit d’ajouter une note afférente aux états financiers. Pour voir un exemple de note afférente aux états financiers, consultez la <a href="{{site.baseurl}}/fr/guide/2_2-présentation-états-financiers/">section 2.2 du Guide argent</a>. Pour voir un modèle d’outil de suivi des bénévoles, consultez le [registre des bénévoles]({{ site.baseurl }}/assets/modèle-fr/registre_bénévoles.xls) dans la boîte à outils.
+
+Autrement, si l’organisme reçoit des dons ou des services, par exemple du travail de bureau exécuté gratuitement par un professionnel, et que, n’eût été ce don, l’organisme aurait quand même acheté ces services, il peut s’agir d’un don reçu sous forme de services.
+
+Pour en savoir plus au sujet de la comptabilisation des dons reçus sous forme de biens ou de services, consultez la <a href="{{site.baseurl}}/fr/guide/2_1_2-dons-de-services/">section 2.1.2 du Guide argent</a>.
+
+Dans tous les cas de bénévolat effectués dans votre organisme, il serait judicieux de vérifier que l’accomplissement de travail bénévole est couvert par l’assurance responsabilité civile de votre organisme ou protégé par la CNESST (au Québec) ou un autre organisme provincial de protection de la santé et sécurité des travailleuses et travailleurs et des normes du travail.
+
+Attention : seuls les organismes de bienfaisance enregistrés peuvent remettre des reçus de dons de charité. Les dons reçus par les <a name="7" style="font-weight:normal;">organismes</a> de bienfaisance enregistrés doivent répondre à certains critères pour qu’un tel reçu puisse être délivré. Malheureusement, le bénévolat ou les dons sous forme de services ne répondent pas à ces critères, à moins de faire l’objet de deux opérations distinctes : le paiement pour soit la prestation d’un service et la réception d’un don. Consultez la <a href="{{site.baseurl}}/fr/guide/5_3-don-de-services/">section 5.3. du Guide argent</a>.
 #### <a href="#1" title="haut de page">^ haut</a>
