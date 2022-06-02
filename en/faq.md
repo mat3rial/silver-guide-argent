@@ -167,7 +167,7 @@ It is recommended that the organization establish a visibility plan that functio
 
 Consider the fictitious example of an organization that receives free rental of a digital projector for a ten-day event. The fair market value is set at $450. A second sponsor donates a free buffet for the launch, valued at $675. In exchange, both organizations are offered visibility. A visibility plan is established for the event, to be available in packages according to the market value of the contribution: package A, for contributions valued $250–$499; package B, for $500–$999; package C, for $1,000–$1,500, and so on.
 
-According to the proposed plan, the first sponsor will be offered package A, as per the example provided in the visibility plan template.
+According to the proposed plan, the first sponsor will be offered package A, and the second sponsor, package B, as per the example provided in the visibility plan template.
 
 <a name="8" style="font-weight:normal;">Remember</a> that FMV valuation is not an exact science and that there are no universal scales. Several methods may be used to establish FMV: the comparison method, the cost method, or valuation by an expert. On this subject, please refer to the above FAQ item <a href="#3">How to determine the fair market value of non-monetary transactions</a>.
 #### <a href="#1" title="back to top">^ top</a>
