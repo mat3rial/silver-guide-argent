@@ -84,8 +84,8 @@ Afin de présenter fidèlement l’information financière aux états financiers
 Quant aux **charges**, elles peuvent être présentées distinctement ou bien se fondre dans la charte comptable existante, selon les pratiques de votre organisme. Votre CPA peut vous accompagner dans ces opérations comptables.
 
 Pour reprendre l’exemple de la réception d’une cartouche d’encre donnée, l’écriture comptable irait comme suit :<br/>
-_Charges (dépenses) Fournitures de bureau ou en nature_ – DT $175<br/>
-_Produits (revenus) Commandites et Échange de services_ – CT $175
+_Charges (dépenses) Fournitures de bureau ou en nature_ – débit (DT) $175<br/>
+_Produits (revenus) Commandites et Échange de services_ – crédit (CT) $175
 
 Le principe est le même lors d’un échange de services. Un montant correspondant à la JVM doit se retrouver dans un poste de produits et, par symétrie, dans un poste de charges.
 
@@ -151,7 +151,7 @@ Pour en savoir plus au sujet de la comptabilisation des dons reçus sous forme d
 
 Dans tous les cas de bénévolat effectués dans votre organisme, il serait judicieux de vérifier que l’accomplissement de travail bénévole est couvert par l’assurance responsabilité civile de votre organisme ou protégé par la CNESST (au Québec) ou un autre organisme provincial de protection de la santé et sécurité des travailleuses et travailleurs et des normes du travail.
 
-Attention : seuls les organismes de bienfaisance enregistrés peuvent remettre des reçus de dons de charité. Les dons reçus par les <a name="7" style="font-weight:normal;">organismes</a> de bienfaisance enregistrés doivent répondre à certains critères pour qu’un tel reçu puisse être délivré. Malheureusement, le bénévolat ou les dons sous forme de services ne répondent pas à ces critères, à moins de faire l’objet de deux opérations distinctes : le paiement pour soit la prestation d’un service et la réception d’un don. Consultez la <a href="{{site.baseurl}}/fr/guide/5_3-don-de-services/">section 5.3. du Guide argent</a>.
+Attention : seuls les organismes de bienfaisance enregistrés peuvent remettre des reçus de dons de charité. Les dons reçus par les <a name="7" style="font-weight:normal;">organismes</a> de bienfaisance enregistrés doivent répondre à certains critères pour qu’un tel reçu puisse être délivré. Malheureusement, le bénévolat ou les dons sous forme de services ne répondent pas à ces critères, à moins de faire l’objet de deux opérations distinctes : le paiement pour la prestation d’un service et la réception d’un don. Consultez la <a href="{{site.baseurl}}/fr/guide/5_3-don-de-services/">section 5.3. du Guide argent</a>.
 #### <a href="#1" title="haut de page">^ haut</a>
 
 ### Comment harmoniser la visibilité offerte dans le cadre d’échanges de services entre l’organisme et ses différents partenaires?
@@ -162,7 +162,7 @@ Il est recommandé d’établir un plan de visibilité qui fonctionne par palier
 
 Pour illustrer cette recommandation, prenons l’exemple fictif d’un organisme qui reçoit la location gratuite d’un projecteur numérique pour un événement de 10 jours. La juste valeur marchande est établie à 450 $. Un second commanditaire offre gratuitement un buffet pour le lancement d’une valeur de 675 $. Ces deux organismes se verront offrir une visibilité en échange. Un plan de visibilité est établi pour cet événement et se décline en forfaits selon la valeur marchande des contributions : le forfait A entre 250 $ et 499 $, le forfait B entre 500 $ et 999 $, le forfait C entre 1 000 $ et 1 500 $ et ainsi de suite.
 
-Selon le plan de visibilité proposé, le premier commanditaire se verra offrir le forfait A, conformément à ce modèle de plan de visibilité.
+Selon le plan de visibilité proposé, le premier commanditaire se verra offrir le forfait A, et le second, le forfait B, conformément à ce modèle de plan de visibilité.
 
 On se <a name="8" style="font-weight:normal;">rappelle</a> que l’évaluation de la JVM n’est pas une science exacte et qu’il n’existe pas de barèmes universels. Il est possible d’utiliser plusieurs méthodes pour établir la JVM, soit la méthode de comparaison, la méthode du coût ou la méthode de l’évaluation par un expert. À ce sujet, nous vous invitons à lire la FAQ <a href="#3">Comment déterminer la juste valeur marchande (JVM) des opérations non monétaires</a>.
 #### <a href="#1" title="haut de page">^ haut</a>
