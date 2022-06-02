@@ -6,7 +6,7 @@ lang: fr
 
 ---
 <ul>
-<li><a href="#1">Que signifie le titre « Guide argent »?</a></li>
+<li><a href="#1" style="text-decoration:underline;">Que signifie le titre « Guide argent »?</a></li>
 <li><a href="#2">Pourquoi comptabiliser les opérations non monétaires?</a></li>
 <li><a href="#3">Comment déterminer la juste valeur marchande des opérations non monétaires?</a></li>
 <li><a href="#4">Comment comptabiliser les transactions non monétaires dans votre système comptable?</a></li>
